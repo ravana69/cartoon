@@ -1,429 +1,1213 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T04:25:25.327Z</id>
+    <id>urn:2022-12-30T04:43:43.508Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T04:25:25.327Z</updated>
+    <updated>2022-12-30T04:43:43.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design]]></title>
-        <id>https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/"/>
-        <updated>2022-12-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.]]></summary>
+        <title type="html"><![CDATA[☺️🙏]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608675339378786305#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608675339378786305#m"/>
+        <updated>2022-12-30T04:04:23.000Z</updated>
+        <summary type="html"><![CDATA[☺️🙏
+nitter.net/ComicThief/status/1608673520430755840#m]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Matvienko)</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thank You (2022 Edition)]]></title>
-        <id>https://css-tricks.com/?p=375486</id>
-        <link href="https://css-tricks.com/thank-you-2022-edition/"/>
-        <updated>2022-12-28T15:46:15.000Z</updated>
-        <summary type="html"><![CDATA[You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…
-Thank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[आज का दिन  ठीक नहीं है #HIRABA #Pele #RishabhPant 😭]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608672845118443520#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608672845118443520#m"/>
+        <updated>2022-12-30T03:54:28.000Z</updated>
+        <summary type="html"><![CDATA[आज का दिन  ठीक नहीं है #HIRABA #Pele #RishabhPant 😭]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@cartoonistrrs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Command-Line Data Manipulation]]></title>
-        <id>https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/</id>
-        <link href="https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/"/>
-        <updated>2022-12-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.]]></summary>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo- 30 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1608672553220071424#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1608672553220071424#m"/>
+        <updated>2022-12-30T03:53:19.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo- 30 DECEMBER 2022]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alvin Bryan)</name>
+            <name>@IdharUddhar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deploying CSS Logical Properties On Web Apps]]></title>
-        <id>https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/</id>
-        <link href="https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/"/>
-        <updated>2022-12-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.]]></summary>
+        <title type="html"><![CDATA[श्रद्धांजलि 😰]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608657959718113282#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608657959718113282#m"/>
+        <updated>2022-12-30T02:55:19.000Z</updated>
+        <summary type="html"><![CDATA[श्रद्धांजलि 😰
+nitter.net/narendramodi/status/1608622111660331012#m]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nicolas Hoffmann)</name>
+            <name>@cartoonistrrs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/"/>
-        <updated>2022-12-23T02:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG]]></summary>
+        <title type="html"><![CDATA[RIP Legend! #Pele]]></title>
+        <id>https://nitter.net/satishacharya/status/1608651161556619264#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608651161556619264#m"/>
+        <updated>2022-12-30T02:28:18.000Z</updated>
+        <summary type="html"><![CDATA[RIP Legend! #Pele]]></summary>
         <author>
-            <name>Lynn Zheng</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Cache Expensive Database Queries Using the Momento Serverless Cache]]></title>
-        <id>https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/</id>
-        <link href="https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/"/>
-        <updated>2022-12-22T20:45:05.000Z</updated>
-        <summary type="html"><![CDATA[When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache]]></summary>
+        <title type="html"><![CDATA[Om Shanti
+https://indianexpress.com/article/sports/football/pele-dead-passes-away-brazil-8351398/]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608646710787723267#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608646710787723267#m"/>
+        <updated>2022-12-30T02:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Om Shanti
+indianexpress.com/article/sp…]]></summary>
         <author>
-            <name>Andrew Brown</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[String Equality in JavaScript – How to Compare Strings in JS]]></title>
-        <id>https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/"/>
-        <updated>2022-12-22T18:57:16.000Z</updated>
-        <summary type="html"><![CDATA[When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if]]></summary>
+        <title type="html"><![CDATA[Om Shanti!
+https://www.livemint.com/news/india/pm-narendra-modi-s-mother-heeraben-passes-away-at-100-11672361281008.html #HeerabenModi]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608645115400310784#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608645115400310784#m"/>
+        <updated>2022-12-30T02:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Om Shanti!
+livemint.com/news/india/pm-n… #HeerabenModi]]></summary>
         <author>
-            <name>Joel Olawanle</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding to a Dict in Python – How to Add to a Dictionary]]></title>
-        <id>https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/</id>
-        <link href="https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/"/>
-        <updated>2022-12-22T18:04:49.000Z</updated>
-        <summary type="html"><![CDATA[A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     "frontend": "JavaScript",     "backend": "Node JS",     "markup": "HTML and JSX", } To access]]></summary>
+        <title type="html"><![CDATA[R to @PRATHIP: Thanks]]></title>
+        <id>https://nitter.net/satishacharya/status/1608523950212124672#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608523950212124672#m"/>
+        <updated>2022-12-29T18:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Thanks]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Execution Context – How JS Works Behind the Scenes]]></title>
-        <id>https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/</id>
-        <link href="https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/"/>
-        <updated>2022-12-22T17:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are]]></summary>
+        <title type="html"><![CDATA[इंडिया टुडे ने फिर से साबित किया कि अगर सामने वाला शख्स आपको नकली सोने से भी तौल दे तो आप अपनी पत्रकारिता के स्तर को गोल्ड स्टैण्डर्ड का बता सकते हो।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608514962108080128#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608514962108080128#m"/>
+        <updated>2022-12-29T17:27:06.000Z</updated>
+        <summary type="html"><![CDATA[इंडिया टुडे ने फिर से साबित किया कि अगर सामने वाला शख्स आपको नकली सोने से भी तौल दे तो आप अपनी पत्रकारिता के स्तर को गोल्ड स्टैण्डर्ड का बता सकते हो।]]></summary>
         <author>
-            <name>Rwitesh Bera</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is enumerate() in Python? Enumeration Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-enumerate-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-enumerate-in-python/"/>
-        <updated>2022-12-22T15:56:07.000Z</updated>
-        <summary type="html"><![CDATA[The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to]]></summary>
+        <title type="html"><![CDATA[R to @SREERANJ: Thanks Sree]]></title>
+        <id>https://nitter.net/satishacharya/status/1608514410120900608#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608514410120900608#m"/>
+        <updated>2022-12-29T17:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Thanks Sree]]></summary>
         <author>
-            <name>Suchandra Datta</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filtering in C# – How to Filter a List with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/"/>
-        <updated>2022-12-21T21:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Filtering through a data set is one of the most basic operations a developer should know how to perform.  Filtering [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data]  refers to the process of restricting the result set to contain only those elements that satisfy a specified condition. It is also known as selection.  To]]></summary>
+        <title type="html"><![CDATA[R to @noushadart: 🙏 ser]]></title>
+        <id>https://nitter.net/satishacharya/status/1608513529828757504#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608513529828757504#m"/>
+        <updated>2022-12-29T17:21:24.000Z</updated>
+        <summary type="html"><![CDATA[🙏 ser]]></summary>
         <author>
-            <name>Edeh Israel Chidera</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type float [Solved Python Error]]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/"/>
-        <updated>2022-12-21T21:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Most times when you encounter errors while coding, you can discover the reason why the error is occurring and how you can fix it in the error message. The Python error, "TypeError: can't multiply sequence by non-int of type float" is no exception to that. I have prepared this article]]></summary>
+        <title type="html"><![CDATA[R to @MANJULtoons: पूरा एपिसोड https://youtu.be/1w-hM85D0ec]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608507192348651521#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608507192348651521#m"/>
+        <updated>2022-12-29T16:56:13.000Z</updated>
+        <summary type="html"><![CDATA[पूरा एपिसोड piped.video/1w-hM85D0ec]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Scapy – Python Networking Tool Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/"/>
-        <updated>2022-12-21T21:02:17.000Z</updated>
-        <summary type="html"><![CDATA[In this post you will learn about an amazing tool named Scapy. Scapy is a Python library that enables us to send, sniff, and dissect network frames.  It is useful in a variety of use cases, one of which is to actually get some hands-on experience when you learn]]></summary>
+        <title type="html"><![CDATA[R to @MANJULtoons: न्यूलॉन्द्री ने दूसरा अच्छा काम किया है ब्रेक में विज्ञापन दिखाने का। ये विज्ञापन देखे जाने योग्य है।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608505129493475333#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608505129493475333#m"/>
+        <updated>2022-12-29T16:48:02.000Z</updated>
+        <summary type="html"><![CDATA[न्यूलॉन्द्री ने दूसरा अच्छा काम किया है ब्रेक में विज्ञापन दिखाने का। ये विज्ञापन देखे जाने योग्य है।]]></summary>
         <author>
-            <name>Omer Rosenbaum</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Concurrent Programming in Go – Goroutines, Channels, and More Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/concurrent-programming-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/concurrent-programming-in-go/"/>
-        <updated>2022-12-21T19:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Concurrency refers to a programming language's ability to deal with lots of things at once. A good way to understand concurrency is by imagining multiple cars traveling on two lanes. Sometimes the cars overtake each other, and sometimes they stop and let others pass by. Another good example is when]]></summary>
+        <title type="html"><![CDATA[R to @AkshayUpadhya_: Thanks]]></title>
+        <id>https://nitter.net/satishacharya/status/1608504857950048256#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608504857950048256#m"/>
+        <updated>2022-12-29T16:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Thanks]]></summary>
         <author>
-            <name>Rwitesh Bera</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Roundup of Web Research]]></title>
-        <id>https://css-tricks.com/?p=375869</id>
-        <link href="https://css-tricks.com/2022-roundup-of-web-research/"/>
-        <updated>2022-12-21T15:03:50.000Z</updated>
-        <summary type="html"><![CDATA[We’ve started making a tradition of rounding up the latest front-end research at the end of each year. We did it in 2020 and again in 2021. Reports are released throughout the year by a bunch of different companies …
-2022 Roundup of Web Research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[R to @techbubble: Humbled! 🙏]]></title>
+        <id>https://nitter.net/satishacharya/status/1608504549526097925#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608504549526097925#m"/>
+        <updated>2022-12-29T16:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Humbled! 🙏]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Help choose the syntax for CSS Nesting]]></title>
-        <id>https://css-tricks.com/?p=376319</id>
-        <link href="https://css-tricks.com/help-choose-the-syntax-for-css-nesting/"/>
-        <updated>2022-12-20T16:04:54.000Z</updated>
-        <summary type="html"><![CDATA[CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Miriam put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.
-Now there’s another chance …
-Help choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[R to @sinmipe: It was an honour to draw this. Thanks to Nik]]></title>
+        <id>https://nitter.net/satishacharya/status/1608504427153096705#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608504427153096705#m"/>
+        <updated>2022-12-29T16:45:14.000Z</updated>
+        <summary type="html"><![CDATA[It was an honour to draw this. Thanks to Nik]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful Accessibility And Usability Examples To Help Improve Your Designs]]></title>
-        <id>https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/</id>
-        <link href="https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/"/>
-        <updated>2022-12-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.]]></summary>
+        <title type="html"><![CDATA[इस बार की टिप्पणी में गोयबल्स जोशी जी को अतिथि भूमिका में बुलाने का शुक्रिया @BeechBazar जी।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608501626851184640#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608501626851184640#m"/>
+        <updated>2022-12-29T16:34:07.000Z</updated>
+        <summary type="html"><![CDATA[इस बार की टिप्पणी में गोयबल्स जोशी जी को अतिथि भूमिका में बुलाने का शुक्रिया @BeechBazar जी।]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress Playground: Running WordPress in the Browser]]></title>
-        <id>https://css-tricks.com/?p=376297</id>
-        <link href="https://css-tricks.com/wordpress-playground-run-in-browser/"/>
-        <updated>2022-12-19T16:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.
-The friction of uploading files has gotten …
-WordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[R to @NarundarM: Oh!]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608499037724110848#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608499037724110848#m"/>
+        <updated>2022-12-29T16:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Oh!]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking The Stress Out Of Design System Management]]></title>
-        <id>https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/</id>
-        <link href="https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/"/>
-        <updated>2022-12-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.]]></summary>
+        <title type="html"><![CDATA[R to @techbubble: This is a wonderful initiative, Nik.]]></title>
+        <id>https://nitter.net/satishacharya/status/1608497087125291008#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608497087125291008#m"/>
+        <updated>2022-12-29T16:16:04.000Z</updated>
+        <summary type="html"><![CDATA[This is a wonderful initiative, Nik.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Masha Shaposhnikova)</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Infinite 3D Sliders]]></title>
-        <id>https://css-tricks.com/?p=375621</id>
-        <link href="https://css-tricks.com/css-infinite-3d-sliders/"/>
-        <updated>2022-12-16T14:58:08.000Z</updated>
-        <summary type="html"><![CDATA[In this series, we’ve been making image sliders with nothing but HTML and CSS. The idea is that we can use the same markup but different CSS to get wildly different results, no matter how many images we toss …
-CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RT by @satishacharya: Dear Artist, YOU are fine
+And YOUR Artworks are fine
+
+But you don't have a Sale
+Because the Market is a Fail
+
+There are too many Artists
+With too many Artworks
+
+Chasing too few Collectors
+With too limited Dollars
+
+Can't fix with more of the Same
+@NftyDreams is changing the Game]]></title>
+        <id>https://nitter.net/techbubble/status/1608496621645627392#m</id>
+        <link href="https://nitter.net/techbubble/status/1608496621645627392#m"/>
+        <updated>2022-12-29T16:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Dear Artist, YOU are fine
+@NftyDreams is changing the Game]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>@techbubble</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boosting Productivity For Designers With Efficient Tools]]></title>
-        <id>https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/</id>
-        <link href="https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/"/>
-        <updated>2022-12-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.]]></summary>
+        <title type="html"><![CDATA[@zoo_bear Happy birthday, Zubair brother! Have a great year ahead! 🥳🎂]]></title>
+        <id>https://nitter.net/satishacharya/status/1608492130359738368#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608492130359738368#m"/>
+        <updated>2022-12-29T15:56:22.000Z</updated>
+        <summary type="html"><![CDATA[@zoo_bear Happy birthday, Zubair brother! Have a great year ahead! 🥳🎂]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ashish Bogawat)</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
-        <id>https://css-tricks.com/?p=375714</id>
-        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
-        <updated>2022-12-15T15:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
-It’s a bit of a brain-twister to reason …
-So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: हवा में उड़ता जाये, लाल दुपट्टा मलमल का…हो जी, मोदी…..]]></title>
+        <id>https://nitter.net/AnumaVidisha/status/1608488000580911106#m</id>
+        <link href="https://nitter.net/AnumaVidisha/status/1608488000580911106#m"/>
+        <updated>2022-12-29T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[हवा में उड़ता जाये, लाल दुपट्टा मलमल का…हो जी, मोदी…..]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@AnumaVidisha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Prioritize User Security When Collecting Offline Data]]></title>
-        <id>https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/</id>
-        <link href="https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/"/>
-        <updated>2022-12-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
+        <title type="html"><![CDATA[R to @rakesh_pulapa: Fabulous, Rakesh!]]></title>
+        <id>https://nitter.net/satishacharya/status/1608480175003676673#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608480175003676673#m"/>
+        <updated>2022-12-29T15:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Fabulous, Rakesh!]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
+            <name>@satishacharya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Links on AI-Related Stuff]]></title>
-        <id>https://css-tricks.com/?p=376201</id>
-        <link href="https://css-tricks.com/some-links-on-ai-related-stuff/"/>
-        <updated>2022-12-14T21:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Every so often, I find that the links I save to read later fall into natural groups or patterns that reveal common threads of interest. The past couple of weeks have produced a lot of thoughts about ChatGPT, an …
-Some Links on AI-Related Stuff originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[🙏🙏🙏 थैंक यू, सर.]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608478081278263296#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608478081278263296#m"/>
+        <updated>2022-12-29T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[🙏🙏🙏 थैंक यू, सर.
+nitter.net/kaul_vivek/status/1608129394203316224#m]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unchain My Inaccessibly-Labelled Heart]]></title>
-        <id>https://css-tricks.com/?p=375952</id>
-        <link href="https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/"/>
-        <updated>2022-12-14T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Suzy Naschansky from the HTMHell Advent Calendar:
-<h2 id="article1-heading"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id="article1-read-more" aria-labelledby="article1-read-more article1-heading"Read more</a</p
-See that aria-labelledby attribute? It chains two IDs from the …
-Unchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[कुछ फ़र्क पड़ेगा? Today's #cartoon]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1608465394733572100#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1608465394733572100#m"/>
+        <updated>2022-12-29T14:10:08.000Z</updated>
+        <summary type="html"><![CDATA[कुछ फ़र्क पड़ेगा? Today's #cartoon]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@Kirtishbhat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holiday Snowtacular 2022]]></title>
-        <id>https://css-tricks.com/?p=376229</id>
-        <link href="https://css-tricks.com/holiday-snowtacular-2022/"/>
-        <updated>2022-12-13T23:03:49.000Z</updated>
-        <summary type="html"><![CDATA[We’ve got ourselves a real holiday treat! Join host Alex Trost from the Frontend Horse community for the Holiday Snowtacular 2022 this Friday, December 16.
-There’s a lineup of 12 awesome speakers — including Chris Coyier, Cassidy Williams, Kevin …
-Holiday Snowtacular 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[#HateSpeech @SadhviPragya_MP #PragyaThakur #BJPFailsIndia]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1608460219897745408#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1608460219897745408#m"/>
+        <updated>2022-12-29T13:49:34.000Z</updated>
+        <summary type="html"><![CDATA[#HateSpeech @SadhviPragya_MP #PragyaThakur #BJPFailsIndia]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@irshadkaptan1</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Privacy: Protect Your Users, Protect Yourself]]></title>
-        <id>https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/</id>
-        <link href="https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/"/>
-        <updated>2022-12-13T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[All of us want to create inclusive, safe, and privacy-aware digital experiences, but where to begin? Our brand new Smashing Book, “Understanding Privacy,” written by Heather Burns, can help you lay the ground for future developers, designers, and project managers to build a better web for tomorrow. [Jump to the details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) or [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).]]></summary>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: फरक पडेल काय?
+
+@Kirtishbhat]]></title>
+        <id>https://nitter.net/bbcnewsmarathi/status/1608457817232642049#m</id>
+        <link href="https://nitter.net/bbcnewsmarathi/status/1608457817232642049#m"/>
+        <updated>2022-12-29T13:40:01.000Z</updated>
+        <summary type="html"><![CDATA[फरक पडेल काय?
+@Kirtishbhat]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Heather Burns)</name>
+            <name>@bbcnewsmarathi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/</id>
-        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/"/>
-        <updated>2022-12-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
+        <title type="html"><![CDATA[RT by @satishacharya: Finally recieved @satishacharya's signed cartoon/sketch book on covid-19. His sketches are very powerful! What words cannot express, art does.]]></title>
+        <id>https://nitter.net/Areebuddin14/status/1608456547113500674#m</id>
+        <link href="https://nitter.net/Areebuddin14/status/1608456547113500674#m"/>
+        <updated>2022-12-29T13:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Finally recieved @satishacharya's signed cartoon/sketch book on covid-19. His sketches are very powerful! What words cannot express, art does.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>@Areebuddin14</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Few Times Container Size Queries Would Have Helped Me Out]]></title>
-        <id>https://css-tricks.com/?p=375728</id>
-        <link href="https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/"/>
-        <updated>2022-12-13T13:53:56.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container Queries are still gaining traction and many of us are getting our hands wet with them, even if it’s for little experiments or whatnot. They’ve got great, but not quite full, browser support — enough to justify using …
-A Few Times Container Size Queries Would Have Helped Me Out originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?
+
+#AdaniOnIndiaToday]]></title>
+        <id>https://nitter.net/shantanu1378/status/1608454791130419200#m</id>
+        <link href="https://nitter.net/shantanu1378/status/1608454791130419200#m"/>
+        <updated>2022-12-29T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?
+#AdaniOnIndiaToday]]></summary>
         <author>
-            <name>Dan Christofi</name>
+            <name>@shantanu1378</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Setting up a screen reader testing environment on your computer]]></title>
-        <id>https://css-tricks.com/?p=375722</id>
-        <link href="https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/"/>
-        <updated>2022-12-12T20:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …
-Setting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RT by @satishacharya: GM
+
+The Emojiland shot in Bali]]></title>
+        <id>https://nitter.net/rakesh_pulapa/status/1608454514931298304#m</id>
+        <link href="https://nitter.net/rakesh_pulapa/status/1608454514931298304#m"/>
+        <updated>2022-12-29T13:26:54.000Z</updated>
+        <summary type="html"><![CDATA[GM
+
+The Emojiland shot in Bali]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>@rakesh_pulapa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saving Settings for a Custom WordPress Block in the Block Editor]]></title>
-        <id>https://css-tricks.com/?p=375577</id>
-        <link href="https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/"/>
-        <updated>2022-12-12T14:06:39.000Z</updated>
-        <summary type="html"><![CDATA[We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …
-Saving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: ये जनाब अख़बार ऐसे नहीं ख़रीदते, वैसे ही ख़रीद लेते है।]]></title>
+        <id>https://nitter.net/anudeepjaglan/status/1608448389255139329#m</id>
+        <link href="https://nitter.net/anudeepjaglan/status/1608448389255139329#m"/>
+        <updated>2022-12-29T13:02:34.000Z</updated>
+        <summary type="html"><![CDATA[ये जनाब अख़बार ऐसे नहीं ख़रीदते, वैसे ही ख़रीद लेते है।
+nitter.net/cartoonistrrs/status/1608443640166350848#m]]></summary>
         <author>
-            <name>Manoj Kumar</name>
+            <name>@anudeepjaglan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Future Of Design: Human-Powered Or AI-Driven?]]></title>
-        <id>https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/</id>
-        <link href="https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/"/>
-        <updated>2022-12-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.]]></summary>
+        <title type="html"><![CDATA[R to @NarundarM: His daughter? Who is using his daughter's images? I saw a video mashup  on Twitter in which a girl is making an appeal to film makers. It also has some old interview of Mr Agnihotri. Is that girl his daughter?]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608448016394129409#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608448016394129409#m"/>
+        <updated>2022-12-29T13:01:05.000Z</updated>
+        <summary type="html"><![CDATA[His daughter? Who is using his daughter's images? I saw a video mashup  on Twitter in which a girl is making an appeal to film makers. It also has some old interview of Mr Agnihotri. Is that girl his daughter?]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Keima Kai)</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Infinite Slider Flipping Through Polaroid Images]]></title>
-        <id>https://css-tricks.com/?p=375537</id>
-        <link href="https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/"/>
-        <updated>2022-12-09T14:26:39.000Z</updated>
-        <summary type="html"><![CDATA[In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …
-CSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA['सबसे ज्यादा पैसे वाले सेठ' ने 'सबसे ज्यादा जिगर वाले पत्रकार' को इंटरव्यू क्यों नहीं दिया?]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608446537604141057#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608446537604141057#m"/>
+        <updated>2022-12-29T12:55:12.000Z</updated>
+        <summary type="html"><![CDATA['सबसे ज्यादा पैसे वाले सेठ' ने 'सबसे ज्यादा जिगर वाले पत्रकार' को इंटरव्यू क्यों नहीं दिया?]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>@MANJULtoons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animated Background Stripes That Transition on Hover]]></title>
-        <id>https://css-tricks.com/?p=375697</id>
-        <link href="https://css-tricks.com/animated-background-stripes-transition-hover/"/>
-        <updated>2022-12-08T15:36:21.000Z</updated>
-        <summary type="html"><![CDATA[How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …
-Animated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[मुस्कुराइए आप कार्टूनिस्ट के वाल पर हैं]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608443640166350848#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608443640166350848#m"/>
+        <updated>2022-12-29T12:43:41.000Z</updated>
+        <summary type="html"><![CDATA[मुस्कुराइए आप कार्टूनिस्ट के वाल पर हैं]]></summary>
         <author>
-            <name>Preethi</name>
+            <name>@cartoonistrrs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now]]></title>
-        <id>https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/</id>
-        <link href="https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/"/>
-        <updated>2022-12-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).]]></summary>
+        <title type="html"><![CDATA[Hein???]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1608443285114347521#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1608443285114347521#m"/>
+        <updated>2022-12-29T12:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Hein???
+nitter.net/rejitweets/status/1608335486602608640#m]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>@Kirtishbhat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding Box Shadows to WordPress Blocks and Elements]]></title>
-        <id>https://css-tricks.com/?p=375412</id>
-        <link href="https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/"/>
-        <updated>2022-12-07T13:59:50.000Z</updated>
-        <summary type="html"><![CDATA[The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.
-Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?
+
+#AdaniOnIndiaToday @cartoonistrrs]]></title>
+        <id>https://nitter.net/moliticsindia/status/1608434934993256450#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1608434934993256450#m"/>
+        <updated>2022-12-29T12:09:06.000Z</updated>
+        <summary type="html"><![CDATA[टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?
+#AdaniOnIndiaToday @cartoonistrrs]]></summary>
         <author>
-            <name>Ganesh Dahal</name>
+            <name>@moliticsindia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advent Calendars For Web Designers And Developers (2022 Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/</id>
-        <link href="https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/"/>
-        <updated>2022-12-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.]]></summary>
+        <title type="html"><![CDATA[RT by @MANJULtoons: Stay 'tooned' for the last #SoSketchy of 2022! 
+
+Releasing tomorrow!
+
+Subscribe to Newslaundry to help us and @MANJULtoons revive the fading tradition of political commentary through cartoons, which now more than ever needs to rewarded, not censored: https://www.newslaundry.com/subscription?ref=sosketchy]]></title>
+        <id>https://nitter.net/newslaundry/status/1608432771164246022#m</id>
+        <link href="https://nitter.net/newslaundry/status/1608432771164246022#m"/>
+        <updated>2022-12-29T12:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Stay 'tooned' for the last #SoSketchy of 2022! 
+@MANJULtoons revive the fading tradition of political commentary through cartoons, which now more than ever needs to rewarded, not censored: newslaundry.com/subscription…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>@newslaundry</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/</id>
-        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"/>
-        <updated>2022-12-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज क कार्टून...]]></title>
+        <id>https://nitter.net/BBCHindi/status/1608431101747372035#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1608431101747372035#m"/>
+        <updated>2022-12-29T11:53:52.000Z</updated>
+        <summary type="html"><![CDATA[आज क कार्टून...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>@BBCHindi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Anatomy Of Themed Design System Components]]></title>
-        <id>https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/</id>
-        <link href="https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/"/>
-        <updated>2022-12-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.]]></summary>
+        <title type="html"><![CDATA[R to @Vershasingh26: good  party]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608400250330570753#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608400250330570753#m"/>
+        <updated>2022-12-29T09:51:16.000Z</updated>
+        <summary type="html"><![CDATA[good  party]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Dan Donald)</name>
+            <name>@cartoonistrrs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FabUnit: A Smart Way To Control And Synchronize Typo And Space]]></title>
-        <id>https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/</id>
-        <link href="https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/"/>
-        <updated>2022-12-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.]]></summary>
+        <title type="html"><![CDATA[ठीक है ?
+#AdaniOnIndiaToday]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608399507536113666#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608399507536113666#m"/>
+        <updated>2022-12-29T09:48:19.000Z</updated>
+        <summary type="html"><![CDATA[ठीक है ?
+#AdaniOnIndiaToday]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Fabienne Bielmann)</name>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: खाते जाओ-साहब के गुण गाए जाओ!
+
+#AdaniGroup #AdaniOnIndiaToday @cartoonistrrs]]></title>
+        <id>https://nitter.net/moliticsindia/status/1608397112961794048#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1608397112961794048#m"/>
+        <updated>2022-12-29T09:38:48.000Z</updated>
+        <summary type="html"><![CDATA[खाते जाओ-साहब के गुण गाए जाओ!
+#AdaniGroup #AdaniOnIndiaToday @cartoonistrrs]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[भाजपा प्रवक्ताओं/नेताओं की सबसे खूबसूरत बात ये है कि कोई उनका ध्यान भटकाने की कितनी भी कोशिश करे पर वो हमेशा मुद्दे की बात करते हैं।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608357432736239617#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608357432736239617#m"/>
+        <updated>2022-12-29T07:01:08.000Z</updated>
+        <summary type="html"><![CDATA[भाजपा प्रवक्ताओं/नेताओं की सबसे खूबसूरत बात ये है कि कोई उनका ध्यान भटकाने की कितनी भी कोशिश करे पर वो हमेशा मुद्दे की बात करते हैं।]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @MANJULtoons: ये इंटरव्यू और बढ़िया हो सकता था अगर राज चेंगप्पा जी के सवाल भी उसी अंदाज में होते जिस अंदाज में जवाब हैं। रुक-रुक कर, पढ़ कर बोले जाने जैसे अंदाज में। पीछे से कोई मद्धम संगीत भी डाल देना था, ढिंग चक, ढिंग चक टाइप।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608355357113614337#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608355357113614337#m"/>
+        <updated>2022-12-29T06:52:53.000Z</updated>
+        <summary type="html"><![CDATA[ये इंटरव्यू और बढ़िया हो सकता था अगर राज चेंगप्पा जी के सवाल भी उसी अंदाज में होते जिस अंदाज में जवाब हैं। रुक-रुक कर, पढ़ कर बोले जाने जैसे अंदाज में। पीछे से कोई मद्धम संगीत भी डाल देना था, ढिंग चक, ढिंग चक टाइप।]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I also noticed 🤣🤣🤣]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608351565882195975#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608351565882195975#m"/>
+        <updated>2022-12-29T06:37:49.000Z</updated>
+        <summary type="html"><![CDATA[I also noticed 🤣🤣🤣
+nitter.net/MANJULtoons/status/1608300223872499712#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[प्रकृति का बैलेंस बनाये रखने के अपने ही तरीके हैं।
+जब मनोज मुन्तशिर वरुण गांधी हो जाते हैं तो वो वरुण गांधी को मनोज मुन्तशिर कर देती है।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608350700358209536#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608350700358209536#m"/>
+        <updated>2022-12-29T06:34:23.000Z</updated>
+        <summary type="html"><![CDATA[प्रकृति का बैलेंस बनाये रखने के अपने ही तरीके हैं।
+जब मनोज मुन्तशिर वरुण गांधी हो जाते हैं तो वो वरुण गांधी को मनोज मुन्तशिर कर देती है।]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @AbhishekSay: 🤣🤣🤣]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608345155530297347#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608345155530297347#m"/>
+        <updated>2022-12-29T06:12:21.000Z</updated>
+        <summary type="html"><![CDATA[🤣🤣🤣]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[☺️]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608343343708372996#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608343343708372996#m"/>
+        <updated>2022-12-29T06:05:09.000Z</updated>
+        <summary type="html"><![CDATA[☺️
+nitter.net/roy_deepikarc/status/1608343215543025665#m]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[अब टिपण्णी कर दूँ तो कहोगे की बोलता है, किसी की माँ की तबियत ख़राब हो तो उससे मिलने जाने की चाल इतनी नार्मल होगी, साथ में कैमरा मैन को ले जाने की क्या जरुरत ?]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608314589879631872#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608314589879631872#m"/>
+        <updated>2022-12-29T04:10:53.000Z</updated>
+        <summary type="html"><![CDATA[अब टिपण्णी कर दूँ तो कहोगे की बोलता है, किसी की माँ की तबियत ख़राब हो तो उससे मिलने जाने की चाल इतनी नार्मल होगी, साथ में कैमरा मैन को ले जाने की क्या जरुरत ?
+nitter.net/RashtraManch/status/1608136823930499073#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@kroordarshan और @ms_medusssa की जबरदस्त जुगलबंदी। ये एक ऐतिहासिक वीडियो है। जरूर देखिये और लोगों को दिखाइए।
+https://youtu.be/2iNwqcEEelk]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608310634382524417#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608310634382524417#m"/>
+        <updated>2022-12-29T03:55:10.000Z</updated>
+        <summary type="html"><![CDATA[.@kroordarshan और @ms_medusssa की जबरदस्त जुगलबंदी। ये एक ऐतिहासिक वीडियो है। जरूर देखिये और लोगों को दिखाइए।
+piped.video/2iNwqcEEelk]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @MANJULtoons: बेचारा लल्लनटॉप! अभी-अभी 7 बरस का हुआ और ये किस तरह के इंटरव्यू के चक्कर में पड़ गया.]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608303235827392515#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608303235827392515#m"/>
+        <updated>2022-12-29T03:25:46.000Z</updated>
+        <summary type="html"><![CDATA[बेचारा लल्लनटॉप! अभी-अभी 7 बरस का हुआ और ये किस तरह के इंटरव्यू के चक्कर में पड़ गया.]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[बिहार में खेला चालू है ...]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608303060136390656#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608303060136390656#m"/>
+        <updated>2022-12-29T03:25:05.000Z</updated>
+        <summary type="html"><![CDATA[बिहार में खेला चालू है ...]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[happy birthday 🎂 🍾 @zoo_bear]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608300304956813313#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608300304956813313#m"/>
+        <updated>2022-12-29T03:14:08.000Z</updated>
+        <summary type="html"><![CDATA[happy birthday 🎂 🍾 @zoo_bear]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[इंटरव्यू इतना असमान्य क्यों लग रहा है? राज चेंगप्पा किसी विज्ञापन  के मॉडल की तरह अदानी जी का कारोबार गिना रहे हैं. अदानी जी पहले किसी कुर्सी पर बैठे दिखाई दे रहे हैं. कुछ सेकेण्ड में कुर्सी बदल जाती है. फिर वापस आ जाती है. लोगो भी लल्लनटॉप का है.]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1608300223872499712#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1608300223872499712#m"/>
+        <updated>2022-12-29T03:13:48.000Z</updated>
+        <summary type="html"><![CDATA[इंटरव्यू इतना असमान्य क्यों लग रहा है? राज चेंगप्पा किसी विज्ञापन  के मॉडल की तरह अदानी जी का कारोबार गिना रहे हैं. अदानी जी पहले किसी कुर्सी पर बैठे दिखाई दे रहे हैं. कुछ सेकेण्ड में कुर्सी बदल जाती है. फिर वापस आ जाती है. लोगो भी लल्लनटॉप का है.]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 29 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1608294826159529984#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1608294826159529984#m"/>
+        <updated>2022-12-29T02:52:21.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 29 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ऐसे दौर में जब किसी गाने में पहने कपड़े के रंग को धर्म से जोड़ लिया जाए, तब ऐसी कुछ फ़िल्मों का ज़िक्र ज़रूरी है जिनकी कहानी के केंद्र या पस-मंज़र (पृष्ठभूमि) में धर्म हो. @1vikastrivedi  https://www.bbc.com/hindi/entertainment-64077473]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1608155691340140544#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1608155691340140544#m"/>
+        <updated>2022-12-28T17:39:29.000Z</updated>
+        <summary type="html"><![CDATA[ऐसे दौर में जब किसी गाने में पहने कपड़े के रंग को धर्म से जोड़ लिया जाए, तब ऐसी कुछ फ़िल्मों का ज़िक्र ज़रूरी है जिनकी कहानी के केंद्र या पस-मंज़र (पृष्ठभूमि) में धर्म हो. @1vikastrivedi  bbc.com/hindi/entertainment-…]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @scribe_prashant: छपरी लोग]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608136143580852227#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608136143580852227#m"/>
+        <updated>2022-12-28T16:21:49.000Z</updated>
+        <summary type="html"><![CDATA[छपरी लोग]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: नेशन वांट्स टू नो.      Today's #Cartoon]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1608123187480662020#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1608123187480662020#m"/>
+        <updated>2022-12-28T15:30:20.000Z</updated>
+        <summary type="html"><![CDATA[नेशन वांट्स टू नो.      Today's #Cartoon]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[लोहे के चने चबाने के बाद अपनी बत्तीसी रिपेयर करवाने के लिए औरंगजेब इंदौर के खजराना रोड स्थित डेंटिस्ट डॉक्टर पोपले के क्लिनिक गया था.]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1608113017203617792#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1608113017203617792#m"/>
+        <updated>2022-12-28T14:49:55.000Z</updated>
+        <summary type="html"><![CDATA[लोहे के चने चबाने के बाद अपनी बत्तीसी रिपेयर करवाने के लिए औरंगजेब इंदौर के खजराना रोड स्थित डेंटिस्ट डॉक्टर पोपले के क्लिनिक गया था.]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[चित्राजी के लिए सिस्टम कौन और सरकार कौन ?]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608100509969448960#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608100509969448960#m"/>
+        <updated>2022-12-28T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[चित्राजी के लिए सिस्टम कौन और सरकार कौन ?
+nitter.net/aajtak/status/1608045568609357824#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[information and development technology के incharge…@amitmalviya गजब का इनफार्मेशन फैला रहे हो, कोई FIR  न ठोक जाए 🤣🤣🤣]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608099496021610496#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608099496021610496#m"/>
+        <updated>2022-12-28T13:56:11.000Z</updated>
+        <summary type="html"><![CDATA[information and development technology के incharge…@amitmalviya गजब का इनफार्मेशन फैला रहे हो, कोई FIR  न ठोक जाए 🤣🤣🤣
+nitter.net/amitmalviya/status/1607972460531531776#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[चरित्र के अच्छे किसे मानते हैं आप खुल के बोलिये स्वामीजी]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608098487102738439#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608098487102738439#m"/>
+        <updated>2022-12-28T13:52:11.000Z</updated>
+        <summary type="html"><![CDATA[चरित्र के अच्छे किसे मानते हैं आप खुल के बोलिये स्वामीजी]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep weapons at home, says BJP MP Pragya Thakur! #pragyathakur]]></title>
+        <id>https://nitter.net/satishacharya/status/1608095393019228161#m</id>
+        <link href="https://nitter.net/satishacharya/status/1608095393019228161#m"/>
+        <updated>2022-12-28T13:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Keep weapons at home, says BJP MP Pragya Thakur! #pragyathakur]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😡😡😡]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1608090664310542336#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1608090664310542336#m"/>
+        <updated>2022-12-28T13:21:05.000Z</updated>
+        <summary type="html"><![CDATA[😡😡😡
+nitter.net/JournoPranay/status/1607988820166995968#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: मुंह से ठांय-ठांय!
+
+#UPPoliceInNews]]></title>
+        <id>https://nitter.net/shantanu1378/status/1608087697087954944#m</id>
+        <link href="https://nitter.net/shantanu1378/status/1608087697087954944#m"/>
+        <updated>2022-12-28T13:09:18.000Z</updated>
+        <summary type="html"><![CDATA[मुंह से ठांय-ठांय!
+#UPPoliceInNews]]></summary>
+        <author>
+            <name>@shantanu1378</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[न्यूज चैनल वाले बता रहे हैं कि चीन से आ रहे कोरोना की तबाही के वीडियो आपको डरा देंगे. 
+अच्छा हुआ भारत में जब तबाही मची थी तब वीडियो वाली तकनीक का अविष्कार ही नहीं हुआ था वरना डर के मारे हमारा  न जाने क्या हाल होता.]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1608086838044151813#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1608086838044151813#m"/>
+        <updated>2022-12-28T13:05:53.000Z</updated>
+        <summary type="html"><![CDATA[न्यूज चैनल वाले बता रहे हैं कि चीन से आ रहे कोरोना की तबाही के वीडियो आपको डरा देंगे. 
+अच्छा हुआ भारत में जब तबाही मची थी तब वीडियो वाली तकनीक का अविष्कार ही नहीं हुआ था वरना डर के मारे हमारा  न जाने क्या हाल होता.]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आता काय बोलायचं? 🤦🏻‍♂️
+
+#rahulgandhi #bharatjodoyatra @RahulGandhi @Kirtishbhat]]></title>
+        <id>https://nitter.net/bbcnewsmarathi/status/1608078458550374402#m</id>
+        <link href="https://nitter.net/bbcnewsmarathi/status/1608078458550374402#m"/>
+        <updated>2022-12-28T12:32:35.000Z</updated>
+        <summary type="html"><![CDATA[आता काय बोलायचं? 🤦🏻‍♂️
+#rahulgandhi #bharatjodoyatra @RahulGandhi @Kirtishbhat]]></summary>
+        <author>
+            <name>@bbcnewsmarathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1608070531311407104#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1608070531311407104#m"/>
+        <updated>2022-12-28T12:01:05.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MaharashtraPolitics #maharashtra_karnatak]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1608018914113630208#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1608018914113630208#m"/>
+        <updated>2022-12-28T08:35:59.000Z</updated>
+        <summary type="html"><![CDATA[#MaharashtraPolitics #maharashtra_karnatak]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @punk6529: gm]]></title>
+        <id>https://nitter.net/satishacharya/status/1607996381121347585#m</id>
+        <link href="https://nitter.net/satishacharya/status/1607996381121347585#m"/>
+        <updated>2022-12-28T07:06:27.000Z</updated>
+        <summary type="html"><![CDATA[gm]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @highbrid_theory: 😍]]></title>
+        <id>https://nitter.net/satishacharya/status/1607978638317858817#m</id>
+        <link href="https://nitter.net/satishacharya/status/1607978638317858817#m"/>
+        <updated>2022-12-28T05:55:56.000Z</updated>
+        <summary type="html"><![CDATA[😍]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joy of life. ❤️]]></title>
+        <id>https://nitter.net/satishacharya/status/1607977285176668166#m</id>
+        <link href="https://nitter.net/satishacharya/status/1607977285176668166#m"/>
+        <updated>2022-12-28T05:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Joy of life. ❤️
+nitter.net/sruthijith/status/1607947635310354432#m]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @priyankap_patel: Stunning visual!]]></title>
+        <id>https://nitter.net/satishacharya/status/1607975359068393473#m</id>
+        <link href="https://nitter.net/satishacharya/status/1607975359068393473#m"/>
+        <updated>2022-12-28T05:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Stunning visual!]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[मॉक ड्रिल तो बनती है #cartoon #Corona]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1607936749455683585#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1607936749455683585#m"/>
+        <updated>2022-12-28T03:09:29.000Z</updated>
+        <summary type="html"><![CDATA[मॉक ड्रिल तो बनती है #cartoon #Corona]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 28 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1607933983656153088#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1607933983656153088#m"/>
+        <updated>2022-12-28T02:58:30.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 28 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: During surprise inspection of DIG RK Bhardwaj to check preparedness of the police in UP's Sant Kabir Nagar, a video of a sub-inspector putting cartridge from the opening of the barrel of an anti riot gun which uses rubber bullets has surfaced.]]></title>
+        <id>https://nitter.net/Benarasiyaa/status/1607798079083941890#m</id>
+        <link href="https://nitter.net/Benarasiyaa/status/1607798079083941890#m"/>
+        <updated>2022-12-27T17:58:28.000Z</updated>
+        <summary type="html"><![CDATA[During surprise inspection of DIG RK Bhardwaj to check preparedness of the police in UP's Sant Kabir Nagar, a video of a sub-inspector putting cartridge from the opening of the barrel of an anti riot gun which uses rubber bullets has surfaced.]]></summary>
+        <author>
+            <name>@Benarasiyaa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: क्यूँकि ये किसी विपक्षी दल के नेता ने नहीं कहा है, इस कारण देश के सारे न्यूज़ एंकरों को चिल्ला चिल्लाकर अपने गले नहीं फाड़ने पड़ेंगे। न ही किसी कश्मीरी पंडितों के हितैषी को ऐसी घटना पट फ़िल्म बनाने की मेहनत करनी पड़ेगी।]]></title>
+        <id>https://nitter.net/PuneetVuneet/status/1607611224820428800#m</id>
+        <link href="https://nitter.net/PuneetVuneet/status/1607611224820428800#m"/>
+        <updated>2022-12-27T05:35:58.000Z</updated>
+        <summary type="html"><![CDATA[क्यूँकि ये किसी विपक्षी दल के नेता ने नहीं कहा है, इस कारण देश के सारे न्यूज़ एंकरों को चिल्ला चिल्लाकर अपने गले नहीं फाड़ने पड़ेंगे। न ही किसी कश्मीरी पंडितों के हितैषी को ऐसी घटना पट फ़िल्म बनाने की मेहनत करनी पड़ेगी।]]></summary>
+        <author>
+            <name>@PuneetVuneet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: Sharing without any opinion😊
+(Via WhatsApp)]]></title>
+        <id>https://nitter.net/kavitadevgan/status/1607609213471326210#m</id>
+        <link href="https://nitter.net/kavitadevgan/status/1607609213471326210#m"/>
+        <updated>2022-12-27T05:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Sharing without any opinion😊
+(Via WhatsApp)]]></summary>
+        <author>
+            <name>@kavitadevgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ओ माय गॉड! अनबिलीवेबल.]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1607606117382885376#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1607606117382885376#m"/>
+        <updated>2022-12-27T05:15:40.000Z</updated>
+        <summary type="html"><![CDATA[ओ माय गॉड! अनबिलीवेबल.]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: क्या रवीश ख़ुद को NDTV से बड़ा ब्रैंड समझते हैं?
+टेकओवर के बाद क्यों लगा कि काम की आज़ादी नहीं मिलेगी?
+क्या रवीश कुमार राजनीति में आएंगे?
+
+वरिष्ठ पत्रकार @ravishndtv के साथ बीबीसी न्यूज़ के इंडिया डिजिटल एडिटर @BBCMukeshS की पूरी बातचीत देखिए- https://bbc.in/3C556nv]]></title>
+        <id>https://nitter.net/BBCHindi/status/1607598330250678273#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1607598330250678273#m"/>
+        <updated>2022-12-27T04:44:44.000Z</updated>
+        <summary type="html"><![CDATA[क्या रवीश ख़ुद को NDTV से बड़ा ब्रैंड समझते हैं?
+@ravishndtv के साथ बीबीसी न्यूज़ के इंडिया डिजिटल एडिटर @BBCMukeshS की पूरी बातचीत देखिए- bbc.in/3C556nv]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 27 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1607570911032496128#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1607570911032496128#m"/>
+        <updated>2022-12-27T02:55:47.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 27 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: एक्सक्यूज मी!]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1607398910368321536#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1607398910368321536#m"/>
+        <updated>2022-12-26T15:32:18.000Z</updated>
+        <summary type="html"><![CDATA[एक्सक्यूज मी!]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: Pragya Thakur's hate speech in Karnataka. @moliticsindia cartoon. #PragyaThakur #Karnataka #covidindia]]></title>
+        <id>https://nitter.net/satishacharya/status/1607378331309309952#m</id>
+        <link href="https://nitter.net/satishacharya/status/1607378331309309952#m"/>
+        <updated>2022-12-26T14:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Pragya Thakur's hate speech in Karnataka. @moliticsindia cartoon. #PragyaThakur #Karnataka #covidindia]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: जपून भावांनो 😑
+
+@Kirtishbhat]]></title>
+        <id>https://nitter.net/bbcnewsmarathi/status/1607362715118620675#m</id>
+        <link href="https://nitter.net/bbcnewsmarathi/status/1607362715118620675#m"/>
+        <updated>2022-12-26T13:08:29.000Z</updated>
+        <summary type="html"><![CDATA[जपून भावांनो 😑
+@Kirtishbhat]]></summary>
+        <author>
+            <name>@bbcnewsmarathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1607354665292660736#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1607354665292660736#m"/>
+        <updated>2022-12-26T12:36:30.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 26 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1607216770590597120#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1607216770590597120#m"/>
+        <updated>2022-12-26T03:28:33.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 26 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MerryChristmas #MerryChristmas2022 #TulsiPujanDiwas]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1606891364817723392#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1606891364817723392#m"/>
+        <updated>2022-12-25T05:55:30.000Z</updated>
+        <summary type="html"><![CDATA[#MerryChristmas #MerryChristmas2022 #TulsiPujanDiwas]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 25 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1606879720443940865#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1606879720443940865#m"/>
+        <updated>2022-12-25T05:09:14.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 25 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#corona #CoronavirusUpdates #sensex #sharemarket]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1606600267537186818#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1606600267537186818#m"/>
+        <updated>2022-12-24T10:38:47.000Z</updated>
+        <summary type="html"><![CDATA[#corona #CoronavirusUpdates #sensex #sharemarket]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR -oHERALDo - 23 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1606120697746534400#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1606120697746534400#m"/>
+        <updated>2022-12-23T02:53:09.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR -oHERALDo - 23 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Talibans #TalibanTerrorists #Afganistan #AfganistanWomen #Afganistán]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1605847297778221056#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1605847297778221056#m"/>
+        <updated>2022-12-22T08:46:45.000Z</updated>
+        <summary type="html"><![CDATA[#Talibans #TalibanTerrorists #Afganistan #AfganistanWomen #Afganistán]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 22 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1605733543858012160#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1605733543858012160#m"/>
+        <updated>2022-12-22T01:14:44.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 22 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 20 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1605179011306594305#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1605179011306594305#m"/>
+        <updated>2022-12-20T12:31:13.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 20 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#FIFAWorldCup #FIFAWorldCup2022 #Messi𓃵 #Messi #ArgentinaVsFrance]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1605150810815762433#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1605150810815762433#m"/>
+        <updated>2022-12-20T10:39:10.000Z</updated>
+        <summary type="html"><![CDATA[#FIFAWorldCup #FIFAWorldCup2022 #Messi𓃵 #Messi #ArgentinaVsFrance]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 19 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1604830913984335873#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1604830913984335873#m"/>
+        <updated>2022-12-19T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 19 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 17 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1603982348848070656#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1603982348848070656#m"/>
+        <updated>2022-12-17T05:16:07.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 17 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#dilliairport #DelhiAirport]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1603672841718992896#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1603672841718992896#m"/>
+        <updated>2022-12-16T08:46:14.000Z</updated>
+        <summary type="html"><![CDATA[#dilliairport #DelhiAirport]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 16 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1603582757753745409#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1603582757753745409#m"/>
+        <updated>2022-12-16T02:48:17.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 16 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#TawangClash #Tawang #China #chinavsindia]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1603332706246733824#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1603332706246733824#m"/>
+        <updated>2022-12-15T10:14:40.000Z</updated>
+        <summary type="html"><![CDATA[#TawangClash #Tawang #China #chinavsindia]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR- oHERALDo - 15 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1603220195790708737#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1603220195790708737#m"/>
+        <updated>2022-12-15T02:47:35.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR- oHERALDo - 15 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#BiharNews #NitishKumar #TejashwiYadav]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1602951720396816384#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1602951720396816384#m"/>
+        <updated>2022-12-14T09:00:46.000Z</updated>
+        <summary type="html"><![CDATA[#BiharNews #NitishKumar #TejashwiYadav]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 14 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1602859710163877889#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1602859710163877889#m"/>
+        <updated>2022-12-14T02:55:09.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 14 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 13 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1602496748424990720#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1602496748424990720#m"/>
+        <updated>2022-12-13T02:52:52.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 13 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR- oHERALDo- 12 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1602122916610678786#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1602122916610678786#m"/>
+        <updated>2022-12-12T02:07:23.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR- oHERALDo- 12 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 11 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1601833485475500032#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1601833485475500032#m"/>
+        <updated>2022-12-11T06:57:18.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 11 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 10 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1601442819998351363#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1601442819998351363#m"/>
+        <updated>2022-12-10T05:04:56.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 10 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 09 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1601050467836268544#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1601050467836268544#m"/>
+        <updated>2022-12-09T03:05:52.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 09 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 08 DECEMBER 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1600686257331634176#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1600686257331634176#m"/>
+        <updated>2022-12-08T02:58:37.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 08 DECEMBER 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#NorthKorea #KimJonghyeon #KimJonghyeon]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1600075931632242688#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1600075931632242688#m"/>
+        <updated>2022-12-06T10:33:24.000Z</updated>
+        <summary type="html"><![CDATA[#NorthKorea #KimJonghyeon #KimJonghyeon]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#rupee #Rajasthan #RajasthanNews]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1599271691968212993#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1599271691968212993#m"/>
+        <updated>2022-12-04T05:17:39.000Z</updated>
+        <summary type="html"><![CDATA[#rupee #Rajasthan #RajasthanNews]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#disputed_statement]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1598977736533770241#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1598977736533770241#m"/>
+        <updated>2022-12-03T09:49:34.000Z</updated>
+        <summary type="html"><![CDATA[#disputed_statement]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#FIFAWorldCup #FIFAWorldCup2022 @FIFAcom #FIFAWorldCupQatar2022 #woman_referee_in_fifaworldcup]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1598555662925299712#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1598555662925299712#m"/>
+        <updated>2022-12-02T05:52:24.000Z</updated>
+        <summary type="html"><![CDATA[#FIFAWorldCup #FIFAWorldCup2022 @FIFAcom #FIFAWorldCupQatar2022 #woman_referee_in_fifaworldcup]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#GujratElection2022 #GujratElection #Gujrat @narendramodi @AmitShah @RahulGandhi @ArvindKejriwal @Bhupendrapbjp @BJP4India @INCIndia @AamAadmiParty]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1598285220436119552#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1598285220436119552#m"/>
+        <updated>2022-12-01T11:57:45.000Z</updated>
+        <summary type="html"><![CDATA[#GujratElection2022 #GujratElection #Gujrat @narendramodi @AmitShah @RahulGandhi @ArvindKejriwal @Bhupendrapbjp @BJP4India @INCIndia @AamAadmiParty]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#aims_server_hacked #aims #serverdown]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1598262001528340480#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1598262001528340480#m"/>
+        <updated>2022-12-01T10:25:30.000Z</updated>
+        <summary type="html"><![CDATA[#aims_server_hacked #aims #serverdown]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
         </author>
     </entry>
 </feed>

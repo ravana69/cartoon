@@ -1,504 +1,1174 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Kirtish Bhatt / @Kirtishbhat",
+      "feedUrl": "https://nitter.net/Kirtishbhat/search/rss?f=tweets",
+      "siteUrl": "https://nitter.net/Kirtishbhat",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=375486",
-          "author": "Geoff Graham",
-          "description": "You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…\nThank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/thank-you-2022-edition/",
-          "publishedOn": "2022-12-28T15:46:15.000Z",
-          "wordCount": 3119,
-          "title": "Thank You (2022 Edition)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375486"
+          "id": "https://nitter.net/Kirtishbhat/status/1608465394733572100#m",
+          "author": "@Kirtishbhat",
+          "description": "कुछ फ़र्क पड़ेगा? Today's #cartoon",
+          "link": "https://nitter.net/Kirtishbhat/status/1608465394733572100#m",
+          "publishedOn": "2022-12-29T14:10:08.000Z",
+          "wordCount": null,
+          "title": "कुछ फ़र्क पड़ेगा? Today's #cartoon",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375869",
-          "author": "Geoff Graham",
-          "description": "We’ve started making a tradition of rounding up the latest front-end research at the end of each year. We did it in 2020 and again in 2021. Reports are released throughout the year by a bunch of different companies …\n2022 Roundup of Web Research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/2022-roundup-of-web-research/",
-          "publishedOn": "2022-12-21T15:03:50.000Z",
-          "wordCount": 6097,
-          "title": "2022 Roundup of Web Research",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375869"
+          "id": "https://nitter.net/bbcnewsmarathi/status/1608457817232642049#m",
+          "author": "@bbcnewsmarathi",
+          "description": "फरक पडेल काय?\n@Kirtishbhat",
+          "link": "https://nitter.net/bbcnewsmarathi/status/1608457817232642049#m",
+          "publishedOn": "2022-12-29T13:40:01.000Z",
+          "wordCount": 35,
+          "title": "RT by @Kirtishbhat: फरक पडेल काय?\n\n@Kirtishbhat",
+          "imageUrl": "https://nitter.net/pic/media%2FFlJjygSaMAIH0UC.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=376319",
-          "author": "Geoff Graham",
-          "description": "CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Miriam put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.\nNow there’s another chance …\nHelp choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/help-choose-the-syntax-for-css-nesting/",
-          "publishedOn": "2022-12-20T16:04:54.000Z",
-          "wordCount": 1434,
-          "title": "Help choose the syntax for CSS Nesting",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376319"
+          "id": "https://nitter.net/Kirtishbhat/status/1608443285114347521#m",
+          "author": "@Kirtishbhat",
+          "description": "Hein???\nnitter.net/rejitweets/status/1608335486602608640#m",
+          "link": "https://nitter.net/Kirtishbhat/status/1608443285114347521#m",
+          "publishedOn": "2022-12-29T12:42:17.000Z",
+          "wordCount": null,
+          "title": "Hein???",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=376297",
-          "author": "Geoff Graham",
-          "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-playground-run-in-browser/",
-          "publishedOn": "2022-12-19T16:52:45.000Z",
-          "wordCount": 1012,
-          "title": "WordPress Playground: Running WordPress in the Browser",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376297"
+          "id": "https://nitter.net/BBCHindi/status/1608431101747372035#m",
+          "author": "@BBCHindi",
+          "description": "आज क कार्टून...",
+          "link": "https://nitter.net/BBCHindi/status/1608431101747372035#m",
+          "publishedOn": "2022-12-29T11:53:52.000Z",
+          "wordCount": 307,
+          "title": "RT by @Kirtishbhat: आज क कार्टून...",
+          "imageUrl": "https://nitter.net/pic/media%2FFlJLkFfXgAA_Jmd.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=375621",
-          "author": "Temani Afif",
-          "description": "In this series, we’ve been making image sliders with nothing but HTML and CSS. The idea is that we can use the same markup but different CSS to get wildly different results, no matter how many images we toss …\nCSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-infinite-3d-sliders/",
-          "publishedOn": "2022-12-16T14:58:08.000Z",
-          "wordCount": 2852,
-          "title": "CSS Infinite 3D Sliders",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375621"
+          "id": "https://nitter.net/Kirtishbhat/status/1608155691340140544#m",
+          "author": "@Kirtishbhat",
+          "description": "ऐसे दौर में जब किसी गाने में पहने कपड़े के रंग को धर्म से जोड़ लिया जाए, तब ऐसी कुछ फ़िल्मों का ज़िक्र ज़रूरी है जिनकी कहानी के केंद्र या पस-मंज़र (पृष्ठभूमि) में धर्म हो. @1vikastrivedi  bbc.com/hindi/entertainment-…",
+          "link": "https://nitter.net/Kirtishbhat/status/1608155691340140544#m",
+          "publishedOn": "2022-12-28T17:39:29.000Z",
+          "wordCount": null,
+          "title": "ऐसे दौर में जब किसी गाने में पहने कपड़े के रंग को धर्म से जोड़ लिया जाए, तब ऐसी कुछ फ़िल्मों का ज़िक्र ज़रूरी है जिनकी कहानी के केंद्र या पस-मंज़र (पृष्ठभूमि) में धर्म हो. @1vikastrivedi  https://www.bbc.com/hindi/entertainment-64077473",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375714",
-          "author": "Geoff Graham",
-          "description": "The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.\nIt’s a bit of a brain-twister to reason …\nSo, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/so-youd-like-to-animate-the-display-property/",
-          "publishedOn": "2022-12-15T15:41:06.000Z",
-          "wordCount": 1521,
-          "title": "So, you’d like to animate the display property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375714"
+          "id": "https://nitter.net/Kirtishbhat/status/1608123187480662020#m",
+          "author": "@Kirtishbhat",
+          "description": "नेशन वांट्स टू नो.      Today's #Cartoon",
+          "link": "https://nitter.net/Kirtishbhat/status/1608123187480662020#m",
+          "publishedOn": "2022-12-28T15:30:20.000Z",
+          "wordCount": 110,
+          "title": "RT by @Kirtishbhat: नेशन वांट्स टू नो.      Today's #Cartoon",
+          "imageUrl": "https://nitter.net/pic/media%2FFlEzZjnagAM143b.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=376201",
-          "author": "Geoff Graham",
-          "description": "Every so often, I find that the links I save to read later fall into natural groups or patterns that reveal common threads of interest. The past couple of weeks have produced a lot of thoughts about ChatGPT, an …\nSome Links on AI-Related Stuff originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-links-on-ai-related-stuff/",
-          "publishedOn": "2022-12-14T21:34:06.000Z",
-          "wordCount": 1292,
-          "title": "Some Links on AI-Related Stuff",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376201"
+          "id": "https://nitter.net/Kirtishbhat/status/1608113017203617792#m",
+          "author": "@Kirtishbhat",
+          "description": "लोहे के चने चबाने के बाद अपनी बत्तीसी रिपेयर करवाने के लिए औरंगजेब इंदौर के खजराना रोड स्थित डेंटिस्ट डॉक्टर पोपले के क्लिनिक गया था.",
+          "link": "https://nitter.net/Kirtishbhat/status/1608113017203617792#m",
+          "publishedOn": "2022-12-28T14:49:55.000Z",
+          "wordCount": null,
+          "title": "लोहे के चने चबाने के बाद अपनी बत्तीसी रिपेयर करवाने के लिए औरंगजेब इंदौर के खजराना रोड स्थित डेंटिस्ट डॉक्टर पोपले के क्लिनिक गया था.",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375952",
-          "author": "Geoff Graham",
-          "description": "Suzy Naschansky from the HTMHell Advent Calendar:\n<h2 id=\"article1-heading\"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id=\"article1-read-more\" aria-labelledby=\"article1-read-more article1-heading\"Read more</a</p\nSee that aria-labelledby attribute? It chains two IDs from the …\nUnchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/",
-          "publishedOn": "2022-12-14T14:08:20.000Z",
-          "wordCount": 1238,
-          "title": "Unchain My Inaccessibly-Labelled Heart",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375952"
+          "id": "https://nitter.net/Kirtishbhat/status/1608086838044151813#m",
+          "author": "@Kirtishbhat",
+          "description": "न्यूज चैनल वाले बता रहे हैं कि चीन से आ रहे कोरोना की तबाही के वीडियो आपको डरा देंगे. \nअच्छा हुआ भारत में जब तबाही मची थी तब वीडियो वाली तकनीक का अविष्कार ही नहीं हुआ था वरना डर के मारे हमारा  न जाने क्या हाल होता.",
+          "link": "https://nitter.net/Kirtishbhat/status/1608086838044151813#m",
+          "publishedOn": "2022-12-28T13:05:53.000Z",
+          "wordCount": null,
+          "title": "न्यूज चैनल वाले बता रहे हैं कि चीन से आ रहे कोरोना की तबाही के वीडियो आपको डरा देंगे. \nअच्छा हुआ भारत में जब तबाही मची थी तब वीडियो वाली तकनीक का अविष्कार ही नहीं हुआ था वरना डर के मारे हमारा  न जाने क्या हाल होता.",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=376229",
-          "author": "Geoff Graham",
-          "description": "We’ve got ourselves a real holiday treat! Join host Alex Trost from the Frontend Horse community for the Holiday Snowtacular 2022 this Friday, December 16.\nThere’s a lineup of 12 awesome speakers — including Chris Coyier, Cassidy Williams, Kevin …\nHoliday Snowtacular 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/holiday-snowtacular-2022/",
-          "publishedOn": "2022-12-13T23:03:49.000Z",
-          "wordCount": 837,
-          "title": "Holiday Snowtacular 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376229"
+          "id": "https://nitter.net/bbcnewsmarathi/status/1608078458550374402#m",
+          "author": "@bbcnewsmarathi",
+          "description": "आता काय बोलायचं? 🤦🏻‍♂️\n#rahulgandhi #bharatjodoyatra @RahulGandhi @Kirtishbhat",
+          "link": "https://nitter.net/bbcnewsmarathi/status/1608078458550374402#m",
+          "publishedOn": "2022-12-28T12:32:35.000Z",
+          "wordCount": 69,
+          "title": "RT by @Kirtishbhat: आता काय बोलायचं? 🤦🏻‍♂️\n\n#rahulgandhi #bharatjodoyatra @RahulGandhi @Kirtishbhat",
+          "imageUrl": "https://nitter.net/pic/media%2FFlEKihIaMAA6t4I.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=375728",
-          "author": "Dan Christofi",
-          "description": "CSS Container Queries are still gaining traction and many of us are getting our hands wet with them, even if it’s for little experiments or whatnot. They’ve got great, but not quite full, browser support — enough to justify using …\nA Few Times Container Size Queries Would Have Helped Me Out originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/",
-          "publishedOn": "2022-12-13T13:53:56.000Z",
-          "wordCount": 2329,
-          "title": "A Few Times Container Size Queries Would Have Helped Me Out",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375728"
+          "id": "https://nitter.net/BBCHindi/status/1608070531311407104#m",
+          "author": "@BBCHindi",
+          "description": "आज का कार्टून",
+          "link": "https://nitter.net/BBCHindi/status/1608070531311407104#m",
+          "publishedOn": "2022-12-28T12:01:05.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: आज का कार्टून",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375722",
-          "author": "Geoff Graham",
-          "description": "Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …\nSetting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/",
-          "publishedOn": "2022-12-12T20:56:58.000Z",
-          "wordCount": 808,
-          "title": "Setting up a screen reader testing environment on your computer",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375722"
+          "id": "https://nitter.net/Kirtishbhat/status/1607936749455683585#m",
+          "author": "@Kirtishbhat",
+          "description": "मॉक ड्रिल तो बनती है #cartoon #Corona",
+          "link": "https://nitter.net/Kirtishbhat/status/1607936749455683585#m",
+          "publishedOn": "2022-12-28T03:09:29.000Z",
+          "wordCount": null,
+          "title": "मॉक ड्रिल तो बनती है #cartoon #Corona",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375577",
-          "author": "Manoj Kumar",
-          "description": "We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …\nSaving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/",
-          "publishedOn": "2022-12-12T14:06:39.000Z",
-          "wordCount": 1566,
-          "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
+          "id": "https://nitter.net/PuneetVuneet/status/1607611224820428800#m",
+          "author": "@PuneetVuneet",
+          "description": "क्यूँकि ये किसी विपक्षी दल के नेता ने नहीं कहा है, इस कारण देश के सारे न्यूज़ एंकरों को चिल्ला चिल्लाकर अपने गले नहीं फाड़ने पड़ेंगे। न ही किसी कश्मीरी पंडितों के हितैषी को ऐसी घटना पट फ़िल्म बनाने की मेहनत करनी पड़ेगी।",
+          "link": "https://nitter.net/PuneetVuneet/status/1607611224820428800#m",
+          "publishedOn": "2022-12-27T05:35:58.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: क्यूँकि ये किसी विपक्षी दल के नेता ने नहीं कहा है, इस कारण देश के सारे न्यूज़ एंकरों को चिल्ला चिल्लाकर अपने गले नहीं फाड़ने पड़ेंगे। न ही किसी कश्मीरी पंडितों के हितैषी को ऐसी घटना पट फ़िल्म बनाने की मेहनत करनी पड़ेगी।",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375537",
-          "author": "Temani Afif",
-          "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/",
-          "publishedOn": "2022-12-09T14:26:39.000Z",
-          "wordCount": 3543,
-          "title": "CSS Infinite Slider Flipping Through Polaroid Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375537"
+          "id": "https://nitter.net/kavitadevgan/status/1607609213471326210#m",
+          "author": "@kavitadevgan",
+          "description": "Sharing without any opinion😊\n(Via WhatsApp)",
+          "link": "https://nitter.net/kavitadevgan/status/1607609213471326210#m",
+          "publishedOn": "2022-12-27T05:27:59.000Z",
+          "wordCount": 92,
+          "title": "RT by @Kirtishbhat: Sharing without any opinion😊\n(Via WhatsApp)",
+          "imageUrl": "https://nitter.net/pic/media%2FFk9gDjCaYAEmCzD.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=375697",
-          "author": "Preethi",
-          "description": "How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …\nAnimated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/animated-background-stripes-transition-hover/",
-          "publishedOn": "2022-12-08T15:36:21.000Z",
-          "wordCount": 2476,
-          "title": "Animated Background Stripes That Transition on Hover",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375697"
+          "id": "https://nitter.net/Kirtishbhat/status/1607606117382885376#m",
+          "author": "@Kirtishbhat",
+          "description": "ओ माय गॉड! अनबिलीवेबल.",
+          "link": "https://nitter.net/Kirtishbhat/status/1607606117382885376#m",
+          "publishedOn": "2022-12-27T05:15:40.000Z",
+          "wordCount": null,
+          "title": "ओ माय गॉड! अनबिलीवेबल.",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=375412",
-          "author": "Ganesh Dahal",
-          "description": "The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.\nAdding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/",
-          "publishedOn": "2022-12-07T13:59:50.000Z",
-          "wordCount": 1930,
-          "title": "Adding Box Shadows to WordPress Blocks and Elements",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375412"
+          "id": "https://nitter.net/BBCHindi/status/1607598330250678273#m",
+          "author": "@BBCHindi",
+          "description": "क्या रवीश ख़ुद को NDTV से बड़ा ब्रैंड समझते हैं?\n@ravishndtv के साथ बीबीसी न्यूज़ के इंडिया डिजिटल एडिटर @BBCMukeshS की पूरी बातचीत देखिए- bbc.in/3C556nv",
+          "link": "https://nitter.net/BBCHindi/status/1607598330250678273#m",
+          "publishedOn": "2022-12-27T04:44:44.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: क्या रवीश ख़ुद को NDTV से बड़ा ब्रैंड समझते हैं?\nटेकओवर के बाद क्यों लगा कि काम की आज़ादी नहीं मिलेगी?\nक्या रवीश कुमार राजनीति में आएंगे?\n\nवरिष्ठ पत्रकार @ravishndtv के साथ बीबीसी न्यूज़ के इंडिया डिजिटल एडिटर @BBCMukeshS की पूरी बातचीत देखिए- https://bbc.in/3C556nv",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1607398910368321536#m",
+          "author": "@Kirtishbhat",
+          "description": "एक्सक्यूज मी!",
+          "link": "https://nitter.net/Kirtishbhat/status/1607398910368321536#m",
+          "publishedOn": "2022-12-26T15:32:18.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: एक्सक्यूज मी!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/bbcnewsmarathi/status/1607362715118620675#m",
+          "author": "@bbcnewsmarathi",
+          "description": "जपून भावांनो 😑\n@Kirtishbhat",
+          "link": "https://nitter.net/bbcnewsmarathi/status/1607362715118620675#m",
+          "publishedOn": "2022-12-26T13:08:29.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: जपून भावांनो 😑\n\n@Kirtishbhat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/BBCHindi/status/1607354665292660736#m",
+          "author": "@BBCHindi",
+          "description": "आज का कार्टून",
+          "link": "https://nitter.net/BBCHindi/status/1607354665292660736#m",
+          "publishedOn": "2022-12-26T12:36:30.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: आज का कार्टून",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "Satish Acharya / @satishacharya",
+      "feedUrl": "https://nitter.net/satishacharya/with_replies/rss",
+      "siteUrl": "https://nitter.net/satishacharya",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
-          "author": "hello@smashingmagazine.com (Paul Matvienko)",
-          "description": "Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.",
-          "link": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
-          "publishedOn": "2022-12-29T13:00:00.000Z",
-          "wordCount": 4873,
-          "title": "An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608651161556619264#m",
+          "author": "@satishacharya",
+          "description": "RIP Legend! #Pele",
+          "link": "https://nitter.net/satishacharya/status/1608651161556619264#m",
+          "publishedOn": "2022-12-30T02:28:18.000Z",
+          "wordCount": null,
+          "title": "RIP Legend! #Pele",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
-          "author": "hello@smashingmagazine.com (Alvin Bryan)",
-          "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
-          "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
-          "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4885,
-          "title": "A Guide To Command-Line Data Manipulation",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608523950212124672#m",
+          "author": "@satishacharya",
+          "description": "Thanks",
+          "link": "https://nitter.net/satishacharya/status/1608523950212124672#m",
+          "publishedOn": "2022-12-29T18:02:49.000Z",
+          "wordCount": null,
+          "title": "R to @PRATHIP: Thanks",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
-          "author": "hello@smashingmagazine.com (Nicolas Hoffmann)",
-          "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
-          "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
-          "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4361,
-          "title": "Deploying CSS Logical Properties On Web Apps",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608514410120900608#m",
+          "author": "@satishacharya",
+          "description": "Thanks Sree",
+          "link": "https://nitter.net/satishacharya/status/1608514410120900608#m",
+          "publishedOn": "2022-12-29T17:24:54.000Z",
+          "wordCount": null,
+          "title": "R to @SREERANJ: Thanks Sree",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
-          "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "publishedOn": "2022-12-20T12:00:00.000Z",
-          "wordCount": 8298,
-          "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608513529828757504#m",
+          "author": "@satishacharya",
+          "description": "🙏 ser",
+          "link": "https://nitter.net/satishacharya/status/1608513529828757504#m",
+          "publishedOn": "2022-12-29T17:21:24.000Z",
+          "wordCount": null,
+          "title": "R to @noushadart: 🙏 ser",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
-          "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
-          "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5484,
-          "title": "Taking The Stress Out Of Design System Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608504857950048256#m",
+          "author": "@satishacharya",
+          "description": "Thanks",
+          "link": "https://nitter.net/satishacharya/status/1608504857950048256#m",
+          "publishedOn": "2022-12-29T16:46:57.000Z",
+          "wordCount": null,
+          "title": "R to @AkshayUpadhya_: Thanks",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
-          "author": "hello@smashingmagazine.com (Ashish Bogawat)",
-          "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
-          "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
-          "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5642,
-          "title": "Boosting Productivity For Designers With Efficient Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608504549526097925#m",
+          "author": "@satishacharya",
+          "description": "Humbled! 🙏",
+          "link": "https://nitter.net/satishacharya/status/1608504549526097925#m",
+          "publishedOn": "2022-12-29T16:45:43.000Z",
+          "wordCount": null,
+          "title": "R to @techbubble: Humbled! 🙏",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/",
-          "author": "hello@smashingmagazine.com (Suzanne Scacca)",
-          "description": "Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.",
-          "link": "https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/",
-          "publishedOn": "2022-12-15T13:30:00.000Z",
-          "wordCount": 4235,
-          "title": "How To Prioritize User Security When Collecting Offline Data",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670867131/prioritize-user-security-collecting-offline-data_nozcsc.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670867131/prioritize-user-security-collecting-offline-data_nozcsc.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608504427153096705#m",
+          "author": "@satishacharya",
+          "description": "It was an honour to draw this. Thanks to Nik",
+          "link": "https://nitter.net/satishacharya/status/1608504427153096705#m",
+          "publishedOn": "2022-12-29T16:45:14.000Z",
+          "wordCount": null,
+          "title": "R to @sinmipe: It was an honour to draw this. Thanks to Nik",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/",
-          "author": "hello@smashingmagazine.com (Heather Burns)",
-          "description": "All of us want to create inclusive, safe, and privacy-aware digital experiences, but where to begin? Our brand new Smashing Book, “Understanding Privacy,” written by Heather Burns, can help you lay the ground for future developers, designers, and project managers to build a better web for tomorrow. [Jump to the details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) or [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
-          "link": "https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/",
-          "publishedOn": "2022-12-13T17:30:00.000Z",
-          "wordCount": 4424,
-          "title": "Understanding Privacy: Protect Your Users, Protect Yourself",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d490bcc4-aa79-4b19-a39c-6ed3a8ae815c/understanding-privacy-protect-your-users-protect-yourself.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d490bcc4-aa79-4b19-a39c-6ed3a8ae815c/understanding-privacy-protect-your-users-protect-yourself.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608497087125291008#m",
+          "author": "@satishacharya",
+          "description": "This is a wonderful initiative, Nik.",
+          "link": "https://nitter.net/satishacharya/status/1608497087125291008#m",
+          "publishedOn": "2022-12-29T16:16:04.000Z",
+          "wordCount": null,
+          "title": "R to @techbubble: This is a wonderful initiative, Nik.",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
-          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
-          "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5605,
-          "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg"
+          "id": "https://nitter.net/techbubble/status/1608496621645627392#m",
+          "author": "@techbubble",
+          "description": "Dear Artist, YOU are fine\n@NftyDreams is changing the Game",
+          "link": "https://nitter.net/techbubble/status/1608496621645627392#m",
+          "publishedOn": "2022-12-29T16:14:13.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: Dear Artist, YOU are fine\nAnd YOUR Artworks are fine\n\nBut you don't have a Sale\nBecause the Market is a Fail\n\nThere are too many Artists\nWith too many Artworks\n\nChasing too few Collectors\nWith too limited Dollars\n\nCan't fix with more of the Same\n@NftyDreams is changing the Game",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "author": "hello@smashingmagazine.com (Keima Kai)",
-          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
-          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "publishedOn": "2022-12-12T13:00:00.000Z",
-          "wordCount": 5850,
-          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608492130359738368#m",
+          "author": "@satishacharya",
+          "description": "@zoo_bear Happy birthday, Zubair brother! Have a great year ahead! 🥳🎂",
+          "link": "https://nitter.net/satishacharya/status/1608492130359738368#m",
+          "publishedOn": "2022-12-29T15:56:22.000Z",
+          "wordCount": null,
+          "title": "@zoo_bear Happy birthday, Zubair brother! Have a great year ahead! 🥳🎂",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
-          "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
-          "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3873,
-          "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608480175003676673#m",
+          "author": "@satishacharya",
+          "description": "Fabulous, Rakesh!",
+          "link": "https://nitter.net/satishacharya/status/1608480175003676673#m",
+          "publishedOn": "2022-12-29T15:08:52.000Z",
+          "wordCount": null,
+          "title": "R to @rakesh_pulapa: Fabulous, Rakesh!",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
-          "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
-          "publishedOn": "2022-12-07T11:00:00.000Z",
-          "wordCount": 5380,
-          "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
+          "id": "https://nitter.net/Areebuddin14/status/1608456547113500674#m",
+          "author": "@Areebuddin14",
+          "description": "Finally recieved @satishacharya's signed cartoon/sketch book on covid-19. His sketches are very powerful! What words cannot express, art does.",
+          "link": "https://nitter.net/Areebuddin14/status/1608456547113500674#m",
+          "publishedOn": "2022-12-29T13:34:59.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: Finally recieved @satishacharya's signed cartoon/sketch book on covid-19. His sketches are very powerful! What words cannot express, art does.",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
-          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6049,
-          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
+          "id": "https://nitter.net/rakesh_pulapa/status/1608454514931298304#m",
+          "author": "@rakesh_pulapa",
+          "description": "GM\n\nThe Emojiland shot in Bali",
+          "link": "https://nitter.net/rakesh_pulapa/status/1608454514931298304#m",
+          "publishedOn": "2022-12-29T13:26:54.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: GM\n\nThe Emojiland shot in Bali",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
-          "author": "hello@smashingmagazine.com (Dan Donald)",
-          "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
-          "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
-          "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6401,
-          "title": "The Anatomy Of Themed Design System Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg"
+          "id": "https://nitter.net/satishacharya/status/1608095393019228161#m",
+          "author": "@satishacharya",
+          "description": "Keep weapons at home, says BJP MP Pragya Thakur! #pragyathakur",
+          "link": "https://nitter.net/satishacharya/status/1608095393019228161#m",
+          "publishedOn": "2022-12-28T13:39:53.000Z",
+          "wordCount": null,
+          "title": "Keep weapons at home, says BJP MP Pragya Thakur! #pragyathakur",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
-          "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
-          "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
-          "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
-          "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4968,
-          "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
+          "id": "https://nitter.net/satishacharya/status/1607996381121347585#m",
+          "author": "@satishacharya",
+          "description": "gm",
+          "link": "https://nitter.net/satishacharya/status/1607996381121347585#m",
+          "publishedOn": "2022-12-28T07:06:27.000Z",
+          "wordCount": null,
+          "title": "R to @punk6529: gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1607978638317858817#m",
+          "author": "@satishacharya",
+          "description": "😍",
+          "link": "https://nitter.net/satishacharya/status/1607978638317858817#m",
+          "publishedOn": "2022-12-28T05:55:56.000Z",
+          "wordCount": null,
+          "title": "R to @highbrid_theory: 😍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1607977285176668166#m",
+          "author": "@satishacharya",
+          "description": "Joy of life. ❤️\nnitter.net/sruthijith/status/1607947635310354432#m",
+          "link": "https://nitter.net/satishacharya/status/1607977285176668166#m",
+          "publishedOn": "2022-12-28T05:50:34.000Z",
+          "wordCount": null,
+          "title": "Joy of life. ❤️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1607975359068393473#m",
+          "author": "@satishacharya",
+          "description": "Stunning visual!",
+          "link": "https://nitter.net/satishacharya/status/1607975359068393473#m",
+          "publishedOn": "2022-12-28T05:42:54.000Z",
+          "wordCount": 46,
+          "title": "R to @priyankap_patel: Stunning visual!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Benarasiyaa/status/1607798079083941890#m",
+          "author": "@Benarasiyaa",
+          "description": "During surprise inspection of DIG RK Bhardwaj to check preparedness of the police in UP's Sant Kabir Nagar, a video of a sub-inspector putting cartridge from the opening of the barrel of an anti riot gun which uses rubber bullets has surfaced.",
+          "link": "https://nitter.net/Benarasiyaa/status/1607798079083941890#m",
+          "publishedOn": "2022-12-27T17:58:28.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: During surprise inspection of DIG RK Bhardwaj to check preparedness of the police in UP's Sant Kabir Nagar, a video of a sub-inspector putting cartridge from the opening of the barrel of an anti riot gun which uses rubber bullets has surfaced.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1607378331309309952#m",
+          "author": "@satishacharya",
+          "description": "Pragya Thakur's hate speech in Karnataka. @moliticsindia cartoon. #PragyaThakur #Karnataka #covidindia",
+          "link": "https://nitter.net/satishacharya/status/1607378331309309952#m",
+          "publishedOn": "2022-12-26T14:10:32.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: Pragya Thakur's hate speech in Karnataka. @moliticsindia cartoon. #PragyaThakur #Karnataka #covidindia",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
+      "title": "MANJUL / @MANJULtoons",
+      "feedUrl": "https://nitter.net/MANJULtoons/with_replies/rss",
+      "siteUrl": "https://nitter.net/MANJULtoons",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
-          "author": "Lynn Zheng",
-          "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
-          "publishedOn": "2022-12-23T02:43:43.000Z",
-          "wordCount": 2134,
-          "title": "Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/splash-2-lowres-1.png"
+          "id": "https://nitter.net/MANJULtoons/status/1608675339378786305#m",
+          "author": "@MANJULtoons",
+          "description": "☺️🙏\nnitter.net/ComicThief/status/1608673520430755840#m",
+          "link": "https://nitter.net/MANJULtoons/status/1608675339378786305#m",
+          "publishedOn": "2022-12-30T04:04:23.000Z",
+          "wordCount": null,
+          "title": "☺️🙏",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
-          "author": "Andrew Brown",
-          "description": "When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache",
-          "link": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
-          "publishedOn": "2022-12-22T20:45:05.000Z",
-          "wordCount": 1830,
-          "title": "How to Cache Expensive Database Queries Using the Momento Serverless Cache",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tiger-lily-4483610.jpg"
+          "id": "https://nitter.net/MANJULtoons/status/1608646710787723267#m",
+          "author": "@MANJULtoons",
+          "description": "Om Shanti\nindianexpress.com/article/sp…",
+          "link": "https://nitter.net/MANJULtoons/status/1608646710787723267#m",
+          "publishedOn": "2022-12-30T02:10:37.000Z",
+          "wordCount": null,
+          "title": "Om Shanti\nhttps://indianexpress.com/article/sports/football/pele-dead-passes-away-brazil-8351398/",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
-          "author": "Joel Olawanle",
-          "description": "When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if",
-          "link": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
-          "publishedOn": "2022-12-22T18:57:16.000Z",
-          "wordCount": 1396,
-          "title": "String Equality in JavaScript – How to Compare Strings in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--3-.png"
+          "id": "https://nitter.net/MANJULtoons/status/1608645115400310784#m",
+          "author": "@MANJULtoons",
+          "description": "Om Shanti!\nlivemint.com/news/india/pm-n… #HeerabenModi",
+          "link": "https://nitter.net/MANJULtoons/status/1608645115400310784#m",
+          "publishedOn": "2022-12-30T02:04:17.000Z",
+          "wordCount": null,
+          "title": "Om Shanti!\nhttps://www.livemint.com/news/india/pm-narendra-modi-s-mother-heeraben-passes-away-at-100-11672361281008.html #HeerabenModi",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
-          "author": "Kolade Chris",
-          "description": "A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     \"frontend\": \"JavaScript\",     \"backend\": \"Node JS\",     \"markup\": \"HTML and JSX\", } To access",
-          "link": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
-          "publishedOn": "2022-12-22T18:04:49.000Z",
-          "wordCount": 1315,
-          "title": "Adding to a Dict in Python – How to Add to a Dictionary",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/addToDict.png"
+          "id": "https://nitter.net/MANJULtoons/status/1608514962108080128#m",
+          "author": "@MANJULtoons",
+          "description": "इंडिया टुडे ने फिर से साबित किया कि अगर सामने वाला शख्स आपको नकली सोने से भी तौल दे तो आप अपनी पत्रकारिता के स्तर को गोल्ड स्टैण्डर्ड का बता सकते हो।",
+          "link": "https://nitter.net/MANJULtoons/status/1608514962108080128#m",
+          "publishedOn": "2022-12-29T17:27:06.000Z",
+          "wordCount": null,
+          "title": "इंडिया टुडे ने फिर से साबित किया कि अगर सामने वाला शख्स आपको नकली सोने से भी तौल दे तो आप अपनी पत्रकारिता के स्तर को गोल्ड स्टैण्डर्ड का बता सकते हो।",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
-          "author": "Rwitesh Bera",
-          "description": "Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are",
-          "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
-          "publishedOn": "2022-12-22T17:50:05.000Z",
-          "wordCount": 1733,
-          "title": "JavaScript Execution Context – How JS Works Behind the Scenes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Dark-Blue-Illustrated-Techno-Daily-Smore-Header--1.png"
+          "id": "https://nitter.net/MANJULtoons/status/1608507192348651521#m",
+          "author": "@MANJULtoons",
+          "description": "पूरा एपिसोड piped.video/1w-hM85D0ec",
+          "link": "https://nitter.net/MANJULtoons/status/1608507192348651521#m",
+          "publishedOn": "2022-12-29T16:56:13.000Z",
+          "wordCount": 125,
+          "title": "R to @MANJULtoons: पूरा एपिसोड https://youtu.be/1w-hM85D0ec",
+          "imageUrl": "https://nitter.net/pic/card_img%2F1608333342394699777%2FYfIbiWS8%3Fformat%3Djpg%26name%3D800x320_1"
         },
         {
-          "id": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
-          "author": "Suchandra Datta",
-          "description": "The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to",
-          "link": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
-          "publishedOn": "2022-12-22T15:56:07.000Z",
-          "wordCount": 2336,
-          "title": "What is enumerate() in Python? Enumeration Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-yan-krukov-8612931.jpg"
+          "id": "https://nitter.net/MANJULtoons/status/1608505129493475333#m",
+          "author": "@MANJULtoons",
+          "description": "न्यूलॉन्द्री ने दूसरा अच्छा काम किया है ब्रेक में विज्ञापन दिखाने का। ये विज्ञापन देखे जाने योग्य है।",
+          "link": "https://nitter.net/MANJULtoons/status/1608505129493475333#m",
+          "publishedOn": "2022-12-29T16:48:02.000Z",
+          "wordCount": null,
+          "title": "R to @MANJULtoons: न्यूलॉन्द्री ने दूसरा अच्छा काम किया है ब्रेक में विज्ञापन दिखाने का। ये विज्ञापन देखे जाने योग्य है।",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/",
-          "author": "Edeh Israel Chidera",
-          "description": "Filtering through a data set is one of the most basic operations a developer should know how to perform.  Filtering [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data]  refers to the process of restricting the result set to contain only those elements that satisfy a specified condition. It is also known as selection.  To",
-          "link": "https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/",
-          "publishedOn": "2022-12-21T21:45:12.000Z",
-          "wordCount": 1636,
-          "title": "Filtering in C# – How to Filter a List with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
+          "id": "https://nitter.net/MANJULtoons/status/1608501626851184640#m",
+          "author": "@MANJULtoons",
+          "description": "इस बार की टिप्पणी में गोयबल्स जोशी जी को अतिथि भूमिका में बुलाने का शुक्रिया @BeechBazar जी।",
+          "link": "https://nitter.net/MANJULtoons/status/1608501626851184640#m",
+          "publishedOn": "2022-12-29T16:34:07.000Z",
+          "wordCount": null,
+          "title": "इस बार की टिप्पणी में गोयबल्स जोशी जी को अतिथि भूमिका में बुलाने का शुक्रिया @BeechBazar जी।",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/",
-          "author": "Kolade Chris",
-          "description": "Most times when you encounter errors while coding, you can discover the reason why the error is occurring and how you can fix it in the error message. The Python error, \"TypeError: can't multiply sequence by non-int of type float\" is no exception to that. I have prepared this article",
-          "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/",
-          "publishedOn": "2022-12-21T21:13:46.000Z",
-          "wordCount": 1312,
-          "title": "TypeError: can't multiply sequence by non-int of type float [Solved Python Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-polina-zimmerman-3747132.jpg"
+          "id": "https://nitter.net/MANJULtoons/status/1608499037724110848#m",
+          "author": "@MANJULtoons",
+          "description": "Oh!",
+          "link": "https://nitter.net/MANJULtoons/status/1608499037724110848#m",
+          "publishedOn": "2022-12-29T16:23:49.000Z",
+          "wordCount": null,
+          "title": "R to @NarundarM: Oh!",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/",
-          "author": "Omer Rosenbaum",
-          "description": "In this post you will learn about an amazing tool named Scapy. Scapy is a Python library that enables us to send, sniff, and dissect network frames.  It is useful in a variety of use cases, one of which is to actually get some hands-on experience when you learn",
-          "link": "https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/",
-          "publishedOn": "2022-12-21T21:02:17.000Z",
-          "wordCount": 2004,
-          "title": "How to Use Scapy – Python Networking Tool Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Computer-Networks-Hub-Switch--1-.png"
+          "id": "https://nitter.net/MANJULtoons/status/1608478081278263296#m",
+          "author": "@MANJULtoons",
+          "description": "🙏🙏🙏 थैंक यू, सर.\nnitter.net/kaul_vivek/status/1608129394203316224#m",
+          "link": "https://nitter.net/MANJULtoons/status/1608478081278263296#m",
+          "publishedOn": "2022-12-29T15:00:33.000Z",
+          "wordCount": null,
+          "title": "🙏🙏🙏 थैंक यू, सर.",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/concurrent-programming-in-go/",
-          "author": "Rwitesh Bera",
-          "description": "Concurrency refers to a programming language's ability to deal with lots of things at once. A good way to understand concurrency is by imagining multiple cars traveling on two lanes. Sometimes the cars overtake each other, and sometimes they stop and let others pass by. Another good example is when",
-          "link": "https://www.freecodecamp.org/news/concurrent-programming-in-go/",
-          "publishedOn": "2022-12-21T19:02:59.000Z",
-          "wordCount": 2016,
-          "title": "Concurrent Programming in Go – Goroutines, Channels, and More Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/2-1.png"
+          "id": "https://nitter.net/MANJULtoons/status/1608448016394129409#m",
+          "author": "@MANJULtoons",
+          "description": "His daughter? Who is using his daughter's images? I saw a video mashup  on Twitter in which a girl is making an appeal to film makers. It also has some old interview of Mr Agnihotri. Is that girl his daughter?",
+          "link": "https://nitter.net/MANJULtoons/status/1608448016394129409#m",
+          "publishedOn": "2022-12-29T13:01:05.000Z",
+          "wordCount": null,
+          "title": "R to @NarundarM: His daughter? Who is using his daughter's images? I saw a video mashup  on Twitter in which a girl is making an appeal to film makers. It also has some old interview of Mr Agnihotri. Is that girl his daughter?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608446537604141057#m",
+          "author": "@MANJULtoons",
+          "description": "'सबसे ज्यादा पैसे वाले सेठ' ने 'सबसे ज्यादा जिगर वाले पत्रकार' को इंटरव्यू क्यों नहीं दिया?",
+          "link": "https://nitter.net/MANJULtoons/status/1608446537604141057#m",
+          "publishedOn": "2022-12-29T12:55:12.000Z",
+          "wordCount": null,
+          "title": "'सबसे ज्यादा पैसे वाले सेठ' ने 'सबसे ज्यादा जिगर वाले पत्रकार' को इंटरव्यू क्यों नहीं दिया?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/newslaundry/status/1608432771164246022#m",
+          "author": "@newslaundry",
+          "description": "Stay 'tooned' for the last #SoSketchy of 2022! \n@MANJULtoons revive the fading tradition of political commentary through cartoons, which now more than ever needs to rewarded, not censored: newslaundry.com/subscription…",
+          "link": "https://nitter.net/newslaundry/status/1608432771164246022#m",
+          "publishedOn": "2022-12-29T12:00:30.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: Stay 'tooned' for the last #SoSketchy of 2022! \n\nReleasing tomorrow!\n\nSubscribe to Newslaundry to help us and @MANJULtoons revive the fading tradition of political commentary through cartoons, which now more than ever needs to rewarded, not censored: https://www.newslaundry.com/subscription?ref=sosketchy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608357432736239617#m",
+          "author": "@MANJULtoons",
+          "description": "भाजपा प्रवक्ताओं/नेताओं की सबसे खूबसूरत बात ये है कि कोई उनका ध्यान भटकाने की कितनी भी कोशिश करे पर वो हमेशा मुद्दे की बात करते हैं।",
+          "link": "https://nitter.net/MANJULtoons/status/1608357432736239617#m",
+          "publishedOn": "2022-12-29T07:01:08.000Z",
+          "wordCount": null,
+          "title": "भाजपा प्रवक्ताओं/नेताओं की सबसे खूबसूरत बात ये है कि कोई उनका ध्यान भटकाने की कितनी भी कोशिश करे पर वो हमेशा मुद्दे की बात करते हैं।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608355357113614337#m",
+          "author": "@MANJULtoons",
+          "description": "ये इंटरव्यू और बढ़िया हो सकता था अगर राज चेंगप्पा जी के सवाल भी उसी अंदाज में होते जिस अंदाज में जवाब हैं। रुक-रुक कर, पढ़ कर बोले जाने जैसे अंदाज में। पीछे से कोई मद्धम संगीत भी डाल देना था, ढिंग चक, ढिंग चक टाइप।",
+          "link": "https://nitter.net/MANJULtoons/status/1608355357113614337#m",
+          "publishedOn": "2022-12-29T06:52:53.000Z",
+          "wordCount": null,
+          "title": "R to @MANJULtoons: ये इंटरव्यू और बढ़िया हो सकता था अगर राज चेंगप्पा जी के सवाल भी उसी अंदाज में होते जिस अंदाज में जवाब हैं। रुक-रुक कर, पढ़ कर बोले जाने जैसे अंदाज में। पीछे से कोई मद्धम संगीत भी डाल देना था, ढिंग चक, ढिंग चक टाइप।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608350700358209536#m",
+          "author": "@MANJULtoons",
+          "description": "प्रकृति का बैलेंस बनाये रखने के अपने ही तरीके हैं।\nजब मनोज मुन्तशिर वरुण गांधी हो जाते हैं तो वो वरुण गांधी को मनोज मुन्तशिर कर देती है।",
+          "link": "https://nitter.net/MANJULtoons/status/1608350700358209536#m",
+          "publishedOn": "2022-12-29T06:34:23.000Z",
+          "wordCount": null,
+          "title": "प्रकृति का बैलेंस बनाये रखने के अपने ही तरीके हैं।\nजब मनोज मुन्तशिर वरुण गांधी हो जाते हैं तो वो वरुण गांधी को मनोज मुन्तशिर कर देती है।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608345155530297347#m",
+          "author": "@MANJULtoons",
+          "description": "🤣🤣🤣",
+          "link": "https://nitter.net/MANJULtoons/status/1608345155530297347#m",
+          "publishedOn": "2022-12-29T06:12:21.000Z",
+          "wordCount": null,
+          "title": "R to @AbhishekSay: 🤣🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608343343708372996#m",
+          "author": "@MANJULtoons",
+          "description": "☺️\nnitter.net/roy_deepikarc/status/1608343215543025665#m",
+          "link": "https://nitter.net/MANJULtoons/status/1608343343708372996#m",
+          "publishedOn": "2022-12-29T06:05:09.000Z",
+          "wordCount": null,
+          "title": "☺️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608310634382524417#m",
+          "author": "@MANJULtoons",
+          "description": ".@kroordarshan और @ms_medusssa की जबरदस्त जुगलबंदी। ये एक ऐतिहासिक वीडियो है। जरूर देखिये और लोगों को दिखाइए।\npiped.video/2iNwqcEEelk",
+          "link": "https://nitter.net/MANJULtoons/status/1608310634382524417#m",
+          "publishedOn": "2022-12-29T03:55:10.000Z",
+          "wordCount": null,
+          "title": ".@kroordarshan और @ms_medusssa की जबरदस्त जुगलबंदी। ये एक ऐतिहासिक वीडियो है। जरूर देखिये और लोगों को दिखाइए।\nhttps://youtu.be/2iNwqcEEelk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608303235827392515#m",
+          "author": "@MANJULtoons",
+          "description": "बेचारा लल्लनटॉप! अभी-अभी 7 बरस का हुआ और ये किस तरह के इंटरव्यू के चक्कर में पड़ गया.",
+          "link": "https://nitter.net/MANJULtoons/status/1608303235827392515#m",
+          "publishedOn": "2022-12-29T03:25:46.000Z",
+          "wordCount": null,
+          "title": "R to @MANJULtoons: बेचारा लल्लनटॉप! अभी-अभी 7 बरस का हुआ और ये किस तरह के इंटरव्यू के चक्कर में पड़ गया.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1608300223872499712#m",
+          "author": "@MANJULtoons",
+          "description": "इंटरव्यू इतना असमान्य क्यों लग रहा है? राज चेंगप्पा किसी विज्ञापन  के मॉडल की तरह अदानी जी का कारोबार गिना रहे हैं. अदानी जी पहले किसी कुर्सी पर बैठे दिखाई दे रहे हैं. कुछ सेकेण्ड में कुर्सी बदल जाती है. फिर वापस आ जाती है. लोगो भी लल्लनटॉप का है.",
+          "link": "https://nitter.net/MANJULtoons/status/1608300223872499712#m",
+          "publishedOn": "2022-12-29T03:13:48.000Z",
+          "wordCount": null,
+          "title": "इंटरव्यू इतना असमान्य क्यों लग रहा है? राज चेंगप्पा किसी विज्ञापन  के मॉडल की तरह अदानी जी का कारोबार गिना रहे हैं. अदानी जी पहले किसी कुर्सी पर बैठे दिखाई दे रहे हैं. कुछ सेकेण्ड में कुर्सी बदल जाती है. फिर वापस आ जाती है. लोगो भी लल्लनटॉप का है.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Rakesh Ranjan / @cartoonistrrs",
+      "feedUrl": "https://nitter.net/cartoonistrrs/with_replies/rss",
+      "siteUrl": "https://nitter.net/cartoonistrrs",
+      "articles": [
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608672845118443520#m",
+          "author": "@cartoonistrrs",
+          "description": "आज का दिन  ठीक नहीं है #HIRABA #Pele #RishabhPant 😭",
+          "link": "https://nitter.net/cartoonistrrs/status/1608672845118443520#m",
+          "publishedOn": "2022-12-30T03:54:28.000Z",
+          "wordCount": null,
+          "title": "आज का दिन  ठीक नहीं है #HIRABA #Pele #RishabhPant 😭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608657959718113282#m",
+          "author": "@cartoonistrrs",
+          "description": "श्रद्धांजलि 😰\nnitter.net/narendramodi/status/1608622111660331012#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1608657959718113282#m",
+          "publishedOn": "2022-12-30T02:55:19.000Z",
+          "wordCount": null,
+          "title": "श्रद्धांजलि 😰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/AnumaVidisha/status/1608488000580911106#m",
+          "author": "@AnumaVidisha",
+          "description": "हवा में उड़ता जाये, लाल दुपट्टा मलमल का…हो जी, मोदी…..",
+          "link": "https://nitter.net/AnumaVidisha/status/1608488000580911106#m",
+          "publishedOn": "2022-12-29T15:39:58.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: हवा में उड़ता जाये, लाल दुपट्टा मलमल का…हो जी, मोदी…..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/shantanu1378/status/1608454791130419200#m",
+          "author": "@shantanu1378",
+          "description": "टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?\n#AdaniOnIndiaToday",
+          "link": "https://nitter.net/shantanu1378/status/1608454791130419200#m",
+          "publishedOn": "2022-12-29T13:28:00.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?\n\n#AdaniOnIndiaToday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/anudeepjaglan/status/1608448389255139329#m",
+          "author": "@anudeepjaglan",
+          "description": "ये जनाब अख़बार ऐसे नहीं ख़रीदते, वैसे ही ख़रीद लेते है।\nnitter.net/cartoonistrrs/status/1608443640166350848#m",
+          "link": "https://nitter.net/anudeepjaglan/status/1608448389255139329#m",
+          "publishedOn": "2022-12-29T13:02:34.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: ये जनाब अख़बार ऐसे नहीं ख़रीदते, वैसे ही ख़रीद लेते है।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608443640166350848#m",
+          "author": "@cartoonistrrs",
+          "description": "मुस्कुराइए आप कार्टूनिस्ट के वाल पर हैं",
+          "link": "https://nitter.net/cartoonistrrs/status/1608443640166350848#m",
+          "publishedOn": "2022-12-29T12:43:41.000Z",
+          "wordCount": 277,
+          "title": "मुस्कुराइए आप कार्टूनिस्ट के वाल पर हैं",
+          "imageUrl": "https://nitter.net/pic/media%2FFlJW9edaYAAF3jZ.jpg"
+        },
+        {
+          "id": "https://nitter.net/moliticsindia/status/1608434934993256450#m",
+          "author": "@moliticsindia",
+          "description": "टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?\n#AdaniOnIndiaToday @cartoonistrrs",
+          "link": "https://nitter.net/moliticsindia/status/1608434934993256450#m",
+          "publishedOn": "2022-12-29T12:09:06.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: टुकड़ो पर पलने वाले क्या सवाल पूछेंगे?\n\n#AdaniOnIndiaToday @cartoonistrrs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608400250330570753#m",
+          "author": "@cartoonistrrs",
+          "description": "good  party",
+          "link": "https://nitter.net/cartoonistrrs/status/1608400250330570753#m",
+          "publishedOn": "2022-12-29T09:51:16.000Z",
+          "wordCount": null,
+          "title": "R to @Vershasingh26: good  party",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608399507536113666#m",
+          "author": "@cartoonistrrs",
+          "description": "ठीक है ?\n#AdaniOnIndiaToday",
+          "link": "https://nitter.net/cartoonistrrs/status/1608399507536113666#m",
+          "publishedOn": "2022-12-29T09:48:19.000Z",
+          "wordCount": null,
+          "title": "ठीक है ?\n#AdaniOnIndiaToday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/moliticsindia/status/1608397112961794048#m",
+          "author": "@moliticsindia",
+          "description": "खाते जाओ-साहब के गुण गाए जाओ!\n#AdaniGroup #AdaniOnIndiaToday @cartoonistrrs",
+          "link": "https://nitter.net/moliticsindia/status/1608397112961794048#m",
+          "publishedOn": "2022-12-29T09:38:48.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: खाते जाओ-साहब के गुण गाए जाओ!\n\n#AdaniGroup #AdaniOnIndiaToday @cartoonistrrs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608351565882195975#m",
+          "author": "@cartoonistrrs",
+          "description": "I also noticed 🤣🤣🤣\nnitter.net/MANJULtoons/status/1608300223872499712#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1608351565882195975#m",
+          "publishedOn": "2022-12-29T06:37:49.000Z",
+          "wordCount": null,
+          "title": "I also noticed 🤣🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608314589879631872#m",
+          "author": "@cartoonistrrs",
+          "description": "अब टिपण्णी कर दूँ तो कहोगे की बोलता है, किसी की माँ की तबियत ख़राब हो तो उससे मिलने जाने की चाल इतनी नार्मल होगी, साथ में कैमरा मैन को ले जाने की क्या जरुरत ?\nnitter.net/RashtraManch/status/1608136823930499073#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1608314589879631872#m",
+          "publishedOn": "2022-12-29T04:10:53.000Z",
+          "wordCount": null,
+          "title": "अब टिपण्णी कर दूँ तो कहोगे की बोलता है, किसी की माँ की तबियत ख़राब हो तो उससे मिलने जाने की चाल इतनी नार्मल होगी, साथ में कैमरा मैन को ले जाने की क्या जरुरत ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608303060136390656#m",
+          "author": "@cartoonistrrs",
+          "description": "बिहार में खेला चालू है ...",
+          "link": "https://nitter.net/cartoonistrrs/status/1608303060136390656#m",
+          "publishedOn": "2022-12-29T03:25:05.000Z",
+          "wordCount": null,
+          "title": "बिहार में खेला चालू है ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608300304956813313#m",
+          "author": "@cartoonistrrs",
+          "description": "happy birthday 🎂 🍾 @zoo_bear",
+          "link": "https://nitter.net/cartoonistrrs/status/1608300304956813313#m",
+          "publishedOn": "2022-12-29T03:14:08.000Z",
+          "wordCount": null,
+          "title": "happy birthday 🎂 🍾 @zoo_bear",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608136143580852227#m",
+          "author": "@cartoonistrrs",
+          "description": "छपरी लोग",
+          "link": "https://nitter.net/cartoonistrrs/status/1608136143580852227#m",
+          "publishedOn": "2022-12-28T16:21:49.000Z",
+          "wordCount": null,
+          "title": "R to @scribe_prashant: छपरी लोग",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608100509969448960#m",
+          "author": "@cartoonistrrs",
+          "description": "चित्राजी के लिए सिस्टम कौन और सरकार कौन ?\nnitter.net/aajtak/status/1608045568609357824#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1608100509969448960#m",
+          "publishedOn": "2022-12-28T14:00:13.000Z",
+          "wordCount": null,
+          "title": "चित्राजी के लिए सिस्टम कौन और सरकार कौन ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608099496021610496#m",
+          "author": "@cartoonistrrs",
+          "description": "information and development technology के incharge…@amitmalviya गजब का इनफार्मेशन फैला रहे हो, कोई FIR  न ठोक जाए 🤣🤣🤣\nnitter.net/amitmalviya/status/1607972460531531776#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1608099496021610496#m",
+          "publishedOn": "2022-12-28T13:56:11.000Z",
+          "wordCount": null,
+          "title": "information and development technology के incharge…@amitmalviya गजब का इनफार्मेशन फैला रहे हो, कोई FIR  न ठोक जाए 🤣🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608098487102738439#m",
+          "author": "@cartoonistrrs",
+          "description": "चरित्र के अच्छे किसे मानते हैं आप खुल के बोलिये स्वामीजी",
+          "link": "https://nitter.net/cartoonistrrs/status/1608098487102738439#m",
+          "publishedOn": "2022-12-28T13:52:11.000Z",
+          "wordCount": null,
+          "title": "चरित्र के अच्छे किसे मानते हैं आप खुल के बोलिये स्वामीजी",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1608090664310542336#m",
+          "author": "@cartoonistrrs",
+          "description": "😡😡😡\nnitter.net/JournoPranay/status/1607988820166995968#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1608090664310542336#m",
+          "publishedOn": "2022-12-28T13:21:05.000Z",
+          "wordCount": null,
+          "title": "😡😡😡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/shantanu1378/status/1608087697087954944#m",
+          "author": "@shantanu1378",
+          "description": "मुंह से ठांय-ठांय!\n#UPPoliceInNews",
+          "link": "https://nitter.net/shantanu1378/status/1608087697087954944#m",
+          "publishedOn": "2022-12-28T13:09:18.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: मुंह से ठांय-ठांय!\n\n#UPPoliceInNews",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "cartoonist kaptan / @irshadkaptan1",
+      "feedUrl": "https://nitter.net/irshadkaptan1/with_replies/rss",
+      "siteUrl": "https://nitter.net/irshadkaptan1",
+      "articles": [
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1608460219897745408#m",
+          "author": "@irshadkaptan1",
+          "description": "#HateSpeech @SadhviPragya_MP #PragyaThakur #BJPFailsIndia",
+          "link": "https://nitter.net/irshadkaptan1/status/1608460219897745408#m",
+          "publishedOn": "2022-12-29T13:49:34.000Z",
+          "wordCount": null,
+          "title": "#HateSpeech @SadhviPragya_MP #PragyaThakur #BJPFailsIndia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1608018914113630208#m",
+          "author": "@irshadkaptan1",
+          "description": "#MaharashtraPolitics #maharashtra_karnatak",
+          "link": "https://nitter.net/irshadkaptan1/status/1608018914113630208#m",
+          "publishedOn": "2022-12-28T08:35:59.000Z",
+          "wordCount": null,
+          "title": "#MaharashtraPolitics #maharashtra_karnatak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1606891364817723392#m",
+          "author": "@irshadkaptan1",
+          "description": "#MerryChristmas #MerryChristmas2022 #TulsiPujanDiwas",
+          "link": "https://nitter.net/irshadkaptan1/status/1606891364817723392#m",
+          "publishedOn": "2022-12-25T05:55:30.000Z",
+          "wordCount": null,
+          "title": "#MerryChristmas #MerryChristmas2022 #TulsiPujanDiwas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1606600267537186818#m",
+          "author": "@irshadkaptan1",
+          "description": "#corona #CoronavirusUpdates #sensex #sharemarket",
+          "link": "https://nitter.net/irshadkaptan1/status/1606600267537186818#m",
+          "publishedOn": "2022-12-24T10:38:47.000Z",
+          "wordCount": null,
+          "title": "#corona #CoronavirusUpdates #sensex #sharemarket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1605847297778221056#m",
+          "author": "@irshadkaptan1",
+          "description": "#Talibans #TalibanTerrorists #Afganistan #AfganistanWomen #Afganistán",
+          "link": "https://nitter.net/irshadkaptan1/status/1605847297778221056#m",
+          "publishedOn": "2022-12-22T08:46:45.000Z",
+          "wordCount": null,
+          "title": "#Talibans #TalibanTerrorists #Afganistan #AfganistanWomen #Afganistán",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1605150810815762433#m",
+          "author": "@irshadkaptan1",
+          "description": "#FIFAWorldCup #FIFAWorldCup2022 #Messi𓃵 #Messi #ArgentinaVsFrance",
+          "link": "https://nitter.net/irshadkaptan1/status/1605150810815762433#m",
+          "publishedOn": "2022-12-20T10:39:10.000Z",
+          "wordCount": null,
+          "title": "#FIFAWorldCup #FIFAWorldCup2022 #Messi𓃵 #Messi #ArgentinaVsFrance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1603672841718992896#m",
+          "author": "@irshadkaptan1",
+          "description": "#dilliairport #DelhiAirport",
+          "link": "https://nitter.net/irshadkaptan1/status/1603672841718992896#m",
+          "publishedOn": "2022-12-16T08:46:14.000Z",
+          "wordCount": null,
+          "title": "#dilliairport #DelhiAirport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1603332706246733824#m",
+          "author": "@irshadkaptan1",
+          "description": "#TawangClash #Tawang #China #chinavsindia",
+          "link": "https://nitter.net/irshadkaptan1/status/1603332706246733824#m",
+          "publishedOn": "2022-12-15T10:14:40.000Z",
+          "wordCount": null,
+          "title": "#TawangClash #Tawang #China #chinavsindia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1602951720396816384#m",
+          "author": "@irshadkaptan1",
+          "description": "#BiharNews #NitishKumar #TejashwiYadav",
+          "link": "https://nitter.net/irshadkaptan1/status/1602951720396816384#m",
+          "publishedOn": "2022-12-14T09:00:46.000Z",
+          "wordCount": null,
+          "title": "#BiharNews #NitishKumar #TejashwiYadav",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1600075931632242688#m",
+          "author": "@irshadkaptan1",
+          "description": "#NorthKorea #KimJonghyeon #KimJonghyeon",
+          "link": "https://nitter.net/irshadkaptan1/status/1600075931632242688#m",
+          "publishedOn": "2022-12-06T10:33:24.000Z",
+          "wordCount": null,
+          "title": "#NorthKorea #KimJonghyeon #KimJonghyeon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1599271691968212993#m",
+          "author": "@irshadkaptan1",
+          "description": "#rupee #Rajasthan #RajasthanNews",
+          "link": "https://nitter.net/irshadkaptan1/status/1599271691968212993#m",
+          "publishedOn": "2022-12-04T05:17:39.000Z",
+          "wordCount": null,
+          "title": "#rupee #Rajasthan #RajasthanNews",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1598977736533770241#m",
+          "author": "@irshadkaptan1",
+          "description": "#disputed_statement",
+          "link": "https://nitter.net/irshadkaptan1/status/1598977736533770241#m",
+          "publishedOn": "2022-12-03T09:49:34.000Z",
+          "wordCount": null,
+          "title": "#disputed_statement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1598555662925299712#m",
+          "author": "@irshadkaptan1",
+          "description": "#FIFAWorldCup #FIFAWorldCup2022 @FIFAcom #FIFAWorldCupQatar2022 #woman_referee_in_fifaworldcup",
+          "link": "https://nitter.net/irshadkaptan1/status/1598555662925299712#m",
+          "publishedOn": "2022-12-02T05:52:24.000Z",
+          "wordCount": null,
+          "title": "#FIFAWorldCup #FIFAWorldCup2022 @FIFAcom #FIFAWorldCupQatar2022 #woman_referee_in_fifaworldcup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1598285220436119552#m",
+          "author": "@irshadkaptan1",
+          "description": "#GujratElection2022 #GujratElection #Gujrat @narendramodi @AmitShah @RahulGandhi @ArvindKejriwal @Bhupendrapbjp @BJP4India @INCIndia @AamAadmiParty",
+          "link": "https://nitter.net/irshadkaptan1/status/1598285220436119552#m",
+          "publishedOn": "2022-12-01T11:57:45.000Z",
+          "wordCount": null,
+          "title": "#GujratElection2022 #GujratElection #Gujrat @narendramodi @AmitShah @RahulGandhi @ArvindKejriwal @Bhupendrapbjp @BJP4India @INCIndia @AamAadmiParty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1598262001528340480#m",
+          "author": "@irshadkaptan1",
+          "description": "#aims_server_hacked #aims #serverdown",
+          "link": "https://nitter.net/irshadkaptan1/status/1598262001528340480#m",
+          "publishedOn": "2022-12-01T10:25:30.000Z",
+          "wordCount": null,
+          "title": "#aims_server_hacked #aims #serverdown",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "IdharUdhar / @IdharUddhar",
+      "feedUrl": "https://nitter.net/IdharUddhar/with_replies/rss",
+      "siteUrl": "https://nitter.net/IdharUddhar",
+      "articles": [
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1608672553220071424#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo- 30 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1608672553220071424#m",
+          "publishedOn": "2022-12-30T03:53:19.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo- 30 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1608294826159529984#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 29 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1608294826159529984#m",
+          "publishedOn": "2022-12-29T02:52:21.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 29 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1607933983656153088#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 28 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1607933983656153088#m",
+          "publishedOn": "2022-12-28T02:58:30.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 28 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1607570911032496128#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 27 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1607570911032496128#m",
+          "publishedOn": "2022-12-27T02:55:47.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 27 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1607216770590597120#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 26 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1607216770590597120#m",
+          "publishedOn": "2022-12-26T03:28:33.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 26 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1606879720443940865#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 25 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1606879720443940865#m",
+          "publishedOn": "2022-12-25T05:09:14.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 25 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1606120697746534400#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR -oHERALDo - 23 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1606120697746534400#m",
+          "publishedOn": "2022-12-23T02:53:09.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR -oHERALDo - 23 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1605733543858012160#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 22 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1605733543858012160#m",
+          "publishedOn": "2022-12-22T01:14:44.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 22 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1605179011306594305#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 20 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1605179011306594305#m",
+          "publishedOn": "2022-12-20T12:31:13.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 20 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1604830913984335873#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 19 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1604830913984335873#m",
+          "publishedOn": "2022-12-19T13:28:00.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 19 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1603982348848070656#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 17 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1603982348848070656#m",
+          "publishedOn": "2022-12-17T05:16:07.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 17 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1603582757753745409#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 16 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1603582757753745409#m",
+          "publishedOn": "2022-12-16T02:48:17.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 16 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1603220195790708737#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR- oHERALDo - 15 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1603220195790708737#m",
+          "publishedOn": "2022-12-15T02:47:35.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR- oHERALDo - 15 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1602859710163877889#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 14 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1602859710163877889#m",
+          "publishedOn": "2022-12-14T02:55:09.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 14 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1602496748424990720#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 13 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1602496748424990720#m",
+          "publishedOn": "2022-12-13T02:52:52.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 13 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1602122916610678786#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR- oHERALDo- 12 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1602122916610678786#m",
+          "publishedOn": "2022-12-12T02:07:23.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR- oHERALDo- 12 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1601833485475500032#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 11 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1601833485475500032#m",
+          "publishedOn": "2022-12-11T06:57:18.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 11 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1601442819998351363#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 10 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1601442819998351363#m",
+          "publishedOn": "2022-12-10T05:04:56.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 10 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1601050467836268544#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 09 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1601050467836268544#m",
+          "publishedOn": "2022-12-09T03:05:52.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 09 DECEMBER 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1600686257331634176#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR - oHERALDo - 08 DECEMBER 2022",
+          "link": "https://nitter.net/IdharUddhar/status/1600686257331634176#m",
+          "publishedOn": "2022-12-08T02:58:37.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR - oHERALDo - 08 DECEMBER 2022",
+          "imageUrl": null
         }
       ]
     }
