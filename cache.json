@@ -1,4 +1,803 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Kirtish Bhatt / @Kirtishbhat",
+      "feedUrl": "https://nitter.net/Kirtishbhat/search/rss?f=tweets",
+      "siteUrl": "https://nitter.net/Kirtishbhat",
+      "articles": [
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620811641238736896#m",
+          "author": "@Kirtishbhat",
+          "description": "😁😁",
+          "link": "https://nitter.net/Kirtishbhat/status/1620811641238736896#m",
+          "publishedOn": "2023-02-01T15:49:43.000Z",
+          "wordCount": null,
+          "title": "😁😁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620764829001850880#m",
+          "author": "@Kirtishbhat",
+          "description": "आय है तो कर है ...  #Cartoon on #Budget",
+          "link": "https://nitter.net/Kirtishbhat/status/1620764829001850880#m",
+          "publishedOn": "2023-02-01T12:43:42.000Z",
+          "wordCount": 143,
+          "title": "आय है तो कर है ...  #Cartoon on #Budget",
+          "imageUrl": "https://nitter.net/pic/media%2FFn4c8J7aAAIR47C.jpg"
+        },
+        {
+          "id": "https://nitter.net/BBCHindi/status/1620757630997200897#m",
+          "author": "@BBCHindi",
+          "description": "आज का कार्टून",
+          "link": "https://nitter.net/BBCHindi/status/1620757630997200897#m",
+          "publishedOn": "2023-02-01T12:15:06.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: आज का कार्टून",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620478619624816640#m",
+          "author": "@Kirtishbhat",
+          "description": "😁🙏",
+          "link": "https://nitter.net/Kirtishbhat/status/1620478619624816640#m",
+          "publishedOn": "2023-01-31T17:46:24.000Z",
+          "wordCount": 50,
+          "title": "R to @_simranagarwal: 😁🙏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620443248866246658#m",
+          "author": "@Kirtishbhat",
+          "description": "अपनी अपनी दौलत... #cartoon #adani",
+          "link": "https://nitter.net/Kirtishbhat/status/1620443248866246658#m",
+          "publishedOn": "2023-01-31T15:25:51.000Z",
+          "wordCount": null,
+          "title": "अपनी अपनी दौलत... #cartoon #adani",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620406589080625153#m",
+          "author": "@Kirtishbhat",
+          "description": "नाऊ... 'एवरीथिंग इज सब्जेक्ट टू मार्केट रिस्क' ब्रो",
+          "link": "https://nitter.net/Kirtishbhat/status/1620406589080625153#m",
+          "publishedOn": "2023-01-31T13:00:11.000Z",
+          "wordCount": null,
+          "title": "नाऊ... 'एवरीथिंग इज सब्जेक्ट टू मार्केट रिस्क' ब्रो",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/BBCHindi/status/1620394003513344003#m",
+          "author": "@BBCHindi",
+          "description": "आज का कार्टून",
+          "link": "https://nitter.net/BBCHindi/status/1620394003513344003#m",
+          "publishedOn": "2023-01-31T12:10:10.000Z",
+          "wordCount": 213,
+          "title": "RT by @Kirtishbhat: आज का कार्टून",
+          "imageUrl": "https://nitter.net/pic/media%2FFnzLwnnWQAEFdcE.jpg"
+        },
+        {
+          "id": "https://nitter.net/abhishek_sh78/status/1620389458792321025#m",
+          "author": "@abhishek_sh78",
+          "description": "जो लोग ये चलाते हैं की आपको बजट में वित्त मंत्री से क्या चाहिए हमको बताइए etc... वो आपको उल्लू बनाते हैं। एक तो जब ये प्रोग्राम शुरू होते हैं तब तक बजट बन चुका होता है। दूसरा इन प्रोग्राम को देखकर किसी वित्त मंत्री ने कोई फैसला लिया हो, ऐसा कोई रिकॉर्ड नहीं है।",
+          "link": "https://nitter.net/abhishek_sh78/status/1620389458792321025#m",
+          "publishedOn": "2023-01-31T11:52:07.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: जो लोग ये चलाते हैं की आपको बजट में वित्त मंत्री से क्या चाहिए हमको बताइए etc... वो आपको उल्लू बनाते हैं। एक तो जब ये प्रोग्राम शुरू होते हैं तब तक बजट बन चुका होता है। दूसरा इन प्रोग्राम को देखकर किसी वित्त मंत्री ने कोई फैसला लिया हो, ऐसा कोई रिकॉर्ड नहीं है।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/1vikastrivedi/status/1620388572305178624#m",
+          "author": "@1vikastrivedi",
+          "description": "'बड़े बोल नहीं बोल रहा, पर हवा से थोड़ी हिलूंगा मैं, हवा से झाड़ियां हिलती हैं'\n#Pathaan कमाई कर रही है तो इसकी कई वजह हैं.\n#SRK की चुप्पी इनमें से एक वजह है!\n@iamsrk #ShahRukhKhan \nbbc.com/hindi/entertainment-…",
+          "link": "https://nitter.net/1vikastrivedi/status/1620388572305178624#m",
+          "publishedOn": "2023-01-31T11:48:35.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: 'बड़े बोल नहीं बोल रहा, पर हवा से थोड़ी हिलूंगा मैं, हवा से झाड़ियां हिलती हैं'\n\n#Pathaan कमाई कर रही है तो इसकी कई वजह हैं.\n\nबिना सेकेंड गंवाए ख़ुद को शेखर राधा कृष्णा कहने वाले #SRK की चुप्पी इनमें से एक वजह है!\n\nकुछ वजह, बातें...\n@iamsrk #ShahRukhKhan \nhttps://www.bbc.com/hindi/entertainment-64455008",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620073055610613763#m",
+          "author": "@Kirtishbhat",
+          "description": "अच्छा... \n#cartoon",
+          "link": "https://nitter.net/Kirtishbhat/status/1620073055610613763#m",
+          "publishedOn": "2023-01-30T14:54:50.000Z",
+          "wordCount": null,
+          "title": "अच्छा... \nToday's #cartoon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1620072205806874626#m",
+          "author": "@Kirtishbhat",
+          "description": "Oh Haan 🤔",
+          "link": "https://nitter.net/Kirtishbhat/status/1620072205806874626#m",
+          "publishedOn": "2023-01-30T14:51:28.000Z",
+          "wordCount": null,
+          "title": "R to @suryak_mishra: Oh Haan 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/bbcnewsgujarati/status/1620068029622255617#m",
+          "author": "@bbcnewsgujarati",
+          "description": "આજનું કાર્ટૂન @Kirtishbhat \n#gandhideathanniversary #gandhiji",
+          "link": "https://nitter.net/bbcnewsgujarati/status/1620068029622255617#m",
+          "publishedOn": "2023-01-30T14:34:52.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: આજનું કાર્ટૂન @Kirtishbhat \n\n#gandhideathanniversary #gandhiji",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/BBCHindi/status/1620029933010526211#m",
+          "author": "@BBCHindi",
+          "description": "आज का कार्टून",
+          "link": "https://nitter.net/BBCHindi/status/1620029933010526211#m",
+          "publishedOn": "2023-01-30T12:03:29.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: आज का कार्टून",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1619978239803523073#m",
+          "author": "@Kirtishbhat",
+          "description": "😱😳 'ये स्टंट विशेषज्ञों की देखरेख में किये गए हैं..... ' वाली लाइन भी लिख दीजिये प्लीज़.\nnitter.net/anjanaomkashyap/status/1619938581317033985#m",
+          "link": "https://nitter.net/Kirtishbhat/status/1619978239803523073#m",
+          "publishedOn": "2023-01-30T08:38:04.000Z",
+          "wordCount": null,
+          "title": "😱😳 'ये स्टंट विशेषज्ञों की देखरेख में किये गए हैं..... ' वाली लाइन भी लिख दीजिये प्लीज़.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1619216263548653568#m",
+          "author": "@Kirtishbhat",
+          "description": "Hindenburg में भी Hind है.\nAwww...",
+          "link": "https://nitter.net/Kirtishbhat/status/1619216263548653568#m",
+          "publishedOn": "2023-01-28T06:10:15.000Z",
+          "wordCount": null,
+          "title": "Hindenburg में भी Hind है.\nAwww...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1618968922338000898#m",
+          "author": "@Kirtishbhat",
+          "description": "😁",
+          "link": "https://nitter.net/Kirtishbhat/status/1618968922338000898#m",
+          "publishedOn": "2023-01-27T13:47:24.000Z",
+          "wordCount": null,
+          "title": "R to @vinodkapri: 😁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1618461195073392640#m",
+          "author": "@Kirtishbhat",
+          "description": "गणतंत्र दिवस की शुभकामनाएं 🇮🇳",
+          "link": "https://nitter.net/Kirtishbhat/status/1618461195073392640#m",
+          "publishedOn": "2023-01-26T04:09:53.000Z",
+          "wordCount": null,
+          "title": "गणतंत्र दिवस की शुभकामनाएं 🇮🇳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1618268284096516099#m",
+          "author": "@Kirtishbhat",
+          "description": "लाओ प्रसाद... Today's #cartoon on #Pathan",
+          "link": "https://nitter.net/Kirtishbhat/status/1618268284096516099#m",
+          "publishedOn": "2023-01-25T15:23:19.000Z",
+          "wordCount": null,
+          "title": "लाओ प्रसाद... Today's #cartoon on #Pathan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/BBCHindi/status/1618219382555181058#m",
+          "author": "@BBCHindi",
+          "description": "आज का कार्टून\n@Kirtishbhat \n#Pathaan #ShahRukhKhan",
+          "link": "https://nitter.net/BBCHindi/status/1618219382555181058#m",
+          "publishedOn": "2023-01-25T12:09:00.000Z",
+          "wordCount": null,
+          "title": "RT by @Kirtishbhat: आज का कार्टून\n\n@Kirtishbhat \n\n#Pathaan #ShahRukhKhan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1618116964697935874#m",
+          "author": "@Kirtishbhat",
+          "description": "Happy Birthday Sharib Bhai 💐",
+          "link": "https://nitter.net/Kirtishbhat/status/1618116964697935874#m",
+          "publishedOn": "2023-01-25T05:22:02.000Z",
+          "wordCount": null,
+          "title": "R to @sharibhashmi: Happy Birthday Sharib Bhai 💐",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "MANJUL / @MANJULtoons",
+      "feedUrl": "https://nitter.net/MANJULtoons/with_replies/rss",
+      "siteUrl": "https://nitter.net/MANJULtoons",
+      "articles": [
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620846920167211009#m",
+          "author": "@MANJULtoons",
+          "description": "जब जनता FPO में पैसा लगाती है और शेयर डूबता है तो जनता अफसोस करने के अलावा कुछ कर नहीं पाती।\nपर जब FPO में पैसा रसूखदार यार-दोस्तों का होता है तो शेयर के डूबने पर वापस करना पड़ता है वरना वो हलक से निकाल सकते हैं।",
+          "link": "https://nitter.net/MANJULtoons/status/1620846920167211009#m",
+          "publishedOn": "2023-02-01T18:09:54.000Z",
+          "wordCount": null,
+          "title": "जब जनता FPO में पैसा लगाती है और शेयर डूबता है तो जनता अफसोस करने के अलावा कुछ कर नहीं पाती।\nपर जब FPO में पैसा रसूखदार यार-दोस्तों का होता है तो शेयर के डूबने पर वापस करना पड़ता है वरना वो हलक से निकाल सकते हैं।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620841125857853441#m",
+          "author": "@MANJULtoons",
+          "description": "दिल्ली में बजट की धूप हो रही है।\nअहमदाबाद में एफपीओ पर बर्फबारी हो गयी।\nकोई नहीं, 2024 के बाद एक देश, एक मौसम होगा।",
+          "link": "https://nitter.net/MANJULtoons/status/1620841125857853441#m",
+          "publishedOn": "2023-02-01T17:46:52.000Z",
+          "wordCount": null,
+          "title": "R to @Ashok_Kashmir: दिल्ली में बजट की धूप हो रही है।\nअहमदाबाद में एफपीओ पर बर्फबारी हो गयी।\nकोई नहीं, 2024 के बाद एक देश, एक मौसम होगा।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/CagedSpeech/status/1620838464513273857#m",
+          "author": "@CagedSpeech",
+          "description": "अमृत काल में एफपीओ मृत!!",
+          "link": "https://nitter.net/CagedSpeech/status/1620838464513273857#m",
+          "publishedOn": "2023-02-01T17:36:18.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: अमृत काल में एफपीओ मृत!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620833213949280256#m",
+          "author": "@MANJULtoons",
+          "description": "विदेशी ताकतें जीत गयीं? विश्वगुरु के रहते हुए? वो भी तब जब सारी दुनिया भारतीय अर्थव्यवस्था की तरफ आशा भरी नजरों से देख रही थी?\nnitter.net/sruthijith/status/1620826073830404098#m",
+          "link": "https://nitter.net/MANJULtoons/status/1620833213949280256#m",
+          "publishedOn": "2023-02-01T17:15:26.000Z",
+          "wordCount": null,
+          "title": "विदेशी ताकतें जीत गयीं? विश्वगुरु के रहते हुए? वो भी तब जब सारी दुनिया भारतीय अर्थव्यवस्था की तरफ आशा भरी नजरों से देख रही थी?\nभारत माँ का ये अपमान,\nनहीं सहेगा हिंदुस्थान!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620773265055813635#m",
+          "author": "@MANJULtoons",
+          "description": "मतलब मोदी जी, नेहरू के पदचिन्हों पर चल पड़े? 😳",
+          "link": "https://nitter.net/MANJULtoons/status/1620773265055813635#m",
+          "publishedOn": "2023-02-01T13:17:13.000Z",
+          "wordCount": null,
+          "title": "R to @AbhishekSay: मतलब मोदी जी, नेहरू के पदचिन्हों पर चल पड़े? 😳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620772783302254597#m",
+          "author": "@MANJULtoons",
+          "description": "इसकी एक कॉपी हर कार्ड के साथ जानी चाहिए। 😂",
+          "link": "https://nitter.net/MANJULtoons/status/1620772783302254597#m",
+          "publishedOn": "2023-02-01T13:15:18.000Z",
+          "wordCount": null,
+          "title": "R to @vinodkapri: इसकी एक कॉपी हर कार्ड के साथ जानी चाहिए। 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/priyashmita/status/1620754327244783616#m",
+          "author": "@priyashmita",
+          "description": "This sneering and disrespectful tweet represents the position of \n@the_hindu ?\nnitter.net/MaliniP/status/1620484676354818049#m",
+          "link": "https://nitter.net/priyashmita/status/1620754327244783616#m",
+          "publishedOn": "2023-02-01T12:01:58.000Z",
+          "wordCount": 238,
+          "title": "RT by @MANJULtoons: This sneering and disrespectful tweet represents the position of \n@the_hindu ?\nJUST CHECKING.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620719947101122562#m",
+          "author": "@MANJULtoons",
+          "description": "Budget mein inhein kuchh nahin mila!!",
+          "link": "https://nitter.net/MANJULtoons/status/1620719947101122562#m",
+          "publishedOn": "2023-02-01T09:45:21.000Z",
+          "wordCount": null,
+          "title": "R to @t_d_h_nair: Budget mein inhein kuchh nahin mila!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620673580185919488#m",
+          "author": "@MANJULtoons",
+          "description": "कैमरों के लेंस पर वित्तमंत्री जी की दया होनी ही थी। 😂",
+          "link": "https://nitter.net/MANJULtoons/status/1620673580185919488#m",
+          "publishedOn": "2023-02-01T06:41:06.000Z",
+          "wordCount": null,
+          "title": "कैमरों के लेंस पर वित्तमंत्री जी की दया होनी ही थी। 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/ETPrime_com/status/1620648134866075650#m",
+          "author": "@ETPrime_com",
+          "description": "#Greentoon of the day by @MANJULtoons",
+          "link": "https://nitter.net/ETPrime_com/status/1620648134866075650#m",
+          "publishedOn": "2023-02-01T05:00:00.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: #Greentoon of the day by @MANJULtoons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620463797877211136#m",
+          "author": "@MANJULtoons",
+          "description": "पता लगाइए कौन सज्जन हैं। उनको पार्टी दी जाएगी।",
+          "link": "https://nitter.net/MANJULtoons/status/1620463797877211136#m",
+          "publishedOn": "2023-01-31T16:47:30.000Z",
+          "wordCount": null,
+          "title": "R to @pj77in: पता लगाइए कौन सज्जन हैं। उनको पार्टी दी जाएगी।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620463282808324098#m",
+          "author": "@MANJULtoons",
+          "description": "सर, ये बजट इतनी कोड लैंग्वेज में होता क्यों है कि डिकोड करना पड़े। 😭🙏",
+          "link": "https://nitter.net/MANJULtoons/status/1620463282808324098#m",
+          "publishedOn": "2023-01-31T16:45:28.000Z",
+          "wordCount": null,
+          "title": "R to @gchikermane: सर, ये बजट इतनी कोड लैंग्वेज में होता क्यों है कि डिकोड करना पड़े। 😭🙏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/CagedSpeech/status/1620426552008933377#m",
+          "author": "@CagedSpeech",
+          "description": "जिस दिन राष्ट्रपति जी के दिल से दिए भाषण की तारीफ हुई थी और वो सारी लाइमलाइट ले गईं, उसी दिन मोदी जी ने तय कर लिया था कि अब इनसे ऐसी बातें बुलवाएँगे और ऐसे काम करवाएंगे कि लोगों के पेट में हंसते-हंसते बल पड़ जाएं।\nnitter.net/news24tvchannel/status/1620296874870833154#m",
+          "link": "https://nitter.net/CagedSpeech/status/1620426552008933377#m",
+          "publishedOn": "2023-01-31T14:19:30.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: जिस दिन राष्ट्रपति जी के दिल से दिए भाषण की तारीफ हुई थी और वो सारी लाइमलाइट ले गईं, उसी दिन मोदी जी ने तय कर लिया था कि अब इनसे ऐसी बातें बुलवाएँगे और ऐसे काम करवाएंगे कि लोगों के पेट में हंसते-हंसते बल पड़ जाएं।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620423386521567234#m",
+          "author": "@MANJULtoons",
+          "description": "हा हा हा...सही कहा",
+          "link": "https://nitter.net/MANJULtoons/status/1620423386521567234#m",
+          "publishedOn": "2023-01-31T14:06:56.000Z",
+          "wordCount": null,
+          "title": "R to @shubHASHISH: हा हा हा...सही कहा",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620421475806355458#m",
+          "author": "@MANJULtoons",
+          "description": "सर, आपने भी इस्तीफा दे दिया क्या? चैनल तो दुग्गल साब ही चला रहे हैं अब।",
+          "link": "https://nitter.net/MANJULtoons/status/1620421475806355458#m",
+          "publishedOn": "2023-01-31T13:59:20.000Z",
+          "wordCount": 269,
+          "title": "R to @sanket: सर, आपने भी इस्तीफा दे दिया क्या? चैनल तो दुग्गल साब ही चला रहे हैं अब।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620420857586909186#m",
+          "author": "@MANJULtoons",
+          "description": "वास्तविक है इसीलिए तो हास्यास्पद है।\n@j_garima_j जी से तो मैं एक बार मिला हूँ। बाकी लोग भी गजब हैं।",
+          "link": "https://nitter.net/MANJULtoons/status/1620420857586909186#m",
+          "publishedOn": "2023-01-31T13:56:53.000Z",
+          "wordCount": null,
+          "title": "R to @urvish2020: वास्तविक है इसीलिए तो हास्यास्पद है।\n😂😂😂\n @j_garima_j जी से तो मैं एक बार मिला हूँ। बाकी लोग भी गजब हैं।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Aakar__Patel/status/1620386234974756865#m",
+          "author": "@Aakar__Patel",
+          "description": "alekjander d great\nakbar d grate\nmodiji d inaugurate",
+          "link": "https://nitter.net/Aakar__Patel/status/1620386234974756865#m",
+          "publishedOn": "2023-01-31T11:39:18.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: alekjander d great\nakbar d grate\nmodiji d inaugurate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/ajay43/status/1620372090561114113#m",
+          "author": "@ajay43",
+          "description": "And nothing will happen to them. They won’t be arrested, there will be no IT raid, no ED harassment… that’s how a democracy functions\nnitter.net/_pallavighosh/status/1620256323056332800#m",
+          "link": "https://nitter.net/ajay43/status/1620372090561114113#m",
+          "publishedOn": "2023-01-31T10:43:06.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: And nothing will happen to them. They won’t be arrested, there will be no IT raid, no ED harassment… that’s how a democracy functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1620074480067379200#m",
+          "author": "@MANJULtoons",
+          "description": "#AdaniGroup #MoodOfTheNation #Hindenburg #Cartoon #MANJULtoons @vibesofindia_",
+          "link": "https://nitter.net/MANJULtoons/status/1620074480067379200#m",
+          "publishedOn": "2023-01-30T15:00:30.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: #AdaniGroup #MoodOfTheNation #Hindenburg #Cartoon #MANJULtoons @vibesofindia_",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1618954476857225216#m",
+          "author": "@MANJULtoons",
+          "description": "#BBCDocumentary #Modi #Adani #HindenburgReport @newslaundry #caroon #Manjultoons",
+          "link": "https://nitter.net/MANJULtoons/status/1618954476857225216#m",
+          "publishedOn": "2023-01-27T12:50:00.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: #BBCDocumentary #Modi #Adani #HindenburgReport @newslaundry #caroon #Manjultoons",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Rakesh Ranjan / @cartoonistrrs",
+      "feedUrl": "https://nitter.net/cartoonistrrs/with_replies/rss",
+      "siteUrl": "https://nitter.net/cartoonistrrs",
+      "articles": [
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620812832416886784#m",
+          "author": "@cartoonistrrs",
+          "description": "ईश्वर पत्थर के नहीं होते, वे तो दयावान होते हैं, कृपालु होते है, राम सभी हिन्दुओं के दिल पर राज करते है|| जय श्रीराम\nnitter.net/KumaarSaagar/status/1620809229346164741#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1620812832416886784#m",
+          "publishedOn": "2023-02-01T15:54:27.000Z",
+          "wordCount": null,
+          "title": "ईश्वर पत्थर के नहीं होते, वे तो दयावान होते हैं, कृपालु होते है, राम सभी हिन्दुओं के दिल पर राज करते है|| जय श्रीराम",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/afficasm/status/1620802790200324096#m",
+          "author": "@afficasm",
+          "description": "बजट तो जनहित में है.. #Budget2023\nnitter.net/i/spaces/1lDxLnm…",
+          "link": "https://nitter.net/afficasm/status/1620802790200324096#m",
+          "publishedOn": "2023-02-01T15:14:32.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: बजट तो जनहित में है.. #Budget2023\n\nhttps://twitter.com/i/spaces/1lDxLnmbpqZGm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620783741252820992#m",
+          "author": "@cartoonistrrs",
+          "description": "कैसा रहा बजट",
+          "link": "https://nitter.net/cartoonistrrs/status/1620783741252820992#m",
+          "publishedOn": "2023-02-01T13:58:51.000Z",
+          "wordCount": null,
+          "title": "कैसा रहा बजट",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/moliticsindia/status/1620745544762265604#m",
+          "author": "@moliticsindia",
+          "description": "मुंगेरी लाल के हसीन सपने!\n#Budget2023 @cartoonistrrs",
+          "link": "https://nitter.net/moliticsindia/status/1620745544762265604#m",
+          "publishedOn": "2023-02-01T11:27:04.000Z",
+          "wordCount": 63,
+          "title": "RT by @cartoonistrrs: मुंगेरी लाल के हसीन सपने!\n\n#Budget2023 @cartoonistrrs",
+          "imageUrl": "https://nitter.net/pic/media%2FFn4LHMFaUAMQmPb.jpg"
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620687117113503744#m",
+          "author": "@cartoonistrrs",
+          "description": "बजट के बाद 1050₹ का शेयर मार्केट में उछाल लेकिन lic अभी भी डूबता हुआ",
+          "link": "https://nitter.net/cartoonistrrs/status/1620687117113503744#m",
+          "publishedOn": "2023-02-01T07:34:54.000Z",
+          "wordCount": null,
+          "title": "बजट के बाद 1050₹ का शेयर मार्केट में उछाल लेकिन lic अभी भी डूबता हुआ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/afficasm/status/1620661674347991040#m",
+          "author": "@afficasm",
+          "description": "इतनी तेजी से 😶😶 #Adani\nnitter.net/i/spaces/1lDxLnm…",
+          "link": "https://nitter.net/afficasm/status/1620661674347991040#m",
+          "publishedOn": "2023-02-01T05:53:48.000Z",
+          "wordCount": 271,
+          "title": "RT by @cartoonistrrs: इतनी तेजी से 😶😶 #Adani\n\nशेयर होल्डर्स क्या हाल है आपके ?\nhttps://twitter.com/i/spaces/1lDxLnmbpqZGm",
+          "imageUrl": "https://nitter.net/pic/media%2FFn2_M5-aAAEpiXb.jpg"
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620653977355571200#m",
+          "author": "@cartoonistrrs",
+          "description": "बजट पर जितनी ऊंचाई से मीडिया वालों ने चर्चा की है क्या आज का बजट उतनी ऊंचाई तक भी पहुंचेगी की नहीं यही देखना है",
+          "link": "https://nitter.net/cartoonistrrs/status/1620653977355571200#m",
+          "publishedOn": "2023-02-01T05:23:13.000Z",
+          "wordCount": null,
+          "title": "बजट पर जितनी ऊंचाई से मीडिया वालों ने चर्चा की है क्या आज का बजट उतनी ऊंचाई तक भी पहुंचेगी की नहीं यही देखना है",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/anudeepjaglan/status/1620472585199968256#m",
+          "author": "@anudeepjaglan",
+          "description": "Good to see that after years the rupee has depreciated less than anyone else.\n#Adaniscam\nnitter.net/moliticsindia/status/1620353902477709314#m",
+          "link": "https://nitter.net/anudeepjaglan/status/1620472585199968256#m",
+          "publishedOn": "2023-01-31T17:22:25.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: Good to see that after years the rupee has depreciated less than anyone else.\n#Adaniscam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/AnumaVidisha/status/1620367220206608384#m",
+          "author": "@AnumaVidisha",
+          "description": "….और सर्राटे से तीन नंबरी बने दस नंबरी!!  #AdaniEnterprises",
+          "link": "https://nitter.net/AnumaVidisha/status/1620367220206608384#m",
+          "publishedOn": "2023-01-31T10:23:44.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: ….और सर्राटे से तीन नंबरी बने दस नंबरी!!  #AdaniEnterprises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620358501511086081#m",
+          "author": "@cartoonistrrs",
+          "description": "कार्टून ऑफ़ द डे",
+          "link": "https://nitter.net/cartoonistrrs/status/1620358501511086081#m",
+          "publishedOn": "2023-01-31T09:49:06.000Z",
+          "wordCount": null,
+          "title": "कार्टून ऑफ़ द डे",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/moliticsindia/status/1620353902477709314#m",
+          "author": "@moliticsindia",
+          "description": "कोई तो संभाल लो!\n#Adani #AdaniEnterprises @cartoonistrrs",
+          "link": "https://nitter.net/moliticsindia/status/1620353902477709314#m",
+          "publishedOn": "2023-01-31T09:30:49.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: कोई तो संभाल लो!\n\n#Adani #AdaniEnterprises @cartoonistrrs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620328234578763777#m",
+          "author": "@cartoonistrrs",
+          "description": "same question",
+          "link": "https://nitter.net/cartoonistrrs/status/1620328234578763777#m",
+          "publishedOn": "2023-01-31T07:48:50.000Z",
+          "wordCount": null,
+          "title": "R to @DineshKumarLive: same question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620303469193359360#m",
+          "author": "@cartoonistrrs",
+          "description": "भक बकलोल, नेहरू ने क्या किया इससे अभी का क्या बदलने वाला है, तुम खुद आज में जी रहे हो आज की बात करो न यार, आज की नाकामी को बीती बातों से तुलना कर के चीज़े सुधर जाएंगी क्या ?\nnitter.net/SushantBSinha/status/1620287879569354757#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1620303469193359360#m",
+          "publishedOn": "2023-01-31T06:10:25.000Z",
+          "wordCount": null,
+          "title": "भक बकलोल, नेहरू ने क्या किया इससे अभी का क्या बदलने वाला है, तुम खुद आज में जी रहे हो आज की बात करो न यार, आज की नाकामी को बीती बातों से तुलना कर के चीज़े सुधर जाएंगी क्या ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620285533086973957#m",
+          "author": "@cartoonistrrs",
+          "description": "अच्छे दिन !",
+          "link": "https://nitter.net/cartoonistrrs/status/1620285533086973957#m",
+          "publishedOn": "2023-01-31T04:59:09.000Z",
+          "wordCount": null,
+          "title": "अच्छे दिन !",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620274441359073282#m",
+          "author": "@cartoonistrrs",
+          "description": "Very nice",
+          "link": "https://nitter.net/cartoonistrrs/status/1620274441359073282#m",
+          "publishedOn": "2023-01-31T04:15:04.000Z",
+          "wordCount": null,
+          "title": "R to @satishacharya: Very nice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620261716151144454#m",
+          "author": "@cartoonistrrs",
+          "description": "इसपे कौन क्या सोचता है अपनी राय रखे",
+          "link": "https://nitter.net/cartoonistrrs/status/1620261716151144454#m",
+          "publishedOn": "2023-01-31T03:24:30.000Z",
+          "wordCount": null,
+          "title": "इसपे कौन क्या सोचता है अपनी राय रखे",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620258963299405824#m",
+          "author": "@cartoonistrrs",
+          "description": "राहुल गाँधी ने कर दिखाया, एक अच्छा अनुभव के साथ यात्रा सफल रहा|",
+          "link": "https://nitter.net/cartoonistrrs/status/1620258963299405824#m",
+          "publishedOn": "2023-01-31T03:13:34.000Z",
+          "wordCount": null,
+          "title": "राहुल गाँधी ने कर दिखाया, एक अच्छा अनुभव के साथ यात्रा सफल रहा|",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620257502100332545#m",
+          "author": "@cartoonistrrs",
+          "description": "भक्त और कुछ सनकी सांसद को समझाओ, बाकि तो समझे हुए हैं\nnitter.net/manojmuntashir/status/1619923436117303296#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1620257502100332545#m",
+          "publishedOn": "2023-01-31T03:07:46.000Z",
+          "wordCount": null,
+          "title": "भक्त और कुछ सनकी सांसद को समझाओ, बाकि तो समझे हुए हैं",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620247296050098178#m",
+          "author": "@cartoonistrrs",
+          "description": "गुलाबी नगरी ❤️",
+          "link": "https://nitter.net/cartoonistrrs/status/1620247296050098178#m",
+          "publishedOn": "2023-01-31T02:27:12.000Z",
+          "wordCount": null,
+          "title": "R to @vinodkapri: गुलाबी नगरी ❤️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1620244472817913856#m",
+          "author": "@cartoonistrrs",
+          "description": "गोडसे का चेला\nnitter.net/sudhirchaudhary/status/1620136728626618370#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1620244472817913856#m",
+          "publishedOn": "2023-01-31T02:15:59.000Z",
+          "wordCount": null,
+          "title": "गोडसे का चेला",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "cartoonist kaptan / @irshadkaptan1",
+      "feedUrl": "https://nitter.net/irshadkaptan1/with_replies/rss",
+      "siteUrl": "https://nitter.net/irshadkaptan1",
+      "articles": [
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1620667808068833281#m",
+          "author": "@irshadkaptan1",
+          "description": "#Budget2023 #BudgetSession #Budget #BudgetSession2023 #NirmalaSitharaman @nsitharaman",
+          "link": "https://nitter.net/irshadkaptan1/status/1620667808068833281#m",
+          "publishedOn": "2023-02-01T06:18:10.000Z",
+          "wordCount": null,
+          "title": "#Budget2023 #BudgetSession #Budget #BudgetSession2023 #NirmalaSitharaman @nsitharaman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1620317102937890816#m",
+          "author": "@irshadkaptan1",
+          "description": "#SamajwadiParty #AkhileshYadav #shivpalyadav @yadavakhilesh @shivpalsinghyad @samajwadiparty",
+          "link": "https://nitter.net/irshadkaptan1/status/1620317102937890816#m",
+          "publishedOn": "2023-01-31T07:04:36.000Z",
+          "wordCount": null,
+          "title": "#SamajwadiParty #AkhileshYadav #shivpalyadav @yadavakhilesh @shivpalsinghyad @samajwadiparty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1619967666214801411#m",
+          "author": "@irshadkaptan1",
+          "description": "#sensex #AdaniGroup #AdaniEnterprises #Adaniscam #sharemarket",
+          "link": "https://nitter.net/irshadkaptan1/status/1619967666214801411#m",
+          "publishedOn": "2023-01-30T07:56:03.000Z",
+          "wordCount": null,
+          "title": "#sensex #AdaniGroup #AdaniEnterprises #Adaniscam #sharemarket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1619554021823623168#m",
+          "author": "@irshadkaptan1",
+          "description": "Cow Dung Biogas To Power Cars – Maruti Suzuki Reveals Plans #MarutiSuzuki #PetrolDieselPrice #suzuki #cowdung #holicow",
+          "link": "https://nitter.net/irshadkaptan1/status/1619554021823623168#m",
+          "publishedOn": "2023-01-29T04:32:23.000Z",
+          "wordCount": null,
+          "title": "Cow Dung Biogas To Power Cars – Maruti Suzuki Reveals Plans #MarutiSuzuki #PetrolDieselPrice #suzuki #cowdung #holicow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1619241270203011072#m",
+          "author": "@irshadkaptan1",
+          "description": "#sensex  #sharemarket #AdaniEnterprises #Adani #investers",
+          "link": "https://nitter.net/irshadkaptan1/status/1619241270203011072#m",
+          "publishedOn": "2023-01-28T07:49:37.000Z",
+          "wordCount": null,
+          "title": "#sensex  #sharemarket #AdaniEnterprises #Adani #investers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1617456770359910404#m",
+          "author": "@irshadkaptan1",
+          "description": "#BageshwarDham #BageshwarDhamSarkar #BageshwarBaba #DhirendraShastriControversy #DhirendraShastri #DhirendraKrishnaShastri #PetrolDieselPrice #petrolprice",
+          "link": "https://nitter.net/irshadkaptan1/status/1617456770359910404#m",
+          "publishedOn": "2023-01-23T09:38:39.000Z",
+          "wordCount": null,
+          "title": "#BageshwarDham #BageshwarDhamSarkar #BageshwarBaba #DhirendraShastriControversy #DhirendraShastri #DhirendraKrishnaShastri #PetrolDieselPrice #petrolprice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1617145669332135944#m",
+          "author": "@irshadkaptan1",
+          "description": "",
+          "link": "https://nitter.net/irshadkaptan1/status/1617145669332135944#m",
+          "publishedOn": "2023-01-22T13:02:27.000Z",
+          "wordCount": null,
+          "title": "Image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1616339109055975424#m",
+          "author": "@irshadkaptan1",
+          "description": "#UsainBolt #BOLT",
+          "link": "https://nitter.net/irshadkaptan1/status/1616339109055975424#m",
+          "publishedOn": "2023-01-20T07:37:28.000Z",
+          "wordCount": null,
+          "title": "#UsainBolt #BOLT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1616039821579022336#m",
+          "author": "@irshadkaptan1",
+          "description": "#Elections2023 #ColdWave",
+          "link": "https://nitter.net/irshadkaptan1/status/1616039821579022336#m",
+          "publishedOn": "2023-01-19T11:48:12.000Z",
+          "wordCount": null,
+          "title": "#Elections2023 #ColdWave",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1615756873776640000#m",
+          "author": "@irshadkaptan1",
+          "description": "कठुआ में एक बच्ची के साथ  बलात्कार और हत्या के आरोपियों के समर्थन में तिरंगा मार्च निकालने वाले लाल सिंह का भारत जोड़ो यात्रा में शामिल होना शर्मनाक है। @RahulGandhi @digvijaya_28 @priyankagandhi @INCIndia",
+          "link": "https://nitter.net/irshadkaptan1/status/1615756873776640000#m",
+          "publishedOn": "2023-01-18T17:03:52.000Z",
+          "wordCount": 91,
+          "title": "कठुआ में एक बच्ची के साथ  बलात्कार और हत्या के आरोपियों के समर्थन में तिरंगा मार्च निकालने वाले लाल सिंह का भारत जोड़ो यात्रा में शामिल होना शर्मनाक है। @RahulGandhi @digvijaya_28 @priyankagandhi @INCIndia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1614139722171060227#m",
+          "author": "@irshadkaptan1",
+          "description": "#MakarSankranti #MakarSankranti2023 #MakaraSankranti #inflation #inflation",
+          "link": "https://nitter.net/irshadkaptan1/status/1614139722171060227#m",
+          "publishedOn": "2023-01-14T05:57:53.000Z",
+          "wordCount": null,
+          "title": "#MakarSankranti #MakarSankranti2023 #MakaraSankranti #inflation #inflation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1613771484518027267#m",
+          "author": "@irshadkaptan1",
+          "description": "",
+          "link": "https://nitter.net/irshadkaptan1/status/1613771484518027267#m",
+          "publishedOn": "2023-01-13T05:34:38.000Z",
+          "wordCount": null,
+          "title": "Image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1613113005939777542#m",
+          "author": "@irshadkaptan1",
+          "description": "#JoshimathIsSinking #Joshimathcrisis #joshimathsinking #JoshimathSubsidence #sociallife #social_life_in_india",
+          "link": "https://nitter.net/irshadkaptan1/status/1613113005939777542#m",
+          "publishedOn": "2023-01-11T09:58:05.000Z",
+          "wordCount": null,
+          "title": "#JoshimathIsSinking #Joshimathcrisis #joshimathsinking #JoshimathSubsidence #sociallife #social_life_in_india",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1611977997783027714#m",
+          "author": "@irshadkaptan1",
+          "description": "#winter #ColdWave #coldweather",
+          "link": "https://nitter.net/irshadkaptan1/status/1611977997783027714#m",
+          "publishedOn": "2023-01-08T06:47:58.000Z",
+          "wordCount": null,
+          "title": "#winter #ColdWave #coldweather",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1611597795940773893#m",
+          "author": "@irshadkaptan1",
+          "description": "#AirIndia #FLIGHT #PeeingHuman",
+          "link": "https://nitter.net/irshadkaptan1/status/1611597795940773893#m",
+          "publishedOn": "2023-01-07T05:37:11.000Z",
+          "wordCount": null,
+          "title": "#AirIndia #FLIGHT #PeeingHuman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1610600354151895049#m",
+          "author": "@irshadkaptan1",
+          "description": "#IMF #Unemployment",
+          "link": "https://nitter.net/irshadkaptan1/status/1610600354151895049#m",
+          "publishedOn": "2023-01-04T11:33:42.000Z",
+          "wordCount": null,
+          "title": "#IMF #Unemployment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1610345782137466880#m",
+          "author": "@irshadkaptan1",
+          "description": "#ColdWave",
+          "link": "https://nitter.net/irshadkaptan1/status/1610345782137466880#m",
+          "publishedOn": "2023-01-03T18:42:07.000Z",
+          "wordCount": null,
+          "title": "#ColdWave",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
