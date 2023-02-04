@@ -1,8 +1,1200 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T00:42:53.412Z</id>
+    <id>urn:2023-02-04T00:38:11.495Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-03T00:42:53.412Z</updated>
+    <updated>2023-02-04T00:38:11.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[R to @alishan_jafri: Number dijiye... apne editor ka 🤣]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621607701980786688#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621607701980786688#m"/>
+        <updated>2023-02-03T20:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Number dijiye... apne editor ka 🤣]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @niiravmodi: Indian or Swiss?]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621601736325763072#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621601736325763072#m"/>
+        <updated>2023-02-03T20:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Indian or Swiss?]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @ndtvindia: youtube.com/watch?v=zDnrbD0-…]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621576562385772545#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621576562385772545#m"/>
+        <updated>2023-02-03T18:29:14.000Z</updated>
+        <summary type="html"><![CDATA[piped.video/watch?v=zDnrbD0-…]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @vinodkapri: youtube.com/watch?v=zDnrbD0-…]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621576515493445634#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621576515493445634#m"/>
+        <updated>2023-02-03T18:29:03.000Z</updated>
+        <summary type="html"><![CDATA[piped.video/watch?v=zDnrbD0-…]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @Vaibhavsikar: hahaha]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621539269755179010#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621539269755179010#m"/>
+        <updated>2023-02-03T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[hahaha]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621536773062160384#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621536773062160384#m"/>
+        <updated>2023-02-03T15:51:08.000Z</updated>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @Abhi56153938: Hahaha]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621531210957885445#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621531210957885445#m"/>
+        <updated>2023-02-03T15:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Hahaha]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[इतना सस्ता! Today's cartoon]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621530043121008640#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621530043121008640#m"/>
+        <updated>2023-02-03T15:24:23.000Z</updated>
+        <summary type="html"><![CDATA[इतना सस्ता! Today's cartoon]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: This week's SoSketchy @MANJULtoons]]></title>
+        <id>https://nitter.net/chitranshoe/status/1621486480500850688#m</id>
+        <link href="https://nitter.net/chitranshoe/status/1621486480500850688#m"/>
+        <updated>2023-02-03T12:31:17.000Z</updated>
+        <summary type="html"><![CDATA[This week's SoSketchy @MANJULtoons]]></summary>
+        <author>
+            <name>@chitranshoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: Here's this week's #SoSketchy by @MANJULtoons🔽
+
+Help us keep the tradition of political commentary through cartoons alive by subscribing to Newslaundry: https://www.newslaundry.com/subscription?ref=sosketchy]]></title>
+        <id>https://nitter.net/newslaundry/status/1621486157350539264#m</id>
+        <link href="https://nitter.net/newslaundry/status/1621486157350539264#m"/>
+        <updated>2023-02-03T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's this week's #SoSketchy by @MANJULtoons🔽
+newslaundry.com/subscription…]]></summary>
+        <author>
+            <name>@newslaundry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: हम कार्टून के ज़रिये से राजनीतिक टिप्पणी की ख़त्म होती परंपरा को पुनर्जीवित करना चाहते हैं.
+
+यह एक ऐसा माध्यम जिसे अब पहले से कहीं ज़्यादा पुरस्कृत करने की ज़रुरत है.
+
+#SoSketchy by @MANJULtoons इसी दिशा में बढ़ता एक क़दम है.
+
+हमारा समर्थन करें: http://newslaundry.com/subscription?r]]></title>
+        <id>https://nitter.net/nlhindi/status/1621486156847239169#m</id>
+        <link href="https://nitter.net/nlhindi/status/1621486156847239169#m"/>
+        <updated>2023-02-03T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[हम कार्टून के ज़रिये से राजनीतिक टिप्पणी की ख़त्म होती परंपरा को पुनर्जीवित करना चाहते हैं.
+#SoSketchy by @MANJULtoons इसी दिशा में बढ़ता एक क़दम है.
+newslaundry.com/subscription…]]></summary>
+        <author>
+            <name>@nlhindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1621476997091278848#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1621476997091278848#m"/>
+        <updated>2023-02-03T11:53:36.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[जब आपको कार्टून पसंद हो, पर कार्टूनिस्ट नहीं. 😌]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621467583890477056#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621467583890477056#m"/>
+        <updated>2023-02-03T11:16:12.000Z</updated>
+        <summary type="html"><![CDATA[जब आपको कार्टून पसंद हो, पर कार्टूनिस्ट नहीं. 😌]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @kalamwaligirl: 😳]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621461510953517056#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621461510953517056#m"/>
+        <updated>2023-02-03T10:52:04.000Z</updated>
+        <summary type="html"><![CDATA[😳]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: और ये बेहद जरूरी होता है !! 🚫
+
+https://twitter.com/i/spaces/1lDxLnmbpqZGm]]></title>
+        <id>https://nitter.net/afficasm/status/1621449835022028801#m</id>
+        <link href="https://nitter.net/afficasm/status/1621449835022028801#m"/>
+        <updated>2023-02-03T10:05:40.000Z</updated>
+        <summary type="html"><![CDATA[और ये बेहद जरूरी होता है !! 🚫
+nitter.net/i/spaces/1lDxLnm…]]></summary>
+        <author>
+            <name>@afficasm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[भगवा का नशा]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1621443578491990016#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1621443578491990016#m"/>
+        <updated>2023-02-03T09:40:48.000Z</updated>
+        <summary type="html"><![CDATA[भगवा का नशा]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: जुबां जहरीली!
+
+#Ramdevbaba @cartoonistrrs]]></title>
+        <id>https://nitter.net/moliticsindia/status/1621440572836958208#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1621440572836958208#m"/>
+        <updated>2023-02-03T09:28:52.000Z</updated>
+        <summary type="html"><![CDATA[जुबां जहरीली!
+#Ramdevbaba @cartoonistrrs]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @minicnair: Market Naxal]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621380414194724864#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621380414194724864#m"/>
+        <updated>2023-02-03T05:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Market Naxal]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: अडानी का शेयर कितना भी गिर जाए, गोदी मीडिया से ऊपर ही रहेगा।]]></title>
+        <id>https://nitter.net/CagedSpeech/status/1621379176132665345#m</id>
+        <link href="https://nitter.net/CagedSpeech/status/1621379176132665345#m"/>
+        <updated>2023-02-03T05:24:54.000Z</updated>
+        <summary type="html"><![CDATA[अडानी का शेयर कितना भी गिर जाए, गोदी मीडिया से ऊपर ही रहेगा।]]></summary>
+        <author>
+            <name>@CagedSpeech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 03 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1621375563255390208#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1621375563255390208#m"/>
+        <updated>2023-02-03T05:10:32.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 03 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: #Greentoon of the day by @MANJULtoons]]></title>
+        <id>https://nitter.net/ETPrime_com/status/1621372915261251584#m</id>
+        <link href="https://nitter.net/ETPrime_com/status/1621372915261251584#m"/>
+        <updated>2023-02-03T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[#Greentoon of the day by @MANJULtoons]]></summary>
+        <author>
+            <name>@ETPrime_com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: Too much indeed!]]></title>
+        <id>https://nitter.net/AnumaVidisha/status/1621367930943602688#m</id>
+        <link href="https://nitter.net/AnumaVidisha/status/1621367930943602688#m"/>
+        <updated>2023-02-03T04:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Too much indeed!]]></summary>
+        <author>
+            <name>@AnumaVidisha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[बाबा बैद्यनाथ की जय- बम महादेव बम - बोलो बोल बम]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1621337075231657984#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1621337075231657984#m"/>
+        <updated>2023-02-03T02:37:36.000Z</updated>
+        <summary type="html"><![CDATA[बाबा बैद्यनाथ की जय- बम महादेव बम - बोलो बोल बम]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Emergency Exit' @TheSouthfirst cartoon. #Adani]]></title>
+        <id>https://nitter.net/satishacharya/status/1621316527743176706#m</id>
+        <link href="https://nitter.net/satishacharya/status/1621316527743176706#m"/>
+        <updated>2023-02-03T01:15:57.000Z</updated>
+        <summary type="html"><![CDATA['Emergency Exit' @TheSouthfirst cartoon. #Adani]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: इतने आरोपों के बाद भी किसी जांच का न होना ये साबित करता है कि अडानी जी का विपक्ष से दूर-दूर तक कोई संबंध नहीं है।]]></title>
+        <id>https://nitter.net/CagedSpeech/status/1621209871663370240#m</id>
+        <link href="https://nitter.net/CagedSpeech/status/1621209871663370240#m"/>
+        <updated>2023-02-02T18:12:08.000Z</updated>
+        <summary type="html"><![CDATA[इतने आरोपों के बाद भी किसी जांच का न होना ये साबित करता है कि अडानी जी का विपक्ष से दूर-दूर तक कोई संबंध नहीं है।]]></summary>
+        <author>
+            <name>@CagedSpeech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergency exit! #Adani https://thesouthfirst.com/southern-strokes/exit-clause/]]></title>
+        <id>https://nitter.net/satishacharya/status/1621207130698317824#m</id>
+        <link href="https://nitter.net/satishacharya/status/1621207130698317824#m"/>
+        <updated>2023-02-02T18:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Emergency exit! #Adani thesouthfirst.com/southern-s…]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ट्विटर से आवाज आ रही है #चौकीदार_चोर_है क्यों ?]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1621183686225047552#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1621183686225047552#m"/>
+        <updated>2023-02-02T16:28:05.000Z</updated>
+        <summary type="html"><![CDATA[ट्विटर से आवाज आ रही है #चौकीदार_चोर_है क्यों ?]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[वसुधैव कुटुम्बकम!]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621180252432252928#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621180252432252928#m"/>
+        <updated>2023-02-02T16:14:26.000Z</updated>
+        <summary type="html"><![CDATA[वसुधैव कुटुम्बकम!
+nitter.net/bainjal/status/1621159263849836544#m]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: योगगुरु बाबा रामदेव ने इस्लाम और मुसलमानों पर विवादित बयान दिया है. 
+
+#BabaRamdev 
+
+https://www.aajtak.in/rajasthan/story/baba-ramdev-controversial-statement-on-islam-and-muslims-while-addressing-dharm-sabha-in-barmer-rajasthan-lclp-1628753-2023-02-02]]></title>
+        <id>https://nitter.net/aajtak/status/1621172117709688832#m</id>
+        <link href="https://nitter.net/aajtak/status/1621172117709688832#m"/>
+        <updated>2023-02-02T15:42:07.000Z</updated>
+        <summary type="html"><![CDATA[योगगुरु बाबा रामदेव ने इस्लाम और मुसलमानों पर विवादित बयान दिया है. 
+#BabaRamdev 
+aajtak.in/rajasthan/story/ba…]]></summary>
+        <author>
+            <name>@aajtak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: बीमे का बीमा Today's Cartoon]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621144971981262849#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621144971981262849#m"/>
+        <updated>2023-02-02T13:54:15.000Z</updated>
+        <summary type="html"><![CDATA[बीमे का बीमा Today's Cartoon]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Historic! @moliticsindia cartoon #Budget]]></title>
+        <id>https://nitter.net/satishacharya/status/1621138230870691840#m</id>
+        <link href="https://nitter.net/satishacharya/status/1621138230870691840#m"/>
+        <updated>2023-02-02T13:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Historic! @moliticsindia cartoon #Budget]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: @moliticsindia @cartoonistrrs 
+#AdaniEnterprises]]></title>
+        <id>https://nitter.net/ShivRajJat_/status/1621128415691808770#m</id>
+        <link href="https://nitter.net/ShivRajJat_/status/1621128415691808770#m"/>
+        <updated>2023-02-02T12:48:28.000Z</updated>
+        <summary type="html"><![CDATA[@moliticsindia @cartoonistrrs 
+#AdaniEnterprises]]></summary>
+        <author>
+            <name>@ShivRajJat_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @RaoRaymal: Haha ye sahi hai]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621128004062834688#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621128004062834688#m"/>
+        <updated>2023-02-02T12:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Haha ye sahi hai]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: LIC से लेकर बैंकों की #AdaniGroup को मदद दे रहे हैं। ED और SEBI को चुप कराया गया है।
+आखिर क्यों?
+दाल काली है या फिर पूरा प्रेशर कूकर ही काला है? 
+कुछ दिनों में दुनिया को पता चल ही जाएगा।
+#चौकीदार_ही_चोर_है
+
+https://twitter.com/i/spaces/1vAGRAXNRrrKl]]></title>
+        <id>https://nitter.net/ItsRizwan72/status/1621121897378492416#m</id>
+        <link href="https://nitter.net/ItsRizwan72/status/1621121897378492416#m"/>
+        <updated>2023-02-02T12:22:33.000Z</updated>
+        <summary type="html"><![CDATA[LIC से लेकर बैंकों की #AdaniGroup को मदद दे रहे हैं। ED और SEBI को चुप कराया गया है।
+#चौकीदार_ही_चोर_है
+nitter.net/i/spaces/1vAGRAX…]]></summary>
+        <author>
+            <name>@ItsRizwan72</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[लंगड़े घोड़े पर दाव खोलोगे तो यही होगा #FPO]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1621119677115305986#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1621119677115305986#m"/>
+        <updated>2023-02-02T12:13:44.000Z</updated>
+        <summary type="html"><![CDATA[लंगड़े घोड़े पर दाव खोलोगे तो यही होगा #FPO]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: ढलता सूरज धीरे-धीरे...!
+
+#AdaniEnterprises @cartoonistrrs]]></title>
+        <id>https://nitter.net/moliticsindia/status/1621112626112774144#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1621112626112774144#m"/>
+        <updated>2023-02-02T11:45:43.000Z</updated>
+        <summary type="html"><![CDATA[ढलता सूरज धीरे-धीरे...!
+#AdaniEnterprises @cartoonistrrs]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1621107304903983105#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1621107304903983105#m"/>
+        <updated>2023-02-02T11:24:34.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: WhatsApp University!
+
+#Budget2023 @satishacharya]]></title>
+        <id>https://nitter.net/moliticsindia/status/1621092202037547014#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1621092202037547014#m"/>
+        <updated>2023-02-02T10:24:34.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp University!
+#Budget2023 @satishacharya]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[खूब जमेगी जब मिल बैठेंगे फकीर दो। 🤣]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1621082403992408065#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1621082403992408065#m"/>
+        <updated>2023-02-02T09:45:38.000Z</updated>
+        <summary type="html"><![CDATA[खूब जमेगी जब मिल बैठेंगे फकीर दो। 🤣]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: FINALLY! Journalist Siddique Kappan walks out after spending 2+ years in jail.]]></title>
+        <id>https://nitter.net/zoo_bear/status/1621032200631377920#m</id>
+        <link href="https://nitter.net/zoo_bear/status/1621032200631377920#m"/>
+        <updated>2023-02-02T06:26:08.000Z</updated>
+        <summary type="html"><![CDATA[FINALLY! Journalist Siddique Kappan walks out after spending 2+ years in jail.]]></summary>
+        <author>
+            <name>@zoo_bear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: व्हाट्सप्प अंकल ...]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1621018146747617281#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1621018146747617281#m"/>
+        <updated>2023-02-02T05:30:17.000Z</updated>
+        <summary type="html"><![CDATA[व्हाट्सप्प अंकल ...]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: #Greentoon of the day by @MANJULtoons]]></title>
+        <id>https://nitter.net/ETPrime_com/status/1621010523364933633#m</id>
+        <link href="https://nitter.net/ETPrime_com/status/1621010523364933633#m"/>
+        <updated>2023-02-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#Greentoon of the day by @MANJULtoons]]></summary>
+        <author>
+            <name>@ETPrime_com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 2 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1621006155689623552#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1621006155689623552#m"/>
+        <updated>2023-02-02T04:42:39.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 2 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🫣]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1620991301738184705#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1620991301738184705#m"/>
+        <updated>2023-02-02T03:43:37.000Z</updated>
+        <summary type="html"><![CDATA[🫣
+nitter.net/BBCHindi/status/1620985233616080896#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amritkaal Budget! #Budget2023 #amritkaal]]></title>
+        <id>https://nitter.net/satishacharya/status/1620976585913544704#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620976585913544704#m"/>
+        <updated>2023-02-02T02:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Amritkaal Budget! #Budget2023 #amritkaal]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[जब जनता FPO में पैसा लगाती है और शेयर डूबता है तो जनता अफसोस करने के अलावा कुछ कर नहीं पाती।
+पर जब FPO में पैसा रसूखदार यार-दोस्तों का होता है तो शेयर के डूबने पर वापस करना पड़ता है वरना वो हलक से निकाल सकते हैं।]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1620846920167211009#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1620846920167211009#m"/>
+        <updated>2023-02-01T18:09:54.000Z</updated>
+        <summary type="html"><![CDATA[जब जनता FPO में पैसा लगाती है और शेयर डूबता है तो जनता अफसोस करने के अलावा कुछ कर नहीं पाती।
+पर जब FPO में पैसा रसूखदार यार-दोस्तों का होता है तो शेयर के डूबने पर वापस करना पड़ता है वरना वो हलक से निकाल सकते हैं।]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @OberaiJassi: What a ride, Jassi bhai. You're such a fighter and an  inspiration to so many people. Wishing you happiness.]]></title>
+        <id>https://nitter.net/satishacharya/status/1620846149241569280#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620846149241569280#m"/>
+        <updated>2023-02-01T18:06:50.000Z</updated>
+        <summary type="html"><![CDATA[What a ride, Jassi bhai. You're such a fighter and an  inspiration to so many people. Wishing you happiness.]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: Too expensive to buy your own shares at ₹3200 when you can buy them from market at ₹2000! ‘Joke is on us’. Keep fooling @SEBI_India &  don’t disclose source of money. Rampant market manipulation doesn’t make one “stand by its investors”.]]></title>
+        <id>https://nitter.net/MahuaMoitra/status/1620838095351607296#m</id>
+        <link href="https://nitter.net/MahuaMoitra/status/1620838095351607296#m"/>
+        <updated>2023-02-01T17:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Too expensive to buy your own shares at ₹3200 when you can buy them from market at ₹2000! ‘Joke is on us’. Keep fooling @SEBI_India &  don’t disclose source of money. Rampant market manipulation doesn’t make one “stand by its investors”.]]></summary>
+        <author>
+            <name>@MahuaMoitra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @Kanagalogy: 😂]]></title>
+        <id>https://nitter.net/satishacharya/status/1620818803629367296#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620818803629367296#m"/>
+        <updated>2023-02-01T16:18:10.000Z</updated>
+        <summary type="html"><![CDATA[😂]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ईश्वर पत्थर के नहीं होते, वे तो दयावान होते हैं, कृपालु होते है, राम सभी हिन्दुओं के दिल पर राज करते है|| जय श्रीराम]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1620812832416886784#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1620812832416886784#m"/>
+        <updated>2023-02-01T15:54:27.000Z</updated>
+        <summary type="html"><![CDATA[ईश्वर पत्थर के नहीं होते, वे तो दयावान होते हैं, कृपालु होते है, राम सभी हिन्दुओं के दिल पर राज करते है|| जय श्रीराम
+nitter.net/KumaarSaagar/status/1620809229346164741#m]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😁😁]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1620811641238736896#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1620811641238736896#m"/>
+        <updated>2023-02-01T15:49:43.000Z</updated>
+        <summary type="html"><![CDATA[😁😁]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: बजट तो जनहित में है.. #Budget2023
+
+https://twitter.com/i/spaces/1lDxLnmbpqZGm]]></title>
+        <id>https://nitter.net/afficasm/status/1620802790200324096#m</id>
+        <link href="https://nitter.net/afficasm/status/1620802790200324096#m"/>
+        <updated>2023-02-01T15:14:32.000Z</updated>
+        <summary type="html"><![CDATA[बजट तो जनहित में है.. #Budget2023
+nitter.net/i/spaces/1lDxLnm…]]></summary>
+        <author>
+            <name>@afficasm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: Historic Budget, says PM. @moliticsindia cartoon #Budget2023]]></title>
+        <id>https://nitter.net/satishacharya/status/1620798135512739841#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620798135512739841#m"/>
+        <updated>2023-02-01T14:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Historic Budget, says PM. @moliticsindia cartoon #Budget2023]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: finally
+https://www.newslaundry.com/2023/02/01/in-jail-since-sept-2020-siddique-kappan-set-to-be-released-tomorrow]]></title>
+        <id>https://nitter.net/MnshaP/status/1620792371574370304#m</id>
+        <link href="https://nitter.net/MnshaP/status/1620792371574370304#m"/>
+        <updated>2023-02-01T14:33:08.000Z</updated>
+        <summary type="html"><![CDATA[finally
+newslaundry.com/2023/02/01/i…]]></summary>
+        <author>
+            <name>@MnshaP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: Let me check!
+
+#Budget2023 #incometax @satishacharya]]></title>
+        <id>https://nitter.net/moliticsindia/status/1620783888607105025#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1620783888607105025#m"/>
+        <updated>2023-02-01T13:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Let me check!
+#Budget2023 #incometax @satishacharya]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[कैसा रहा बजट]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1620783741252820992#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1620783741252820992#m"/>
+        <updated>2023-02-01T13:58:51.000Z</updated>
+        <summary type="html"><![CDATA[कैसा रहा बजट]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[आय है तो कर है ...  #Cartoon on #Budget]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1620764829001850880#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1620764829001850880#m"/>
+        <updated>2023-02-01T12:43:42.000Z</updated>
+        <summary type="html"><![CDATA[आय है तो कर है ...  #Cartoon on #Budget]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1620757630997200897#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1620757630997200897#m"/>
+        <updated>2023-02-01T12:15:06.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: This sneering and disrespectful tweet represents the position of 
+@the_hindu ?
+JUST CHECKING.]]></title>
+        <id>https://nitter.net/priyashmita/status/1620754327244783616#m</id>
+        <link href="https://nitter.net/priyashmita/status/1620754327244783616#m"/>
+        <updated>2023-02-01T12:01:58.000Z</updated>
+        <summary type="html"><![CDATA[This sneering and disrespectful tweet represents the position of 
+@the_hindu ?
+nitter.net/MaliniP/status/1620484676354818049#m]]></summary>
+        <author>
+            <name>@priyashmita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: मुंगेरी लाल के हसीन सपने!
+
+#Budget2023 @cartoonistrrs]]></title>
+        <id>https://nitter.net/moliticsindia/status/1620745544762265604#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1620745544762265604#m"/>
+        <updated>2023-02-01T11:27:04.000Z</updated>
+        <summary type="html"><![CDATA[मुंगेरी लाल के हसीन सपने!
+#Budget2023 @cartoonistrrs]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: सब गोलमाल है भाई सब गोलमाल!
+
+#FPO @satishacharya]]></title>
+        <id>https://nitter.net/moliticsindia/status/1620744123392356352#m</id>
+        <link href="https://nitter.net/moliticsindia/status/1620744123392356352#m"/>
+        <updated>2023-02-01T11:21:25.000Z</updated>
+        <summary type="html"><![CDATA[सब गोलमाल है भाई सब गोलमाल!
+#FPO @satishacharya]]></summary>
+        <author>
+            <name>@moliticsindia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @punk6529: gm ser]]></title>
+        <id>https://nitter.net/satishacharya/status/1620689305487446017#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620689305487446017#m"/>
+        <updated>2023-02-01T07:43:36.000Z</updated>
+        <summary type="html"><![CDATA[gm ser]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @Aniltprabhakar: Congrats Anil. Truly deserving!]]></title>
+        <id>https://nitter.net/satishacharya/status/1620689263519240193#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620689263519240193#m"/>
+        <updated>2023-02-01T07:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Congrats Anil. Truly deserving!]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[बजट के बाद 1050₹ का शेयर मार्केट में उछाल लेकिन lic अभी भी डूबता हुआ]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1620687117113503744#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1620687117113503744#m"/>
+        <updated>2023-02-01T07:34:54.000Z</updated>
+        <summary type="html"><![CDATA[बजट के बाद 1050₹ का शेयर मार्केट में उछाल लेकिन lic अभी भी डूबता हुआ]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shraddhanjali. 🙏  Please take care @pbhushan1 sir.]]></title>
+        <id>https://nitter.net/satishacharya/status/1620682520370233344#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620682520370233344#m"/>
+        <updated>2023-02-01T07:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Shraddhanjali. 🙏  Please take care @pbhushan1 sir.
+nitter.net/_YogendraYadav/status/1620475434449403906#m]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: Dukhdarshan, your weekly news update, this time hosted by @thewire_in 
+
+https://youtu.be/5V_MEYXqNaU]]></title>
+        <id>https://nitter.net/ms_medusssa/status/1620672521304707072#m</id>
+        <link href="https://nitter.net/ms_medusssa/status/1620672521304707072#m"/>
+        <updated>2023-02-01T06:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Dukhdarshan, your weekly news update, this time hosted by @thewire_in 
+piped.video/5V_MEYXqNaU]]></summary>
+        <author>
+            <name>@ms_medusssa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Budget2023 #BudgetSession #Budget #BudgetSession2023 #NirmalaSitharaman @nsitharaman]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1620667808068833281#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1620667808068833281#m"/>
+        <updated>2023-02-01T06:18:10.000Z</updated>
+        <summary type="html"><![CDATA[#Budget2023 #BudgetSession #Budget #BudgetSession2023 #NirmalaSitharaman @nsitharaman]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: इतनी तेजी से 😶😶 #Adani
+
+शेयर होल्डर्स क्या हाल है आपके ?
+https://twitter.com/i/spaces/1lDxLnmbpqZGm]]></title>
+        <id>https://nitter.net/afficasm/status/1620661674347991040#m</id>
+        <link href="https://nitter.net/afficasm/status/1620661674347991040#m"/>
+        <updated>2023-02-01T05:53:48.000Z</updated>
+        <summary type="html"><![CDATA[इतनी तेजी से 😶😶 #Adani
+nitter.net/i/spaces/1lDxLnm…]]></summary>
+        <author>
+            <name>@afficasm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[बजट पर जितनी ऊंचाई से मीडिया वालों ने चर्चा की है क्या आज का बजट उतनी ऊंचाई तक भी पहुंचेगी की नहीं यही देखना है]]></title>
+        <id>https://nitter.net/cartoonistrrs/status/1620653977355571200#m</id>
+        <link href="https://nitter.net/cartoonistrrs/status/1620653977355571200#m"/>
+        <updated>2023-02-01T05:23:13.000Z</updated>
+        <summary type="html"><![CDATA[बजट पर जितनी ऊंचाई से मीडिया वालों ने चर्चा की है क्या आज का बजट उतनी ऊंचाई तक भी पहुंचेगी की नहीं यही देखना है]]></summary>
+        <author>
+            <name>@cartoonistrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: Interesting…hours after Adani called our @HindenburgRes report an ‘attack on India’, we see hundreds of pro-Adani messages - all slightly different in content, yet all with the same unique spelling error]]></title>
+        <id>https://nitter.net/ClarityToast/status/1620631023079022594#m</id>
+        <link href="https://nitter.net/ClarityToast/status/1620631023079022594#m"/>
+        <updated>2023-02-01T03:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Interesting…hours after Adani called our @HindenburgRes report an ‘attack on India’, we see hundreds of pro-Adani messages - all slightly different in content, yet all with the same unique spelling error]]></summary>
+        <author>
+            <name>@ClarityToast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: The president's lavish praise on the govt, ahead of the budget. #Budget2023]]></title>
+        <id>https://nitter.net/satishacharya/status/1620621670280237056#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620621670280237056#m"/>
+        <updated>2023-02-01T03:14:50.000Z</updated>
+        <summary type="html"><![CDATA[The president's lavish praise on the govt, ahead of the budget. #Budget2023]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR -oHERALDo - 01  FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1620605017509216257#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1620605017509216257#m"/>
+        <updated>2023-02-01T02:08:40.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR -oHERALDo - 01  FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @_simranagarwal: 😁🙏]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1620478619624816640#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1620478619624816640#m"/>
+        <updated>2023-01-31T17:46:24.000Z</updated>
+        <summary type="html"><![CDATA[😁🙏]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @cartoonistrrs: Good to see that after years the rupee has depreciated less than anyone else.
+#Adaniscam]]></title>
+        <id>https://nitter.net/anudeepjaglan/status/1620472585199968256#m</id>
+        <link href="https://nitter.net/anudeepjaglan/status/1620472585199968256#m"/>
+        <updated>2023-01-31T17:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Good to see that after years the rupee has depreciated less than anyone else.
+#Adaniscam
+nitter.net/moliticsindia/status/1620353902477709314#m]]></summary>
+        <author>
+            <name>@anudeepjaglan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[अपनी अपनी दौलत... #cartoon #adani]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1620443248866246658#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1620443248866246658#m"/>
+        <updated>2023-01-31T15:25:51.000Z</updated>
+        <summary type="html"><![CDATA[अपनी अपनी दौलत... #cartoon #adani]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: जो लोग ये चलाते हैं की आपको बजट में वित्त मंत्री से क्या चाहिए हमको बताइए etc... वो आपको उल्लू बनाते हैं। एक तो जब ये प्रोग्राम शुरू होते हैं तब तक बजट बन चुका होता है। दूसरा इन प्रोग्राम को देखकर किसी वित्त मंत्री ने कोई फैसला लिया हो, ऐसा कोई रिकॉर्ड नहीं है।]]></title>
+        <id>https://nitter.net/abhishek_sh78/status/1620389458792321025#m</id>
+        <link href="https://nitter.net/abhishek_sh78/status/1620389458792321025#m"/>
+        <updated>2023-01-31T11:52:07.000Z</updated>
+        <summary type="html"><![CDATA[जो लोग ये चलाते हैं की आपको बजट में वित्त मंत्री से क्या चाहिए हमको बताइए etc... वो आपको उल्लू बनाते हैं। एक तो जब ये प्रोग्राम शुरू होते हैं तब तक बजट बन चुका होता है। दूसरा इन प्रोग्राम को देखकर किसी वित्त मंत्री ने कोई फैसला लिया हो, ऐसा कोई रिकॉर्ड नहीं है।]]></summary>
+        <author>
+            <name>@abhishek_sh78</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: 'बड़े बोल नहीं बोल रहा, पर हवा से थोड़ी हिलूंगा मैं, हवा से झाड़ियां हिलती हैं'
+
+#Pathaan कमाई कर रही है तो इसकी कई वजह हैं.
+
+बिना सेकेंड गंवाए ख़ुद को शेखर राधा कृष्णा कहने वाले #SRK की चुप्पी इनमें से एक वजह है!
+
+कुछ वजह, बातें...
+@iamsrk #ShahRukhKhan 
+https://www.bbc.com/hindi/entertainment-64455008]]></title>
+        <id>https://nitter.net/1vikastrivedi/status/1620388572305178624#m</id>
+        <link href="https://nitter.net/1vikastrivedi/status/1620388572305178624#m"/>
+        <updated>2023-01-31T11:48:35.000Z</updated>
+        <summary type="html"><![CDATA['बड़े बोल नहीं बोल रहा, पर हवा से थोड़ी हिलूंगा मैं, हवा से झाड़ियां हिलती हैं'
+#Pathaan कमाई कर रही है तो इसकी कई वजह हैं.
+#SRK की चुप्पी इनमें से एक वजह है!
+@iamsrk #ShahRukhKhan 
+bbc.com/hindi/entertainment-…]]></summary>
+        <author>
+            <name>@1vikastrivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#SamajwadiParty #AkhileshYadav #shivpalyadav @yadavakhilesh @shivpalsinghyad @samajwadiparty]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1620317102937890816#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1620317102937890816#m"/>
+        <updated>2023-01-31T07:04:36.000Z</updated>
+        <summary type="html"><![CDATA[#SamajwadiParty #AkhileshYadav #shivpalyadav @yadavakhilesh @shivpalsinghyad @samajwadiparty]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: Inflated? #hindenburgresearch #AdaniGroup]]></title>
+        <id>https://nitter.net/satishacharya/status/1620266717984481280#m</id>
+        <link href="https://nitter.net/satishacharya/status/1620266717984481280#m"/>
+        <updated>2023-01-31T03:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Inflated? #hindenburgresearch #AdaniGroup]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 31 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1620251947487100929#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1620251947487100929#m"/>
+        <updated>2023-01-31T02:45:41.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 31 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @satishacharya: 'Attack on India' says Adani. @moliticsindia cartoon. #Hindenburg #ADANIresponse]]></title>
+        <id>https://nitter.net/satishacharya/status/1619997967498510336#m</id>
+        <link href="https://nitter.net/satishacharya/status/1619997967498510336#m"/>
+        <updated>2023-01-30T09:56:28.000Z</updated>
+        <summary type="html"><![CDATA['Attack on India' says Adani. @moliticsindia cartoon. #Hindenburg #ADANIresponse]]></summary>
+        <author>
+            <name>@satishacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#sensex #AdaniGroup #AdaniEnterprises #Adaniscam #sharemarket]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1619967666214801411#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1619967666214801411#m"/>
+        <updated>2023-01-30T07:56:03.000Z</updated>
+        <summary type="html"><![CDATA[#sensex #AdaniGroup #AdaniEnterprises #Adaniscam #sharemarket]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 30 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1619897539041595392#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1619897539041595392#m"/>
+        <updated>2023-01-30T03:17:24.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 30 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 29 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1619575019197300736#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1619575019197300736#m"/>
+        <updated>2023-01-29T05:55:49.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 29 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cow Dung Biogas To Power Cars – Maruti Suzuki Reveals Plans #MarutiSuzuki #PetrolDieselPrice #suzuki #cowdung #holicow]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1619554021823623168#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1619554021823623168#m"/>
+        <updated>2023-01-29T04:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Cow Dung Biogas To Power Cars – Maruti Suzuki Reveals Plans #MarutiSuzuki #PetrolDieselPrice #suzuki #cowdung #holicow]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#sensex  #sharemarket #AdaniEnterprises #Adani #investers]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1619241270203011072#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1619241270203011072#m"/>
+        <updated>2023-01-28T07:49:37.000Z</updated>
+        <summary type="html"><![CDATA[#sensex  #sharemarket #AdaniEnterprises #Adani #investers]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 28 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1619191658423422977#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1619191658423422977#m"/>
+        <updated>2023-01-28T04:32:29.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 28 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MANJULtoons: #BBCDocumentary #Modi #Adani #HindenburgReport @newslaundry #caroon #Manjultoons]]></title>
+        <id>https://nitter.net/MANJULtoons/status/1618954476857225216#m</id>
+        <link href="https://nitter.net/MANJULtoons/status/1618954476857225216#m"/>
+        <updated>2023-01-27T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[#BBCDocumentary #Modi #Adani #HindenburgReport @newslaundry #caroon #Manjultoons]]></summary>
+        <author>
+            <name>@MANJULtoons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 27 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1618837509009719297#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1618837509009719297#m"/>
+        <updated>2023-01-27T05:05:13.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 27 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo- 26 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1618477580784660481#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1618477580784660481#m"/>
+        <updated>2023-01-26T05:14:59.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo- 26 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 25 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1618112083413073922#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1618112083413073922#m"/>
+        <updated>2023-01-25T05:02:38.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 25 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 24 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1617752144345694214#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1617752144345694214#m"/>
+        <updated>2023-01-24T05:12:22.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 24 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#BageshwarDham #BageshwarDhamSarkar #BageshwarBaba #DhirendraShastriControversy #DhirendraShastri #DhirendraKrishnaShastri #PetrolDieselPrice #petrolprice]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1617456770359910404#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1617456770359910404#m"/>
+        <updated>2023-01-23T09:38:39.000Z</updated>
+        <summary type="html"><![CDATA[#BageshwarDham #BageshwarDhamSarkar #BageshwarBaba #DhirendraShastriControversy #DhirendraShastri #DhirendraKrishnaShastri #PetrolDieselPrice #petrolprice]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 23 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1617434734984056833#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1617434734984056833#m"/>
+        <updated>2023-01-23T08:11:05.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 23 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1617145669332135944#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1617145669332135944#m"/>
+        <updated>2023-01-22T13:02:27.000Z</updated>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 22 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1617029158772822018#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1617029158772822018#m"/>
+        <updated>2023-01-22T05:19:29.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 22 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR  - oHERALDo - 21 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1616623357218242560#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1616623357218242560#m"/>
+        <updated>2023-01-21T02:26:58.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR  - oHERALDo - 21 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#UsainBolt #BOLT]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1616339109055975424#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1616339109055975424#m"/>
+        <updated>2023-01-20T07:37:28.000Z</updated>
+        <summary type="html"><![CDATA[#UsainBolt #BOLT]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 20 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1616307686114557952#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1616307686114557952#m"/>
+        <updated>2023-01-20T05:32:36.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 20 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Elections2023 #ColdWave]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1616039821579022336#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1616039821579022336#m"/>
+        <updated>2023-01-19T11:48:12.000Z</updated>
+        <summary type="html"><![CDATA[#Elections2023 #ColdWave]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 19 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1615895218380804097#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1615895218380804097#m"/>
+        <updated>2023-01-19T02:13:36.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 19 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[कठुआ में एक बच्ची के साथ  बलात्कार और हत्या के आरोपियों के समर्थन में तिरंगा मार्च निकालने वाले लाल सिंह का भारत जोड़ो यात्रा में शामिल होना शर्मनाक है। @RahulGandhi @digvijaya_28 @priyankagandhi @INCIndia]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1615756873776640000#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1615756873776640000#m"/>
+        <updated>2023-01-18T17:03:52.000Z</updated>
+        <summary type="html"><![CDATA[कठुआ में एक बच्ची के साथ  बलात्कार और हत्या के आरोपियों के समर्थन में तिरंगा मार्च निकालने वाले लाल सिंह का भारत जोड़ो यात्रा में शामिल होना शर्मनाक है। @RahulGandhi @digvijaya_28 @priyankagandhi @INCIndia]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 18 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1615541245207613449#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1615541245207613449#m"/>
+        <updated>2023-01-18T02:47:02.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 18 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 17 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1615178570485080068#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1615178570485080068#m"/>
+        <updated>2023-01-17T02:45:54.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 17 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 16 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1614818878311243776#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1614818878311243776#m"/>
+        <updated>2023-01-16T02:56:37.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 16 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 15 JANUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1614493182879842304#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1614493182879842304#m"/>
+        <updated>2023-01-15T05:22:25.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 15 JANUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MakarSankranti #MakarSankranti2023 #MakaraSankranti #inflation #inflation]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1614139722171060227#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1614139722171060227#m"/>
+        <updated>2023-01-14T05:57:53.000Z</updated>
+        <summary type="html"><![CDATA[#MakarSankranti #MakarSankranti2023 #MakaraSankranti #inflation #inflation]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1613771484518027267#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1613771484518027267#m"/>
+        <updated>2023-01-13T05:34:38.000Z</updated>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#JoshimathIsSinking #Joshimathcrisis #joshimathsinking #JoshimathSubsidence #sociallife #social_life_in_india]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1613113005939777542#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1613113005939777542#m"/>
+        <updated>2023-01-11T09:58:05.000Z</updated>
+        <summary type="html"><![CDATA[#JoshimathIsSinking #Joshimathcrisis #joshimathsinking #JoshimathSubsidence #sociallife #social_life_in_india]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#winter #ColdWave #coldweather]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1611977997783027714#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1611977997783027714#m"/>
+        <updated>2023-01-08T06:47:58.000Z</updated>
+        <summary type="html"><![CDATA[#winter #ColdWave #coldweather]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AirIndia #FLIGHT #PeeingHuman]]></title>
+        <id>https://nitter.net/irshadkaptan1/status/1611597795940773893#m</id>
+        <link href="https://nitter.net/irshadkaptan1/status/1611597795940773893#m"/>
+        <updated>2023-01-07T05:37:11.000Z</updated>
+        <summary type="html"><![CDATA[#AirIndia #FLIGHT #PeeingHuman]]></summary>
+        <author>
+            <name>@irshadkaptan1</name>
+        </author>
+    </entry>
 </feed>
