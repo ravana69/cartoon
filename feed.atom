@@ -1,8 +1,413 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T02:35:16.177Z</id>
+    <id>urn:2023-03-04T00:40:29.414Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T02:35:16.177Z</updated>
+    <updated>2023-03-04T00:40:29.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1631633546723950599#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1631633546723950599#m"/>
+        <updated>2023-03-03T12:32:06.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[आपके भाव.... Today's cartoon]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1631515007530971137#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1631515007530971137#m"/>
+        <updated>2023-03-03T04:41:04.000Z</updated>
+        <summary type="html"><![CDATA[आपके भाव.... Today's cartoon]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1631283577710100482#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1631283577710100482#m"/>
+        <updated>2023-03-02T13:21:27.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: 'मनापासून सांगा...!' 🤭
+@Kirtishbhat]]></title>
+        <id>https://nitter.net/bbcnewsmarathi/status/1631281155797585920#m</id>
+        <link href="https://nitter.net/bbcnewsmarathi/status/1631281155797585920#m"/>
+        <updated>2023-03-02T13:11:49.000Z</updated>
+        <summary type="html"><![CDATA['मनापासून सांगा...!' 🤭
+@Kirtishbhat]]></summary>
+        <author>
+            <name>@bbcnewsmarathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cartoon on #LPGPriceHike  from #Archive]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1631206119581585408#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1631206119581585408#m"/>
+        <updated>2023-03-02T08:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon on #LPGPriceHike  from #Archive]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @PavanKulk789: Thanks for your message, I am on vacation until next week 🙏🙏🙏]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1630939571440730112#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1630939571440730112#m"/>
+        <updated>2023-03-01T14:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for your message, I am on vacation until next week 🙏🙏🙏]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[तो देखते हैं]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1630935376767643648#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1630935376767643648#m"/>
+        <updated>2023-03-01T14:17:49.000Z</updated>
+        <summary type="html"><![CDATA[तो देखते हैं]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1630908382885433346#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1630908382885433346#m"/>
+        <updated>2023-03-01T12:30:33.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1630544763010031616#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1630544763010031616#m"/>
+        <updated>2023-02-28T12:25:40.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kirtishbhat: आज का कार्टून]]></title>
+        <id>https://nitter.net/BBCHindi/status/1630183989129404417#m</id>
+        <link href="https://nitter.net/BBCHindi/status/1630183989129404417#m"/>
+        <updated>2023-02-27T12:32:05.000Z</updated>
+        <summary type="html"><![CDATA[आज का कार्टून]]></summary>
+        <author>
+            <name>@BBCHindi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 25 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1629336614739615746#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1629336614739615746#m"/>
+        <updated>2023-02-25T04:24:55.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 25 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 23  FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1628586875106516995#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1628586875106516995#m"/>
+        <updated>2023-02-23T02:45:43.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 23  FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @SucceedEng: Thank you sir 🙏]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1628284213391769600#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1628284213391769600#m"/>
+        <updated>2023-02-22T06:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Thank you sir 🙏]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @SucceedEng: Good morning, we use the same software probably]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1628242201787392001#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1628242201787392001#m"/>
+        <updated>2023-02-22T03:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Good morning, we use the same software probably]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 22 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1628224500507574272#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1628224500507574272#m"/>
+        <updated>2023-02-22T02:45:46.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 22 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 21 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1627862487763673089#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1627862487763673089#m"/>
+        <updated>2023-02-21T02:47:15.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 21 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 20 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1627501932263645185#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1627501932263645185#m"/>
+        <updated>2023-02-20T02:54:32.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 20 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 19 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1627173088252030976#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1627173088252030976#m"/>
+        <updated>2023-02-19T05:07:50.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 19 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 18 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1626814953087795200#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1626814953087795200#m"/>
+        <updated>2023-02-18T05:24:44.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 18 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[घुसपैठ #cartoon #PakistanEconomy]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1626603517728411651#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1626603517728411651#m"/>
+        <updated>2023-02-17T15:24:34.000Z</updated>
+        <summary type="html"><![CDATA[घुसपैठ #cartoon #PakistanEconomy]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @RoleNo9: कई बार कर चुका ये. वे हर बार नया नंबर यूज़ कर रहे]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1626563023711399938#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1626563023711399938#m"/>
+        <updated>2023-02-17T12:43:39.000Z</updated>
+        <summary type="html"><![CDATA[कई बार कर चुका ये. वे हर बार नया नंबर यूज़ कर रहे]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[डियर @reliancetrends मेरा व्हाट्सप्प छोड़ दीजिये.  मुझसे गलती हो गयी कि मैंने बिलिंग काउंटर पर अपना मोबाइल नंबर दे दिया.  मुझे माफ़ कर दीजिये, दोबारा ऐसा नहीं होगा. मैं ट्रेंड्स के सामने से भी नहीं निकलूंगा. प्रॉमिस.]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1626470168993091585#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1626470168993091585#m"/>
+        <updated>2023-02-17T06:34:41.000Z</updated>
+        <summary type="html"><![CDATA[डियर @reliancetrends मेरा व्हाट्सप्प छोड़ दीजिये.  मुझसे गलती हो गयी कि मैंने बिलिंग काउंटर पर अपना मोबाइल नंबर दे दिया.  मुझे माफ़ कर दीजिये, दोबारा ऐसा नहीं होगा. मैं ट्रेंड्स के सामने से भी नहीं निकलूंगा. प्रॉमिस.]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 17 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1626416790543777793#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1626416790543777793#m"/>
+        <updated>2023-02-17T03:02:34.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 17 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[अच्छा! रेस? #cartoon #delhi #mumbai #pollution]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1626215304933310464#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1626215304933310464#m"/>
+        <updated>2023-02-16T13:41:56.000Z</updated>
+        <summary type="html"><![CDATA[अच्छा! रेस? #cartoon #delhi #mumbai #pollution]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[एक्सक्यूजमी #cartoon]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1626062283003797506#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1626062283003797506#m"/>
+        <updated>2023-02-16T03:33:53.000Z</updated>
+        <summary type="html"><![CDATA[एक्सक्यूजमी #cartoon]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 16 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1626027765823680516#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1626027765823680516#m"/>
+        <updated>2023-02-16T01:16:44.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 16 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo-  14 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1625306029071138819#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1625306029071138819#m"/>
+        <updated>2023-02-14T01:28:48.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo-  14 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @urvish2020: True]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1625159671291207681#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1625159671291207681#m"/>
+        <updated>2023-02-13T15:47:14.000Z</updated>
+        <summary type="html"><![CDATA[True]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[विश्व रेडियो दिवस]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1625139876034396161#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1625139876034396161#m"/>
+        <updated>2023-02-13T14:28:34.000Z</updated>
+        <summary type="html"><![CDATA[विश्व रेडियो दिवस]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❤️❤️]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1625135231903866880#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1625135231903866880#m"/>
+        <updated>2023-02-13T14:10:07.000Z</updated>
+        <summary type="html"><![CDATA[❤️❤️
+nitter.net/sumrag/status/1625013429143752705#m]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 13 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1624995527413665792#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1624995527413665792#m"/>
+        <updated>2023-02-13T04:54:59.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 13 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 12 FEBRUARY - 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1624630746181672961#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1624630746181672961#m"/>
+        <updated>2023-02-12T04:45:28.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 12 FEBRUARY - 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @SirKazamJeevi: Hahahahaha मुझे थोड़ी देर सोचना पड़ा कि कौन अमृता 😂😂]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1624332168192491520#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1624332168192491520#m"/>
+        <updated>2023-02-11T08:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Hahahahaha मुझे थोड़ी देर सोचना पड़ा कि कौन अमृता 😂😂]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @SirKazamJeevi: पाकिस्तान के ढींचक फतेह]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1624330989614010368#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1624330989614010368#m"/>
+        <updated>2023-02-11T08:54:21.000Z</updated>
+        <summary type="html"><![CDATA[पाकिस्तान के ढींचक फतेह]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[अर्ज किया है- आपके पांव के नीचे जमीन नहीं....
+बिजनेसमैन - जमीन! कैसी जमीन? कौनसी जमीन? कहां है जमीन?]]></title>
+        <id>https://nitter.net/Kirtishbhat/status/1624304173746618368#m</id>
+        <link href="https://nitter.net/Kirtishbhat/status/1624304173746618368#m"/>
+        <updated>2023-02-11T07:07:47.000Z</updated>
+        <summary type="html"><![CDATA[अर्ज किया है- आपके पांव के नीचे जमीन नहीं....
+बिजनेसमैन - जमीन! कैसी जमीन? कौनसी जमीन? कहां है जमीन?]]></summary>
+        <author>
+            <name>@Kirtishbhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 11 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1624286443278413825#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1624286443278413825#m"/>
+        <updated>2023-02-11T05:57:20.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 11 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 10 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1623876937297891328#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1623876937297891328#m"/>
+        <updated>2023-02-10T02:50:06.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 10 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 09 FEBRUARY 2022]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1623597374974177280#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1623597374974177280#m"/>
+        <updated>2023-02-09T08:19:13.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 09 FEBRUARY 2022]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 08 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1623180931853914112#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1623180931853914112#m"/>
+        <updated>2023-02-08T04:44:26.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 08 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDHARUDHAR - oHERALDo - 06 FEBRUARY 2023]]></title>
+        <id>https://nitter.net/IdharUddhar/status/1622824311605035008#m</id>
+        <link href="https://nitter.net/IdharUddhar/status/1622824311605035008#m"/>
+        <updated>2023-02-07T05:07:21.000Z</updated>
+        <summary type="html"><![CDATA[IDHARUDHAR - oHERALDo - 06 FEBRUARY 2023]]></summary>
+        <author>
+            <name>@IdharUddhar</name>
+        </author>
+    </entry>
 </feed>
