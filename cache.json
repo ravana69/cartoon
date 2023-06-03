@@ -1,4 +1,1237 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Kirtish Bhatt / @Kirtishbhat",
+      "feedUrl": "https://nitter.net/Kirtishbhat/search/rss?f=tweets",
+      "siteUrl": "https://nitter.net/Kirtishbhat",
+      "articles": [
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1664283931804585988#m",
+          "author": "@Kirtishbhat",
+          "description": "तो मैं पढूं?",
+          "link": "https://nitter.net/Kirtishbhat/status/1664283931804585988#m",
+          "publishedOn": "2023-06-01T14:53:04.000Z",
+          "wordCount": 169,
+          "title": "तो मैं पढूं?",
+          "imageUrl": "https://nitter.net/pic/media%2FFxi5aDFaQAIK4VM.jpg"
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1664270924739395584#m",
+          "author": "@Kirtishbhat",
+          "description": "इसका कोई बिहाइंड द सीन होगा? मैं देखना चाहता हूं उस कालजयी कैमरामैन को.\nnitter.net/ShyamMeeraSingh/status/1664252103588745216#m",
+          "link": "https://nitter.net/Kirtishbhat/status/1664270924739395584#m",
+          "publishedOn": "2023-06-01T14:01:23.000Z",
+          "wordCount": 209,
+          "title": "इसका कोई बिहाइंड द सीन होगा? मैं देखना चाहता हूं उस कालजयी कैमरामैन को.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1663917936417857540#m",
+          "author": "@Kirtishbhat",
+          "description": "AI वाली स्माइल",
+          "link": "https://nitter.net/Kirtishbhat/status/1663917936417857540#m",
+          "publishedOn": "2023-05-31T14:38:44.000Z",
+          "wordCount": 178,
+          "title": "AI वाली स्माइल",
+          "imageUrl": "https://nitter.net/pic/media%2FFxdshlbX0AosuaN.jpg"
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1663776664680275968#m",
+          "author": "@Kirtishbhat",
+          "description": "'सवालों से भागना' ऐसा सिर्फ कहा जाता है. \nसच में दौड़ नहीं लगानी होती है.",
+          "link": "https://nitter.net/Kirtishbhat/status/1663776664680275968#m",
+          "publishedOn": "2023-05-31T05:17:22.000Z",
+          "wordCount": 196,
+          "title": "'सवालों से भागना' ऐसा सिर्फ कहा जाता है. \nसच में दौड़ नहीं लगानी होती है.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1663583235513937920#m",
+          "author": "@Kirtishbhat",
+          "description": "सोचो....",
+          "link": "https://nitter.net/Kirtishbhat/status/1663583235513937920#m",
+          "publishedOn": "2023-05-30T16:28:45.000Z",
+          "wordCount": null,
+          "title": "सोचो....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1663246188831973377#m",
+          "author": "@Kirtishbhat",
+          "description": "मुझे लगता है अब तक उस महान वैज्ञानिक को 'सीमेंट की पिचें' बनाने का आइडिया आ गया होगा. #CSKvsGT #IPLFinal2023",
+          "link": "https://nitter.net/Kirtishbhat/status/1663246188831973377#m",
+          "publishedOn": "2023-05-29T18:09:27.000Z",
+          "wordCount": 260,
+          "title": "मुझे लगता है अब तक उस महान वैज्ञानिक को 'सीमेंट की पिचें' बनाने का आइडिया आ गया होगा. #CSKvsGT #IPLFinal2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1663204246874112000#m",
+          "author": "@Kirtishbhat",
+          "description": "लाओ मुंह मीठा करवाओ",
+          "link": "https://nitter.net/Kirtishbhat/status/1663204246874112000#m",
+          "publishedOn": "2023-05-29T15:22:47.000Z",
+          "wordCount": 149,
+          "title": "लाओ मुंह मीठा करवाओ",
+          "imageUrl": "https://nitter.net/pic/media%2FFxTjcnFX0AAPCwm.jpg"
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1662372953344954369#m",
+          "author": "@Kirtishbhat",
+          "description": "दो हजार की याद में",
+          "link": "https://nitter.net/Kirtishbhat/status/1662372953344954369#m",
+          "publishedOn": "2023-05-27T08:19:32.000Z",
+          "wordCount": null,
+          "title": "दो हजार की याद में",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1662164991909462016#m",
+          "author": "@Kirtishbhat",
+          "description": "मुंबई इंडियंस हार गई. सोचो अंबानीजी गुस्सा हो जाए और बोल दे जाओ मैं फाइनल दिखाता ही नहीं जियो सिनेमा पर अब. क्या कल्लोगे? #ipl",
+          "link": "https://nitter.net/Kirtishbhat/status/1662164991909462016#m",
+          "publishedOn": "2023-05-26T18:33:10.000Z",
+          "wordCount": null,
+          "title": "मुंबई इंडियंस हार गई. सोचो अंबानीजी गुस्सा हो जाए और बोल दे जाओ मैं फाइनल दिखाता ही नहीं जियो सिनेमा पर अब. क्या कल्लोगे? #ipl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1662112353356517376#m",
+          "author": "@Kirtishbhat",
+          "description": "छत्तीसगढ़ में एक अफसर का डेढ़ लाख का फोन डेम में गिर गया तो उसने डेम का लाखों लीटर पानी खाली करवा दिया. 🤦\nहर शाख पे 'कटहल' लटका है.",
+          "link": "https://nitter.net/Kirtishbhat/status/1662112353356517376#m",
+          "publishedOn": "2023-05-26T15:04:00.000Z",
+          "wordCount": null,
+          "title": "छत्तीसगढ़ में एक अफसर का डेढ़ लाख का फोन डेम में गिर गया तो उसने डेम का लाखों लीटर पानी खाली करवा दिया. 🤦\nहर शाख पे 'कटहल' लटका है.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1662080781991440384#m",
+          "author": "@Kirtishbhat",
+          "description": "आजकल के सर्वे  -\nआप नेताजी के काम से से खुश हैं?\n40% - हाँ\n30% - नहीं\n5%  - थोड़ा थोड़ा हाँ\n5%  - थोड़ा थोड़ा नहीं\n3% - कह नहीं सकते\n2% - क्यों कहें?\n5% - हैं?\n2% - आँ ...\n2% - उं...\n2% - एं ?\n2% - हम्म्म...\n2% - घररर ...!",
+          "link": "https://nitter.net/Kirtishbhat/status/1662080781991440384#m",
+          "publishedOn": "2023-05-26T12:58:33.000Z",
+          "wordCount": 248,
+          "title": "आजकल के सर्वे  -\nआप नेताजी के काम से से खुश हैं?\n40% - हाँ\n30% - नहीं\n5%  - थोड़ा थोड़ा हाँ\n5%  - थोड़ा थोड़ा नहीं\n3% - कह नहीं सकते\n2% - क्यों कहें?\n5% - हैं?\n2% - आँ ...\n2% - उं...\n2% - एं ?\n2% - हम्म्म...\n2% - घररर ...!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1662000602791182337#m",
+          "author": "@Kirtishbhat",
+          "description": "3 दिन से ऐसा लग रहा है जैसे सारी मेहनत आईएएस और आईपीएस बनने वाले ही करते हैं. बाकी लोग जब चाहें अपनी बगलें फड़फड़ाते हैं और उनकी डिग्रियां और नौकरियां निकलकर उनके पैरों में गिर पड़ती है.",
+          "link": "https://nitter.net/Kirtishbhat/status/1662000602791182337#m",
+          "publishedOn": "2023-05-26T07:39:56.000Z",
+          "wordCount": null,
+          "title": "3 दिन से ऐसा लग रहा है जैसे सारी मेहनत आईएएस और आईपीएस बनने वाले ही करते हैं. बाकी लोग जब चाहें अपनी बगलें फड़फड़ाते हैं और उनकी डिग्रियां और नौकरियां निकलकर उनके पैरों में गिर पड़ती है.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1661737547561844736#m",
+          "author": "@Kirtishbhat",
+          "description": "G-19",
+          "link": "https://nitter.net/Kirtishbhat/status/1661737547561844736#m",
+          "publishedOn": "2023-05-25T14:14:39.000Z",
+          "wordCount": null,
+          "title": "G-19",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1661402690214060034#m",
+          "author": "@Kirtishbhat",
+          "description": "एक बार परीक्षा में 10 में से 8 प्रश्नों के उत्तर मुझे आते थे.\n2 प्रश्नों के उत्तर में मैं 'मैं समझ गया' लिखकर आ गया था. 😛",
+          "link": "https://nitter.net/Kirtishbhat/status/1661402690214060034#m",
+          "publishedOn": "2023-05-24T16:04:03.000Z",
+          "wordCount": null,
+          "title": "एक बार परीक्षा में 10 में से 8 प्रश्नों के उत्तर मुझे आते थे.\n2 प्रश्नों के उत्तर में मैं 'मैं समझ गया' लिखकर आ गया था. 😛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1661276296352264192#m",
+          "author": "@Kirtishbhat",
+          "description": "नेताओं के साथ इसलिए ट्रस्ट इश्यूज होते हैं. ... इमरान खान सालभर पहले आवाम से कहते फिरते थे 'आपने घबराना नहीं है'.\nअब खुद घबरा रहे हैं.",
+          "link": "https://nitter.net/Kirtishbhat/status/1661276296352264192#m",
+          "publishedOn": "2023-05-24T07:41:48.000Z",
+          "wordCount": null,
+          "title": "नेताओं के साथ इसलिए ट्रस्ट इश्यूज होते हैं. ... इमरान खान सालभर पहले आवाम से कहते फिरते थे 'आपने घबराना नहीं है'.\nअब खुद घबरा रहे हैं.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1661022098150817798#m",
+          "author": "@Kirtishbhat",
+          "description": "गाय की राय",
+          "link": "https://nitter.net/Kirtishbhat/status/1661022098150817798#m",
+          "publishedOn": "2023-05-23T14:51:43.000Z",
+          "wordCount": null,
+          "title": "गाय की राय",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1660671249121685504#m",
+          "author": "@Kirtishbhat",
+          "description": "धारक ध्यान दें #cartoon #2000Note",
+          "link": "https://nitter.net/Kirtishbhat/status/1660671249121685504#m",
+          "publishedOn": "2023-05-22T15:37:34.000Z",
+          "wordCount": 187,
+          "title": "धारक ध्यान दें #cartoon #2000Note",
+          "imageUrl": "https://nitter.net/pic/media%2FFwvjsXnWwAIExVg.jpg"
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1660547956003737605#m",
+          "author": "@Kirtishbhat",
+          "description": "भैया दो हजार के 'लीगल टेंडर' के छुट्टे हैं क्या?",
+          "link": "https://nitter.net/Kirtishbhat/status/1660547956003737605#m",
+          "publishedOn": "2023-05-22T07:27:38.000Z",
+          "wordCount": null,
+          "title": "भैया दो हजार के 'लीगल टेंडर' के छुट्टे हैं क्या?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1660286489916309506#m",
+          "author": "@Kirtishbhat",
+          "description": "एक राजा था...\n.\n.\n.\n.\n.\n.\n.\n.\n.\nहां, आ जाओ. तुम पहले ही डिफेंड कर लो, फिर सुनाता मैं कहानी.",
+          "link": "https://nitter.net/Kirtishbhat/status/1660286489916309506#m",
+          "publishedOn": "2023-05-21T14:08:40.000Z",
+          "wordCount": null,
+          "title": "एक राजा था...\n.\n.\n.\n.\n.\n.\n.\n.\n.\nहां, आ जाओ. तुम पहले ही डिफेंड कर लो, फिर सुनाता मैं कहानी.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Kirtishbhat/status/1659903919936479232#m",
+          "author": "@Kirtishbhat",
+          "description": "🙏😊",
+          "link": "https://nitter.net/Kirtishbhat/status/1659903919936479232#m",
+          "publishedOn": "2023-05-20T12:48:28.000Z",
+          "wordCount": 80,
+          "title": "R to @TheAmitChowdhry: 🙏😊",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Satish Acharya / @satishacharya",
+      "feedUrl": "https://nitter.net/satishacharya/with_replies/rss",
+      "siteUrl": "https://nitter.net/satishacharya",
+      "articles": [
+        {
+          "id": "https://nitter.net/moliticsindia/status/1664677776711110656#m",
+          "author": "@moliticsindia",
+          "description": "जीडीपी में तेजी....!\n#GDPGrowth \n@satishacharya",
+          "link": "https://nitter.net/moliticsindia/status/1664677776711110656#m",
+          "publishedOn": "2023-06-02T16:58:04.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: जीडीपी में तेजी....!\n#GDPGrowth \n- @satishacharya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664629959938174976#m",
+          "author": "@satishacharya",
+          "description": "Truckloads of details. 🔥",
+          "link": "https://nitter.net/satishacharya/status/1664629959938174976#m",
+          "publishedOn": "2023-06-02T13:48:04.000Z",
+          "wordCount": null,
+          "title": "R to @punk6529: Truckloads of details. 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/punk6529/status/1664629664168529922#m",
+          "author": "@punk6529",
+          "description": "8K resolution card today",
+          "link": "https://nitter.net/punk6529/status/1664629664168529922#m",
+          "publishedOn": "2023-06-02T13:46:53.000Z",
+          "wordCount": 182,
+          "title": "8K resolution card today",
+          "imageUrl": "https://nitter.net/pic/media%2FFxnzxBuWwAMZYwt.jpg"
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664621098309390338#m",
+          "author": "@satishacharya",
+          "description": "😥\nnitter.net/ms_medusssa/status/1664614783948304386#m",
+          "link": "https://nitter.net/satishacharya/status/1664621098309390338#m",
+          "publishedOn": "2023-06-02T13:12:51.000Z",
+          "wordCount": null,
+          "title": "😥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/ShashankSoghal/status/1664608418806759424#m",
+          "author": "@ShashankSoghal",
+          "description": "ಚಿಕ್ಕಮಗಳೂರಿನಲ್ಲಿ ಡೇರ್ಡೆವಿಲ್ ಮುಸ್ತಾಫಾ ನಾಗಲಕ್ಷ್ಮಿ ಚಿತ್ರಮಂದಿರದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗಿದೆ. ತೇಜಸ್ವಿ ಅವರ ಜಿಲ್ಲೆಯಲ್ಲಿ ಪ್ರದರ್ಶನ ಮಾಡಲು ಬೇಡಿಕೆಯಿತ್ತು.  ಈ ವಾರ ಬಂದಿದೆ. ಎಲ್ಲರೂ ಆದಷ್ಟು ಬೇಗ ನೋಡಿದರೆ ಹೆಚ್ಚಿನ ಪ್ರದರ್ಶನ ಮಾಡಲು ಅನುಕೂಲವಾಗುತ್ತದೆ.\n#daredevilmusthafa",
+          "link": "https://nitter.net/ShashankSoghal/status/1664608418806759424#m",
+          "publishedOn": "2023-06-02T12:22:28.000Z",
+          "wordCount": 187,
+          "title": "RT by @satishacharya: ಚಿಕ್ಕಮಗಳೂರಿನಲ್ಲಿ ಡೇರ್ಡೆವಿಲ್ ಮುಸ್ತಾಫಾ ನಾಗಲಕ್ಷ್ಮಿ ಚಿತ್ರಮಂದಿರದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗಿದೆ. ತೇಜಸ್ವಿ ಅವರ ಜಿಲ್ಲೆಯಲ್ಲಿ ಪ್ರದರ್ಶನ ಮಾಡಲು ಬೇಡಿಕೆಯಿತ್ತು.  ಈ ವಾರ ಬಂದಿದೆ. ಎಲ್ಲರೂ ಆದಷ್ಟು ಬೇಗ ನೋಡಿದರೆ ಹೆಚ್ಚಿನ ಪ್ರದರ್ಶನ ಮಾಡಲು ಅನುಕೂಲವಾಗುತ್ತದೆ.\nRT and pls help us to spread the word.\n#daredevilmusthafa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/nitinagarwalINC/status/1664602657435324416#m",
+          "author": "@nitinagarwalINC",
+          "description": "The single largest contributor to the BJP for decades was Mohammad Ali Jinnah's grandson Nusli Wadia. \n\nIts Jinnah's Grandson's money which helped BJP to lay their foundation.\n\nBJP will hide these facts today.",
+          "link": "https://nitter.net/nitinagarwalINC/status/1664602657435324416#m",
+          "publishedOn": "2023-06-02T11:59:35.000Z",
+          "wordCount": 251,
+          "title": "RT by @satishacharya: The single largest contributor to the BJP for decades was Mohammad Ali Jinnah's grandson Nusli Wadia. \n\nIts Jinnah's Grandson's money which helped BJP to lay their foundation.\n\nBJP will hide these facts today.",
+          "imageUrl": "https://nitter.net/pic/ext_tw_video_thumb%2F1664602500488630272%2Fpu%2Fimg%2FOLbXeEIUsYKtxHXo.jpg"
+        },
+        {
+          "id": "https://nitter.net/vijaylokapally/status/1664597191992967168#m",
+          "author": "@vijaylokapally",
+          "description": "Well done 1983 World Cup heroes 👏👏👏👏\n#WrestlersProtest",
+          "link": "https://nitter.net/vijaylokapally/status/1664597191992967168#m",
+          "publishedOn": "2023-06-02T11:37:51.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: Well done 1983 World Cup heroes 👏👏👏👏\n#WrestlersProtest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664537203115200514#m",
+          "author": "@satishacharya",
+          "description": "Kindly read the FIR details @narendramodi sir. Please don't shield this beast. 🙏 indianexpress.com/article/in…",
+          "link": "https://nitter.net/satishacharya/status/1664537203115200514#m",
+          "publishedOn": "2023-06-02T07:39:29.000Z",
+          "wordCount": null,
+          "title": "Kindly read the FIR details @narendramodi sir. Please don't shield this beast. 🙏 https://indianexpress.com/article/india/demands-for-sexual-favours-at-least-10-cases-of-molestation-detailed-in-2-firs-against-brij-bhushan-8641505/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664527871703126017#m",
+          "author": "@satishacharya",
+          "description": "Modi caricature shorts.  #shorts piped.video/oX3l4UJ05eQ",
+          "link": "https://nitter.net/satishacharya/status/1664527871703126017#m",
+          "publishedOn": "2023-06-02T07:02:24.000Z",
+          "wordCount": null,
+          "title": "Modi caricature shorts.  #shorts https://youtu.be/oX3l4UJ05eQ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/RahulMukherji5/status/1664518308161556481#m",
+          "author": "@RahulMukherji5",
+          "description": "I'm yet to see a head of govt from another country coming to India and painting a sorry image of his country. Why do you need to carry your domestic politics abroad? Why do you need to badmouth your predecessors? Unless you're incapable appreciating the gravity of your chair.\nnitter.net/cricketaakash/status/1664465386119770112#m",
+          "link": "https://nitter.net/RahulMukherji5/status/1664518308161556481#m",
+          "publishedOn": "2023-06-02T06:24:24.000Z",
+          "wordCount": 507,
+          "title": "RT by @satishacharya: I'm yet to see a head of govt from another country coming to India and painting a sorry image of his country. Why do you need to carry your domestic politics abroad? Why do you need to badmouth your predecessors? Unless you're incapable appreciating the gravity of your chair.",
+          "imageUrl": "https://nitter.net/pic/ext_tw_video_thumb%2F1664518294496321536%2Fpu%2Fimg%2FrZzwKZd2igvMFqli.jpg"
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664477424334274563#m",
+          "author": "@satishacharya",
+          "description": "Why are our cricketers silent? #WrestlersProtest",
+          "link": "https://nitter.net/satishacharya/status/1664477424334274563#m",
+          "publishedOn": "2023-06-02T03:41:57.000Z",
+          "wordCount": null,
+          "title": "Why are our cricketers silent? #WrestlersProtest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664465209761869824#m",
+          "author": "@satishacharya",
+          "description": "Resist and restrain! thevoiceoffashion.com/inters…",
+          "link": "https://nitter.net/satishacharya/status/1664465209761869824#m",
+          "publishedOn": "2023-06-02T02:53:24.000Z",
+          "wordCount": null,
+          "title": "Resist and restrain! https://thevoiceoffashion.com/intersections/culture/indian-female-wrestlers-the-body-politic-of-resistance-5518",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664457549029212160#m",
+          "author": "@satishacharya",
+          "description": "Haha. Sometimes I forget to add.",
+          "link": "https://nitter.net/satishacharya/status/1664457549029212160#m",
+          "publishedOn": "2023-06-02T02:22:58.000Z",
+          "wordCount": null,
+          "title": "R to @DaMoMusings: Haha. Sometimes I forget to add.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/DaMoMusings/status/1664210053396828160#m",
+          "author": "@DaMoMusings",
+          "description": "I spent two whole minutes searching for the peacock 😂",
+          "link": "https://nitter.net/DaMoMusings/status/1664210053396828160#m",
+          "publishedOn": "2023-06-01T09:59:30.000Z",
+          "wordCount": null,
+          "title": "R to @satishacharya: I spent two whole minutes searching for the peacock 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664209549300228099#m",
+          "author": "@satishacharya",
+          "description": "'They think they know more than God'- Rahul Gandhi\n@moliticsindia cartoon.",
+          "link": "https://nitter.net/satishacharya/status/1664209549300228099#m",
+          "publishedOn": "2023-06-01T09:57:30.000Z",
+          "wordCount": null,
+          "title": "'They think they know more than God'- Rahul Gandhi\n@moliticsindia cartoon.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664197873796530177#m",
+          "author": "@satishacharya",
+          "description": "Great opportunity to get in. This is going to be a great ride.",
+          "link": "https://nitter.net/satishacharya/status/1664197873796530177#m",
+          "publishedOn": "2023-06-01T09:11:07.000Z",
+          "wordCount": null,
+          "title": "R to @agnimax: Great opportunity to get in. This is going to be a great ride.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/moliticsindia/status/1664187583600156672#m",
+          "author": "@moliticsindia",
+          "description": "अपुन ही भगवान है....!\n#RahulGandhi \n#NarendraModi\n@satishacharya",
+          "link": "https://nitter.net/moliticsindia/status/1664187583600156672#m",
+          "publishedOn": "2023-06-01T08:30:13.000Z",
+          "wordCount": 211,
+          "title": "RT by @satishacharya: अपुन ही भगवान है....!\n#RahulGandhi \n#NarendraModi\n- @satishacharya",
+          "imageUrl": "https://nitter.net/pic/media%2FFxhhxuSWAAACy0K.jpg"
+        },
+        {
+          "id": "https://nitter.net/agnimax/status/1664186942509174785#m",
+          "author": "@agnimax",
+          "description": "Attention all meme enthusiasts!🚀\n@6529Collections, now is your chance! They have 12 incredible meme cards available at or below mint price. \nDon't wait too long, as these prices won't stay low forever.",
+          "link": "https://nitter.net/agnimax/status/1664186942509174785#m",
+          "publishedOn": "2023-06-01T08:27:40.000Z",
+          "wordCount": null,
+          "title": "Attention all meme enthusiasts!🚀\nIf you've been waiting for the perfect opportunity to dive into the world of @6529Collections, now is your chance! They have 12 incredible meme cards available at or below mint price. \nDon't wait too long, as these prices won't stay low forever.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664113654760112128#m",
+          "author": "@satishacharya",
+          "description": "From Gujarat to Chennai! @fpjindia cartoon. #IPL2023Final #GujaratTitans #ChennaiSuperKings #Sengol",
+          "link": "https://nitter.net/satishacharya/status/1664113654760112128#m",
+          "publishedOn": "2023-06-01T03:36:27.000Z",
+          "wordCount": null,
+          "title": "From Gujarat to Chennai! @fpjindia cartoon. #IPL2023Final #GujaratTitans #ChennaiSuperKings #Sengol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1664106606567780359#m",
+          "author": "@satishacharya",
+          "description": "Happy to see at least some people listening to their inner voice! 🙏\nnitter.net/ss_suryawanshi/status/1663931246127509506#m",
+          "link": "https://nitter.net/satishacharya/status/1664106606567780359#m",
+          "publishedOn": "2023-06-01T03:08:27.000Z",
+          "wordCount": null,
+          "title": "Happy to see at least some people listening to their inner voice! 🙏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/pbhushan1/status/1663935923069886466#m",
+          "author": "@pbhushan1",
+          "description": "\"SC Committee on Hindenburg Saga Flags ‘Onerous’ Disclosures. Uses Questionable Logic To Recommend Dilution of Norms for Corporate India\". Must read this fine analysis by @suchetadalal\nmoneylife.in/article/sc-comm…",
+          "link": "https://nitter.net/pbhushan1/status/1663935923069886466#m",
+          "publishedOn": "2023-05-31T15:50:13.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: \"SC Committee on Hindenburg Saga Flags ‘Onerous’ Disclosures. Uses Questionable Logic To Recommend Dilution of Norms for Corporate India\". Must read this fine analysis by @suchetadalal\nSeems that the committee is keener on giving a free pass to Adani than protecting investor interest\nhttps://www.moneylife.in/article/sc-committee-on-hindenburg-saga-flags-onerous-disclosures-uses-questionable-logic-to-recommend-dilution-of-norms-for-corporate-india/70948.html",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1663863156001890304#m",
+          "author": "@satishacharya",
+          "description": "Dhoni lifts IPL trophy for the fifth time! #Dhoni #CSK #ipl2023 @TheSouthfirst  cartoon,",
+          "link": "https://nitter.net/satishacharya/status/1663863156001890304#m",
+          "publishedOn": "2023-05-31T11:01:04.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: Dhoni lifts IPL trophy for the fifth time! #Dhoni #CSK #ipl2023 @TheSouthfirst  cartoon,",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/satishacharya/status/1663745946348552193#m",
+          "author": "@satishacharya",
+          "description": "Protesting wrestlers want to drop their medals in the Ganga river. #WrestlersProtest",
+          "link": "https://nitter.net/satishacharya/status/1663745946348552193#m",
+          "publishedOn": "2023-05-31T03:15:19.000Z",
+          "wordCount": null,
+          "title": "RT by @satishacharya: Protesting wrestlers want to drop their medals in the Ganga river. #WrestlersProtest",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "MANJUL / @MANJULtoons",
+      "feedUrl": "https://nitter.net/MANJULtoons/with_replies/rss",
+      "siteUrl": "https://nitter.net/MANJULtoons",
+      "articles": [
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664648070896971776#m",
+          "author": "@MANJULtoons",
+          "description": "#Modi #Sengol #BrijBhushanSharanSingh #AmitShah #DelhiPolice #MANJULtoons @newslaundry  #Cartoon",
+          "link": "https://nitter.net/MANJULtoons/status/1664648070896971776#m",
+          "publishedOn": "2023-06-02T15:00:02.000Z",
+          "wordCount": null,
+          "title": "#Modi #Sengol #BrijBhushanSharanSingh #AmitShah #DelhiPolice #MANJULtoons @newslaundry  #Cartoon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/newslaundry/status/1664610313512124416#m",
+          "author": "@newslaundry",
+          "description": "This week's #SoSketchy by @MANJULtoons🔽\nnewslaundry.com/subscription…",
+          "link": "https://nitter.net/newslaundry/status/1664610313512124416#m",
+          "publishedOn": "2023-06-02T12:30:00.000Z",
+          "wordCount": 70,
+          "title": "RT by @MANJULtoons: This week's #SoSketchy by @MANJULtoons🔽\n\nSubscribe to Newslaundry to help us revive the fading tradition of political commentary through cartoons: https://www.newslaundry.com/subscription?ref=sosketchy",
+          "imageUrl": "https://nitter.net/pic/media%2FFxnK72IakAEURhk.jpg"
+        },
+        {
+          "id": "https://nitter.net/nlhindi/status/1664609513692073986#m",
+          "author": "@nlhindi",
+          "description": "भारत में कार्टूनिस्टों पर अपनी स्वतंत्र अभिव्यक्ति को सीमित कर देने का दबाव है जिससे वे सत्तारूढ़ लोगों को चिढ़ा न दें.\n@MANJULtoons का यह साप्ताहिक स्तंभ \"औघट घाट\" इस दबाव को कम करने का एक प्रयास है.\nnewslaundry.com/subscription…",
+          "link": "https://nitter.net/nlhindi/status/1664609513692073986#m",
+          "publishedOn": "2023-06-02T12:26:49.000Z",
+          "wordCount": 111,
+          "title": "RT by @MANJULtoons: भारत में कार्टूनिस्टों पर अपनी स्वतंत्र अभिव्यक्ति को सीमित कर देने का दबाव है जिससे वे सत्तारूढ़ लोगों को चिढ़ा न दें.\n\nन्यूज़लॉन्ड्री पर कार्टूनिस्ट @MANJULtoons का यह साप्ताहिक स्तंभ \"औघट घाट\" इस दबाव को कम करने का एक प्रयास है.\n\nहमारा समर्थन करें: http://newslaundry.com/subscription?r",
+          "imageUrl": "https://nitter.net/pic/media%2FFxnhhcsagAIZu89.jpg"
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664605514762956801#m",
+          "author": "@MANJULtoons",
+          "description": "patreon.com/posts/our-protec…",
+          "link": "https://nitter.net/MANJULtoons/status/1664605514762956801#m",
+          "publishedOn": "2023-06-02T12:10:56.000Z",
+          "wordCount": 30,
+          "title": "patreon.com/posts/our-protec…",
+          "imageUrl": "https://nitter.net/pic/card_img%2F1664605517761880064%2FGENurfFB%3Fformat%3Djpg%26name%3D800x419"
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664601699959590913#m",
+          "author": "@MANJULtoons",
+          "description": "patreon.com/posts/brijbhusha…",
+          "link": "https://nitter.net/MANJULtoons/status/1664601699959590913#m",
+          "publishedOn": "2023-06-02T11:55:46.000Z",
+          "wordCount": 53,
+          "title": "patreon.com/posts/brijbhusha…",
+          "imageUrl": "https://nitter.net/pic/card_img%2F1664601662198272001%2FD9REVAlN%3Fformat%3Djpg%26name%3D800x419"
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664592619899613185#m",
+          "author": "@MANJULtoons",
+          "description": "पीएम ने कहा होगा अभी तुम चुप रहो...\nnitter.net/Aakar__Patel/status/1664538299502034945#m",
+          "link": "https://nitter.net/MANJULtoons/status/1664592619899613185#m",
+          "publishedOn": "2023-06-02T11:19:41.000Z",
+          "wordCount": 148,
+          "title": "पीएम ने कहा होगा अभी तुम चुप रहो...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664575672201904130#m",
+          "author": "@MANJULtoons",
+          "description": "Aapko shaq hai?",
+          "link": "https://nitter.net/MANJULtoons/status/1664575672201904130#m",
+          "publishedOn": "2023-06-02T10:12:21.000Z",
+          "wordCount": 174,
+          "title": "R to @Pawankhera: Aapko shaq hai?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664550249950769153#m",
+          "author": "@MANJULtoons",
+          "description": "ये वाला चैप्टर पाठ्यक्रम से हटा दिया गया है।",
+          "link": "https://nitter.net/MANJULtoons/status/1664550249950769153#m",
+          "publishedOn": "2023-06-02T08:31:20.000Z",
+          "wordCount": null,
+          "title": "ये वाला चैप्टर पाठ्यक्रम से हटा दिया गया है।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664532066959241216#m",
+          "author": "@MANJULtoons",
+          "description": "#ModiGovt #NineYearsOfModiGovt #WrestlersProtest #BrijBhushanSharanSingh  #MANJULtoons",
+          "link": "https://nitter.net/MANJULtoons/status/1664532066959241216#m",
+          "publishedOn": "2023-06-02T07:19:04.000Z",
+          "wordCount": 127,
+          "title": "RT by @MANJULtoons: #ModiGovt #NineYearsOfModiGovt #WrestlersProtest #BrijBhushanSharanSingh  #MANJULtoons",
+          "imageUrl": "https://nitter.net/pic/media%2FFxmbCCAaUAAR5SW.jpg"
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664522399021416449#m",
+          "author": "@MANJULtoons",
+          "description": "ek 15 rupay ka medal to delhi police ke liye bhi banta hai aur mantri ji ke liye bhi",
+          "link": "https://nitter.net/MANJULtoons/status/1664522399021416449#m",
+          "publishedOn": "2023-06-02T06:40:39.000Z",
+          "wordCount": null,
+          "title": "ek 15 rupay ka medal to delhi police ke liye bhi banta hai aur mantri ji ke liye bhi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/ETPrime_com/status/1664497067073437701#m",
+          "author": "@ETPrime_com",
+          "description": "#Greentoon of the day by @MANJULtoons",
+          "link": "https://nitter.net/ETPrime_com/status/1664497067073437701#m",
+          "publishedOn": "2023-06-02T05:00:00.000Z",
+          "wordCount": 33,
+          "title": "RT by @MANJULtoons: #Greentoon of the day by @MANJULtoons",
+          "imageUrl": "https://nitter.net/pic/media%2FFxlAVPZaMAANjtl.jpg"
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664453026894192640#m",
+          "author": "@MANJULtoons",
+          "description": "न्यूज़ एंकरों को लगता है कि अफवाहों को बढ़ाना, नफरत फैलाना और व्हाट्सएप पर आये संदेशों को लोगों को बताना जैसे गैर जिम्मेदाराना काम करने के लिए उनका उपहास नही किया जा सकता क्योंकि ये सब करते समय चैनल का लोगो और माइक उनके हाथ में नहीं था।",
+          "link": "https://nitter.net/MANJULtoons/status/1664453026894192640#m",
+          "publishedOn": "2023-06-02T02:05:00.000Z",
+          "wordCount": 191,
+          "title": "न्यूज़ एंकरों को लगता है कि अफवाहों को बढ़ाना, नफरत फैलाना और व्हाट्सएप पर आये संदेशों को लोगों को बताना जैसे गैर जिम्मेदाराना काम करने के लिए उनका उपहास नही किया जा सकता क्योंकि ये सब करते समय चैनल का लोगो और माइक उनके हाथ में नहीं था।",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664447916982042625#m",
+          "author": "@MANJULtoons",
+          "description": "",
+          "link": "https://nitter.net/MANJULtoons/status/1664447916982042625#m",
+          "publishedOn": "2023-06-02T01:44:42.000Z",
+          "wordCount": null,
+          "title": "Image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/Pawankhera/status/1664354533445877760#m",
+          "author": "@Pawankhera",
+          "description": "अनपढ़ हो भाई? \ntimesofindia.indiatimes.com/…\nnitter.net/amitmalviya/status/1664348844958556165#m",
+          "link": "https://nitter.net/Pawankhera/status/1664354533445877760#m",
+          "publishedOn": "2023-06-01T19:33:37.000Z",
+          "wordCount": 625,
+          "title": "अनपढ़ हो भाई? \nकेरल की मुस्लिम लीग और जिन्ना की मुस्लिम लीग में फ़र्क़ नहीं मालूम?  \nजिन्ना वाली मुस्लिम लीग वो जिस के साथ तुम्हारे पूर्वजों ने गठबंधन किया। \nदूसरी वाली मुस्लिम लीग वो, जिसके साथ भाजपा ने गठबंधन किया था : \nhttps://timesofindia.indiatimes.com/city/nagpur/bjp-inducts-muslim-league-to-rule-nagpur/articleshow/12013513.cms",
+          "imageUrl": "https://nitter.net/pic/card_img%2F1662020416905289729%2FEYWiQR9F%3Fformat%3Djpg%26name%3D800x419"
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664299685492785153#m",
+          "author": "@MANJULtoons",
+          "description": "patreon.com/posts/gdp-figure…",
+          "link": "https://nitter.net/MANJULtoons/status/1664299685492785153#m",
+          "publishedOn": "2023-06-01T15:55:40.000Z",
+          "wordCount": null,
+          "title": "patreon.com/posts/gdp-figure…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664298746929086464#m",
+          "author": "@MANJULtoons",
+          "description": "patreon.com/posts/ncert-syll…",
+          "link": "https://nitter.net/MANJULtoons/status/1664298746929086464#m",
+          "publishedOn": "2023-06-01T15:51:57.000Z",
+          "wordCount": null,
+          "title": "patreon.com/posts/ncert-syll…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664297855304060929#m",
+          "author": "@MANJULtoons",
+          "description": "patreon.com/posts/women-athl…",
+          "link": "https://nitter.net/MANJULtoons/status/1664297855304060929#m",
+          "publishedOn": "2023-06-01T15:48:24.000Z",
+          "wordCount": null,
+          "title": "patreon.com/posts/women-athl…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664296005003558914#m",
+          "author": "@MANJULtoons",
+          "description": "patreon.com/posts/234-839049…",
+          "link": "https://nitter.net/MANJULtoons/status/1664296005003558914#m",
+          "publishedOn": "2023-06-01T15:41:03.000Z",
+          "wordCount": null,
+          "title": "patreon.com/posts/234-839049…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/AtulyaGanga/status/1664168870532493314#m",
+          "author": "@AtulyaGanga",
+          "description": "The Rivers are dead. \n#saverivers\nnitter.net/ETPrime_com/status/1664134683645362178#m",
+          "link": "https://nitter.net/AtulyaGanga/status/1664168870532493314#m",
+          "publishedOn": "2023-06-01T07:15:52.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: The Rivers are dead. \n\nWhat flows is their tears that they've shed.\n\n#saverivers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/MANJULtoons/status/1664151907902935041#m",
+          "author": "@MANJULtoons",
+          "description": "पहलवानों के नहीं, ख़ुद के चाहिये।\nnitter.net/ETPrime_com/status/1664134683645362178#m",
+          "link": "https://nitter.net/MANJULtoons/status/1664151907902935041#m",
+          "publishedOn": "2023-06-01T06:08:27.000Z",
+          "wordCount": null,
+          "title": "RT by @MANJULtoons: पहलवानों के नहीं, ख़ुद के चाहिये।",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Rakesh Ranjan / @cartoonistrrs",
+      "feedUrl": "https://nitter.net/cartoonistrrs/with_replies/rss",
+      "siteUrl": "https://nitter.net/cartoonistrrs",
+      "articles": [
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664602340522094592#m",
+          "author": "@cartoonistrrs",
+          "description": "चित्रा\nnitter.net/MANJULtoons/status/1664550249950769153#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664602340522094592#m",
+          "publishedOn": "2023-06-02T11:58:19.000Z",
+          "wordCount": null,
+          "title": "चित्रा",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664601937315262467#m",
+          "author": "@cartoonistrrs",
+          "description": "मोदी की बाते",
+          "link": "https://nitter.net/cartoonistrrs/status/1664601937315262467#m",
+          "publishedOn": "2023-06-02T11:56:43.000Z",
+          "wordCount": null,
+          "title": "मोदी की बाते",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/moliticsindia/status/1664596318000668672#m",
+          "author": "@moliticsindia",
+          "description": "मैं देश नहीं बिकने दूंगा...!\n#CoalIndia \n@cartoonistrrs",
+          "link": "https://nitter.net/moliticsindia/status/1664596318000668672#m",
+          "publishedOn": "2023-06-02T11:34:23.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: मैं देश नहीं बिकने दूंगा...!\n#CoalIndia \n- @cartoonistrrs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664474664704397313#m",
+          "author": "@cartoonistrrs",
+          "description": "2 June",
+          "link": "https://nitter.net/cartoonistrrs/status/1664474664704397313#m",
+          "publishedOn": "2023-06-02T03:30:59.000Z",
+          "wordCount": null,
+          "title": "2 June",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664461909058547712#m",
+          "author": "@cartoonistrrs",
+          "description": "क्या यह सच है ?\n#justasking\nnitter.net/jitendrainc18/status/1664251797391970306#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664461909058547712#m",
+          "publishedOn": "2023-06-02T02:40:17.000Z",
+          "wordCount": null,
+          "title": "क्या यह सच है ?\n#justasking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664460982478057476#m",
+          "author": "@cartoonistrrs",
+          "description": "मैं देश नहीं बिकने दूंगा",
+          "link": "https://nitter.net/cartoonistrrs/status/1664460982478057476#m",
+          "publishedOn": "2023-06-02T02:36:37.000Z",
+          "wordCount": null,
+          "title": "मैं देश नहीं बिकने दूंगा",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664324435204272128#m",
+          "author": "@cartoonistrrs",
+          "description": "TRP must have increased\nnitter.net/Ashok_Kashmir/status/1664320426515001344#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664324435204272128#m",
+          "publishedOn": "2023-06-01T17:34:01.000Z",
+          "wordCount": null,
+          "title": "TRP must have increased",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664289889473662976#m",
+          "author": "@cartoonistrrs",
+          "description": "एक कहावत है - न राधा नाचेगी और न नव मन तेल होगा (न बृजभूषण आरोपी साबित होगा और  न उसे फांसी होगी )\nnitter.net/dnetta/status/1664245289987850242#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664289889473662976#m",
+          "publishedOn": "2023-06-01T15:16:45.000Z",
+          "wordCount": null,
+          "title": "एक कहावत है - न राधा नाचेगी और न नव मन तेल होगा (न बृजभूषण आरोपी साबित होगा और  न उसे फांसी होगी )",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/AnumaVidisha/status/1664273849050095621#m",
+          "author": "@AnumaVidisha",
+          "description": "काश ऐसा ही होता! \n#WrestlerProtest",
+          "link": "https://nitter.net/AnumaVidisha/status/1664273849050095621#m",
+          "publishedOn": "2023-06-01T14:13:00.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: काश ऐसा ही होता! \nलेकिन मोदी सरकार का ढीठपन अपने चरम पर है. \n#WrestlerProtest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664273618946392071#m",
+          "author": "@cartoonistrrs",
+          "description": "moon❤️\nClicked by -self",
+          "link": "https://nitter.net/cartoonistrrs/status/1664273618946392071#m",
+          "publishedOn": "2023-06-01T14:12:06.000Z",
+          "wordCount": null,
+          "title": "moon❤️\nClicked by -self",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664271705249058821#m",
+          "author": "@cartoonistrrs",
+          "description": "चाहे स्वेता हो, अंजना, चित्रा, सुधीर, अमिश, अर्नब या नविका हो, अपना छीछा लेदर करवा कर कैमरा कैसे फेस कर पाते हैं\n#justasking",
+          "link": "https://nitter.net/cartoonistrrs/status/1664271705249058821#m",
+          "publishedOn": "2023-06-01T14:04:29.000Z",
+          "wordCount": null,
+          "title": "चाहे स्वेता हो, अंजना, चित्रा, सुधीर, अमिश, अर्नब या नविका हो, अपना छीछा लेदर करवा कर कैमरा कैसे फेस कर पाते हैं\n#justasking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664263494487932941#m",
+          "author": "@cartoonistrrs",
+          "description": "दिहाड़ी भाई ये देखो\nnitter.net/sudhirchaudhary/status/1664128309297332227#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664263494487932941#m",
+          "publishedOn": "2023-06-01T13:31:52.000Z",
+          "wordCount": null,
+          "title": "दिहाड़ी भाई ये देखो",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664234160372826114#m",
+          "author": "@cartoonistrrs",
+          "description": "Get Well Soon Paa ji, लेकिन ज्यादा तीखा न खाया करें\nnitter.net/ZackRhea/status/1663889689148014598#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664234160372826114#m",
+          "publishedOn": "2023-06-01T11:35:18.000Z",
+          "wordCount": null,
+          "title": "Get Well Soon Paa ji, लेकिन ज्यादा तीखा न खाया करें",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664221885305946112#m",
+          "author": "@cartoonistrrs",
+          "description": ".@amitmalviya कुछ समझ आया की नहीं\nnitter.net/nitinagarwalINC/status/1664201184088055810#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664221885305946112#m",
+          "publishedOn": "2023-06-01T10:46:31.000Z",
+          "wordCount": null,
+          "title": ".@amitmalviya कुछ समझ आया की नहीं",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664207371793760257#m",
+          "author": "@cartoonistrrs",
+          "description": ".@SwetaSinghAT how’s the josh",
+          "link": "https://nitter.net/cartoonistrrs/status/1664207371793760257#m",
+          "publishedOn": "2023-06-01T09:48:51.000Z",
+          "wordCount": null,
+          "title": ".@SwetaSinghAT how’s the josh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664197398623551491#m",
+          "author": "@cartoonistrrs",
+          "description": "क्या भारत में, मस्जिदों का भारतीयकरण हो रहा है.. ऐसा भी कह सकते हैं क्या ?\nnitter.net/aajtak/status/1664190899599949824#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664197398623551491#m",
+          "publishedOn": "2023-06-01T09:09:13.000Z",
+          "wordCount": null,
+          "title": "क्या भारत में, मस्जिदों का भारतीयकरण हो रहा है.. ऐसा भी कह सकते हैं क्या ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664196489927618561#m",
+          "author": "@cartoonistrrs",
+          "description": "सुनिए ऐसा है, मोदी देश नहीं है , देश का सिर्फ नेतृत्व करते हैं | देश जहाँ है वही रहेगा हमेशा और प्रधानमंत्री आते जाते रहेंगे @ianuragthakur\nnitter.net/ABPNews/status/1664170627761315840#m",
+          "link": "https://nitter.net/cartoonistrrs/status/1664196489927618561#m",
+          "publishedOn": "2023-06-01T09:05:37.000Z",
+          "wordCount": null,
+          "title": "सुनिए ऐसा है, मोदी देश नहीं है , देश का सिर्फ नेतृत्व करते हैं | देश जहाँ है वही रहेगा हमेशा और प्रधानमंत्री आते जाते रहेंगे @ianuragthakur",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664195523186683904#m",
+          "author": "@cartoonistrrs",
+          "description": "क्या प्रधानमंत्री ने पार्लियामेंट के डिज़ाइन की नक़ल की है?\n#justasking",
+          "link": "https://nitter.net/cartoonistrrs/status/1664195523186683904#m",
+          "publishedOn": "2023-06-01T09:01:46.000Z",
+          "wordCount": null,
+          "title": "क्या प्रधानमंत्री ने पार्लियामेंट के डिज़ाइन की नक़ल की है?\n#justasking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/cartoonistrrs/status/1664184930467991553#m",
+          "author": "@cartoonistrrs",
+          "description": "बुरा फंसे मोदी जी",
+          "link": "https://nitter.net/cartoonistrrs/status/1664184930467991553#m",
+          "publishedOn": "2023-06-01T08:19:41.000Z",
+          "wordCount": null,
+          "title": "RT by @cartoonistrrs: बुरा फंसे मोदी जी",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "cartoonist kaptan / @irshadkaptan1",
+      "feedUrl": "https://nitter.net/irshadkaptan1/with_replies/rss",
+      "siteUrl": "https://nitter.net/irshadkaptan1",
+      "articles": [
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1664208685684633601#m",
+          "author": "@irshadkaptan1",
+          "description": "#WorldMilkDay",
+          "link": "https://nitter.net/irshadkaptan1/status/1664208685684633601#m",
+          "publishedOn": "2023-06-01T09:54:04.000Z",
+          "wordCount": null,
+          "title": "#WorldMilkDay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1663907409486594054#m",
+          "author": "@irshadkaptan1",
+          "description": "",
+          "link": "https://nitter.net/irshadkaptan1/status/1663907409486594054#m",
+          "publishedOn": "2023-05-31T13:56:54.000Z",
+          "wordCount": null,
+          "title": "Image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1662851140919365633#m",
+          "author": "@irshadkaptan1",
+          "description": "#NewParliament #JantarMantar",
+          "link": "https://nitter.net/irshadkaptan1/status/1662851140919365633#m",
+          "publishedOn": "2023-05-28T15:59:40.000Z",
+          "wordCount": null,
+          "title": "#NewParliament #JantarMantar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1662363636114034688#m",
+          "author": "@irshadkaptan1",
+          "description": "#UPSC2023 #Results #Whatsapp #whatsapp_univercity",
+          "link": "https://nitter.net/irshadkaptan1/status/1662363636114034688#m",
+          "publishedOn": "2023-05-27T07:42:30.000Z",
+          "wordCount": null,
+          "title": "#UPSC2023 #Results #Whatsapp #whatsapp_univercity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1661661310994771969#m",
+          "author": "@irshadkaptan1",
+          "description": "#CentralVista #NewParliament #opening #Inauguration",
+          "link": "https://nitter.net/irshadkaptan1/status/1661661310994771969#m",
+          "publishedOn": "2023-05-25T09:11:43.000Z",
+          "wordCount": null,
+          "title": "#CentralVista #NewParliament #opening #Inauguration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1660939786520231936#m",
+          "author": "@irshadkaptan1",
+          "description": "#WeatherUpdate #Weather #Weathercloud #changingweather",
+          "link": "https://nitter.net/irshadkaptan1/status/1660939786520231936#m",
+          "publishedOn": "2023-05-23T09:24:38.000Z",
+          "wordCount": null,
+          "title": "#WeatherUpdate #Weather #Weathercloud #changingweather",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1659860298617225216#m",
+          "author": "@irshadkaptan1",
+          "description": "#2000Note",
+          "link": "https://nitter.net/irshadkaptan1/status/1659860298617225216#m",
+          "publishedOn": "2023-05-20T09:55:08.000Z",
+          "wordCount": null,
+          "title": "#2000Note",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1658727156598575110#m",
+          "author": "@irshadkaptan1",
+          "description": "#KarnatakaCM #Karnataka",
+          "link": "https://nitter.net/irshadkaptan1/status/1658727156598575110#m",
+          "publishedOn": "2023-05-17T06:52:26.000Z",
+          "wordCount": null,
+          "title": "#KarnatakaCM #Karnataka",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1658376729508089856#m",
+          "author": "@irshadkaptan1",
+          "description": "#KarnatakaCM",
+          "link": "https://nitter.net/irshadkaptan1/status/1658376729508089856#m",
+          "publishedOn": "2023-05-16T07:39:58.000Z",
+          "wordCount": null,
+          "title": "#KarnatakaCM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1657749196106080256#m",
+          "author": "@irshadkaptan1",
+          "description": "#happymothersday2023",
+          "link": "https://nitter.net/irshadkaptan1/status/1657749196106080256#m",
+          "publishedOn": "2023-05-14T14:06:22.000Z",
+          "wordCount": null,
+          "title": "#happymothersday2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1657749094255788034#m",
+          "author": "@irshadkaptan1",
+          "description": "#MothersDay #happymothersday2023",
+          "link": "https://nitter.net/irshadkaptan1/status/1657749094255788034#m",
+          "publishedOn": "2023-05-14T14:05:58.000Z",
+          "wordCount": null,
+          "title": "#MothersDay #happymothersday2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1657748926785789952#m",
+          "author": "@irshadkaptan1",
+          "description": "#MothersDay #HappyMotherDay",
+          "link": "https://nitter.net/irshadkaptan1/status/1657748926785789952#m",
+          "publishedOn": "2023-05-14T14:05:18.000Z",
+          "wordCount": null,
+          "title": "#MothersDay #HappyMotherDay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1657604374879784964#m",
+          "author": "@irshadkaptan1",
+          "description": "#HappyMothersDay #KarnatakaElectionResults #MothersDay #KarnatakaElectionResults #",
+          "link": "https://nitter.net/irshadkaptan1/status/1657604374879784964#m",
+          "publishedOn": "2023-05-14T04:30:54.000Z",
+          "wordCount": null,
+          "title": "#HappyMothersDay #KarnatakaElectionResults #MothersDay #KarnatakaElectionResults #",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1656956016184168448#m",
+          "author": "@irshadkaptan1",
+          "description": "#ExitPolls #ExitPoll #KarnatakaElection2023 #Karnatakaexitpoll2023",
+          "link": "https://nitter.net/irshadkaptan1/status/1656956016184168448#m",
+          "publishedOn": "2023-05-12T09:34:33.000Z",
+          "wordCount": 41,
+          "title": "#ExitPolls #ExitPoll #KarnatakaElection2023 #Karnatakaexitpoll2023",
+          "imageUrl": "https://nitter.net/pic/media%2FFv6wtu7XoAAMS25.jpg"
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1656173636817137665#m",
+          "author": "@irshadkaptan1",
+          "description": "#karala #KeralaStory #propaganda_movie #Kerala",
+          "link": "https://nitter.net/irshadkaptan1/status/1656173636817137665#m",
+          "publishedOn": "2023-05-10T05:45:39.000Z",
+          "wordCount": null,
+          "title": "#karala #KeralaStory #propaganda_movie #Kerala",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/irshadkaptan1/status/1655828026893168640#m",
+          "author": "@irshadkaptan1",
+          "description": "#KarnatakaAssemblyElection2023 #NarendraModi @narendramodi @AmitShah @BJP4India @BJP4Karnataka",
+          "link": "https://nitter.net/irshadkaptan1/status/1655828026893168640#m",
+          "publishedOn": "2023-05-09T06:52:20.000Z",
+          "wordCount": null,
+          "title": "#KarnatakaAssemblyElection2023 #NarendraModi @narendramodi @AmitShah @BJP4India @BJP4Karnataka",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "IdharUdhar / @IdharUddhar",
+      "feedUrl": "https://nitter.net/IdharUddhar/with_replies/rss",
+      "siteUrl": "https://nitter.net/IdharUddhar",
+      "articles": [
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1664735187228344328#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR- oHERALDo- 03JUNE2023",
+          "link": "https://nitter.net/IdharUddhar/status/1664735187228344328#m",
+          "publishedOn": "2023-06-02T20:46:12.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR- oHERALDo- 03JUNE2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1664475303345782786#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR- oHERALDo- 2 JUN 2023",
+          "link": "https://nitter.net/IdharUddhar/status/1664475303345782786#m",
+          "publishedOn": "2023-06-02T03:33:31.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR- oHERALDo- 2 JUN 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1664099338300141573#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR- oHERALDo- 1 JUNE 2023",
+          "link": "https://nitter.net/IdharUddhar/status/1664099338300141573#m",
+          "publishedOn": "2023-06-01T02:39:34.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR- oHERALDo- 1 JUNE 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1663741445264789504#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR-oHERALDo-31MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1663741445264789504#m",
+          "publishedOn": "2023-05-31T02:57:26.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR-oHERALDo-31MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1663379150013358081#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR-oHEARLDo-30MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1663379150013358081#m",
+          "publishedOn": "2023-05-30T02:57:48.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR-oHEARLDo-30MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1663012573329993730#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR-oHERALDo-29MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1663012573329993730#m",
+          "publishedOn": "2023-05-29T02:41:09.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR-oHERALDo-29MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1662690606785634304#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR-oHERALDo-28MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1662690606785634304#m",
+          "publishedOn": "2023-05-28T05:21:46.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR-oHERALDo-28MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1662318897175973888#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR-oHERALDo-27MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1662318897175973888#m",
+          "publishedOn": "2023-05-27T04:44:44.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR-oHERALDo-27MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1661905411967012864#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR@oHERALDo-26MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1661905411967012864#m",
+          "publishedOn": "2023-05-26T01:21:41.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR@oHERALDo-26MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1661542617778208768#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR@oHERALDo-25MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1661542617778208768#m",
+          "publishedOn": "2023-05-25T01:20:04.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR@oHERALDo-25MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1661212740432609281#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR -oHERALDo-24MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1661212740432609281#m",
+          "publishedOn": "2023-05-24T03:29:15.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR -oHERALDo-24MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1661027067469742082#m",
+          "author": "@IdharUddhar",
+          "description": "Who said they are Goans?",
+          "link": "https://nitter.net/IdharUddhar/status/1661027067469742082#m",
+          "publishedOn": "2023-05-23T15:11:27.000Z",
+          "wordCount": null,
+          "title": "R to @nitnet2k: Who said they are Goans?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/nitnet2k/status/1660996140123435010#m",
+          "author": "@nitnet2k",
+          "description": "Goan are susegaad  but are not bhikari. . dont spoil goan image.",
+          "link": "https://nitter.net/nitnet2k/status/1660996140123435010#m",
+          "publishedOn": "2023-05-23T13:08:34.000Z",
+          "wordCount": null,
+          "title": "R to @IdharUddhar: Goan are susegaad  but are not bhikari. . dont spoil goan image.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1660839464560721922#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR@oHERALDo-23MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1660839464560721922#m",
+          "publishedOn": "2023-05-23T02:45:59.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR@oHERALDo-23MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1660454587558445059#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR @oHERALDo-22MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1660454587558445059#m",
+          "publishedOn": "2023-05-22T01:16:38.000Z",
+          "wordCount": 24,
+          "title": "IDHARUDHAR @oHERALDo-22MAY2023",
+          "imageUrl": "https://nitter.net/pic/media%2FFwseo2HX0AAxXeA.jpg"
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1660163314666680321#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR @oHERALDo-21MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1660163314666680321#m",
+          "publishedOn": "2023-05-21T05:59:13.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR @oHERALDo-21MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1659782468763807745#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR@oHERALDo-20MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1659782468763807745#m",
+          "publishedOn": "2023-05-20T04:45:52.000Z",
+          "wordCount": 22,
+          "title": "IDHARUDHAR@oHERALDo-20MAY2023",
+          "imageUrl": "https://nitter.net/pic/media%2FFwi7WsqXgAI-A_u.jpg"
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1659367515028434947#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR@oHERALDo-19MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1659367515028434947#m",
+          "publishedOn": "2023-05-19T01:16:59.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR@oHERALDo-19MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1659005777841889286#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR@oHERALDo-18MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1659005777841889286#m",
+          "publishedOn": "2023-05-18T01:19:34.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR@oHERALDo-18MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1658667163534647296#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR @oHERALDo-17MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1658667163534647296#m",
+          "publishedOn": "2023-05-17T02:54:02.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR @oHERALDo-17MAY2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nitter.net/IdharUddhar/status/1658281080120541185#m",
+          "author": "@IdharUddhar",
+          "description": "IDHARUDHAR @oHERALDo-16MAY2023",
+          "link": "https://nitter.net/IdharUddhar/status/1658281080120541185#m",
+          "publishedOn": "2023-05-16T01:19:53.000Z",
+          "wordCount": null,
+          "title": "IDHARUDHAR @oHERALDo-16MAY2023",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
